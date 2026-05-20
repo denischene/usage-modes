@@ -88,11 +88,6 @@ function SiteHeader() {
             <span className="text-xs text-muted-foreground">Accessibilité ergonomique</span>
           </span>
         </Link>
-        <nav aria-label="Navigation principale" className="flex flex-wrap gap-x-5 gap-y-2 text-sm font-semibold">
-          <Link to="/" activeOptions={{ exact: true }} activeProps={{ className: "text-primary underline" }}>Accueil</Link>
-          <Link to="/modes" activeProps={{ className: "text-primary underline" }}>Tous les modes</Link>
-          <Link to="/a-propos" activeProps={{ className: "text-primary underline" }}>À propos</Link>
-        </nav>
       </div>
     </header>
   );

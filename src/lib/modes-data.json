@@ -1,0 +1,504 @@
+[
+  {
+    "label": "Facile+",
+    "slug": "facile-p",
+    "picto": "/pictos/facile-p.svg",
+    "sections": {
+      "perception": [
+        "/illustrations/facile-p_perception_facile-p_perception-334.png",
+        "/illustrations/facile-p_perception_facile-p_perception-387.png",
+        "/illustrations/facile-p_perception_facile-p_perception-417.png",
+        "/illustrations/facile-p_perception_facile-p_perception-60.png"
+      ],
+      "comprehension": [
+        "/illustrations/facile-p_comprehension_facile-p_compr-phension-72.png",
+        "/illustrations/facile-p_comprehension_facile-p_compr-phension_352.png",
+        "/illustrations/facile-p_comprehension_facile-p_compr-phension_352bis.png",
+        "/illustrations/facile-p_comprehension_facile-p_comprehension-302.png",
+        "/illustrations/facile-p_comprehension_facile-p_comprehension-385.png",
+        "/illustrations/facile-p_comprehension_facile-p_comprehension-389.png",
+        "/illustrations/facile-p_comprehension_facile-p_comprehension-389bis.png",
+        "/illustrations/facile-p_comprehension_facile-p_comprehension-69.png",
+        "/illustrations/facile-p_comprehension_facile-p_comprehension-70.png",
+        "/illustrations/facile-p_comprehension_facile-p_comprehension-71.png",
+        "/illustrations/facile-p_comprehension_facile-p_comprehension-73.png",
+        "/illustrations/facile-p_comprehension_facile-p_comprehension-74.png",
+        "/illustrations/facile-p_comprehension_facile-p_comprehension-76.png",
+        "/illustrations/facile-p_comprehension_facile-p_comprehension-77.png"
+      ],
+      "commandes": [
+        "/illustrations/facile-p_commandes_facile-p_manipulation-420.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-432.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-437.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-62.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-303.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-377.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-383.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-388.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-63.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-64.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-65.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-66.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-67.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-68.png",
+        "/illustrations/facile-p_commandes_facile-p_manipulation-75.png"
+      ]
+    }
+  },
+  {
+    "label": "Facile++",
+    "slug": "facile-pp",
+    "picto": "/pictos/facile-pp.svg",
+    "sections": {
+      "perception": [
+        "/illustrations/facile-pp_perception_facile-pp_perception-197.png",
+        "/illustrations/facile-pp_perception_facile-pp_perception-199.png",
+        "/illustrations/facile-pp_perception_facile-pp_perception-200.png",
+        "/illustrations/facile-pp_perception_facile-pp_perception-201.png",
+        "/illustrations/facile-pp_perception_facile-pp_perception-202.png",
+        "/illustrations/facile-pp_perception_facile-pp_perception-304.png",
+        "/illustrations/facile-pp_perception_facile-pp_perception-335.png",
+        "/illustrations/facile-pp_perception_facile-pp_perception-338.png",
+        "/illustrations/facile-pp_perception_facile-pp_perception-418.png"
+      ],
+      "comprehension": [
+        "/illustrations/facile-pp_comprehension_facile-pp_compr-phension-36.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_compr-phension_219.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_compr-phension_219bis.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-209.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-210.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-211.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-212.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-214.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-215.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-216.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-217.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-217n1n.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-218.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-379.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-380.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-390.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-396.png",
+        "/illustrations/facile-pp_comprehension_facile-pp_comprehension-401.png"
+      ],
+      "commandes": [
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-203.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-421.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-426.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-431.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-433.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-438.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-204.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-205.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-206.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-207.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-208.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-305.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-306.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-378.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-381.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-392.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-397.png",
+        "/illustrations/facile-pp_commandes_facile-pp_manipulation-411.png"
+      ]
+    }
+  },
+  {
+    "label": "Vocal+",
+    "slug": "vocal-p",
+    "picto": "/pictos/vocal-p.svg",
+    "sections": {
+      "perception": [
+        "/illustrations/vocal-p_perception_vocal-p_perception-329.png",
+        "/illustrations/vocal-p_perception_vocal-p_perception-32nn.png",
+        "/illustrations/vocal-p_perception_vocal-p_perception-330.png",
+        "/illustrations/vocal-p_perception_vocal-p_perception-33nn.png",
+        "/illustrations/vocal-p_perception_vocal-p_perception-347.png",
+        "/illustrations/vocal-p_perception_vocal-p_perception-34nn.png",
+        "/illustrations/vocal-p_perception_vocal-p_perception-372.png",
+        "/illustrations/vocal-p_perception_vocal-p_perception-374.png"
+      ],
+      "comprehension": [
+        "/illustrations/vocal-p_comprehension_vocal-p_compr-phension-391.png",
+        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-333.png",
+        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-404.png",
+        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-406.png",
+        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-41n.png",
+        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-42nn.png",
+        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-43nn.png",
+        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-44.png"
+      ],
+      "commandes": [
+        "/illustrations/vocal-p_commandes_vocal-p_manipulation-430.png",
+        "/illustrations/vocal-p_commandes_vocal-p_manipulation-436.png",
+        "/illustrations/vocal-p_commandes_vocal-p_manipulation-446.png",
+        "/illustrations/vocal-p_commandes_vocal-p_manipulation-331.png",
+        "/illustrations/vocal-p_commandes_vocal-p_manipulation-332.png",
+        "/illustrations/vocal-p_commandes_vocal-p_manipulation-348.png",
+        "/illustrations/vocal-p_commandes_vocal-p_manipulation-368.png",
+        "/illustrations/vocal-p_commandes_vocal-p_manipulation-36n.png",
+        "/illustrations/vocal-p_commandes_vocal-p_manipulation-37.png",
+        "/illustrations/vocal-p_commandes_vocal-p_manipulation-38nn.png",
+        "/illustrations/vocal-p_commandes_vocal-p_manipulation-40nnbis.png"
+      ]
+    }
+  },
+  {
+    "label": "Vision+",
+    "slug": "vision-p",
+    "picto": "/pictos/vision-p.svg",
+    "sections": {
+      "perception": [
+        "/illustrations/vision-p_perception_vision-p_perception-21n.png",
+        "/illustrations/vision-p_perception_vision-p_perception-17n.png",
+        "/illustrations/vision-p_perception_vision-p_perception-18.png",
+        "/illustrations/vision-p_perception_vision-p_perception-18bis.png",
+        "/illustrations/vision-p_perception_vision-p_perception-19nn.png",
+        "/illustrations/vision-p_perception_vision-p_perception-20n.png",
+        "/illustrations/vision-p_perception_vision-p_perception-22.png",
+        "/illustrations/vision-p_perception_vision-p_perception-22nn.png",
+        "/illustrations/vision-p_perception_vision-p_perception-23n.png",
+        "/illustrations/vision-p_perception_vision-p_perception-24n.png",
+        "/illustrations/vision-p_perception_vision-p_perception-354.png"
+      ],
+      "comprehension": [
+        "/illustrations/vision-p_comprehension_vision-p_comprehension-28n.png"
+      ],
+      "commandes": [
+        "/illustrations/vision-p_commandes_vision-p_manipulation-434.png",
+        "/illustrations/vision-p_commandes_vision-p_manipulation-439.png",
+        "/illustrations/vision-p_commandes_vision-p_manipulation-25n.png",
+        "/illustrations/vision-p_commandes_vision-p_manipulation-26nn.png",
+        "/illustrations/vision-p_commandes_vision-p_manipulation-376.png",
+        "/illustrations/vision-p_commandes_vision-p_manipulation-400.png",
+        "/illustrations/vision-p_commandes_vision-p_manipulation-408.png",
+        "/illustrations/vision-p_commandes_vision-p_manipulation-414.png"
+      ]
+    }
+  },
+  {
+    "label": "Vision++",
+    "slug": "vision-pp",
+    "picto": "/pictos/vision-pp.svg",
+    "sections": {
+      "perception": [
+        "/illustrations/vision-pp_perception_vision-pp_perception-50.png",
+        "/illustrations/vision-pp_perception_vision-pp_perception-355.png",
+        "/illustrations/vision-pp_perception_vision-pp_perception-373.png",
+        "/illustrations/vision-pp_perception_vision-pp_perception-375.png",
+        "/illustrations/vision-pp_perception_vision-pp_perception-405.png",
+        "/illustrations/vision-pp_perception_vision-pp_perception-416.png",
+        "/illustrations/vision-pp_perception_vision-pp_perception-46nnbis.png",
+        "/illustrations/vision-pp_perception_vision-pp_perception-47nn.png",
+        "/illustrations/vision-pp_perception_vision-pp_perception-49.png",
+        "/illustrations/vision-pp_perception_vision-pp_perception-51.png",
+        "/illustrations/vision-pp_perception_vision-pp_perception-52.png",
+        "/illustrations/vision-pp_perception_vision-pp_perception-56.png"
+      ],
+      "comprehension": [
+        "/illustrations/vision-pp_comprehension_vision-pp_comprehension-58n.png"
+      ],
+      "commandes": [
+        "/illustrations/vision-pp_commandes_vision-pp_manipulation-429.png",
+        "/illustrations/vision-pp_commandes_vision-pp_manipulation-435.png",
+        "/illustrations/vision-pp_commandes_vision-pp_manipulation-440.png",
+        "/illustrations/vision-pp_commandes_vision-pp_manipulation-371.png",
+        "/illustrations/vision-pp_commandes_vision-pp_manipulation-382.png",
+        "/illustrations/vision-pp_commandes_vision-pp_manipulation-415.png",
+        "/illustrations/vision-pp_commandes_vision-pp_manipulation-53nn.png",
+        "/illustrations/vision-pp_commandes_vision-pp_manipulation-54n.png",
+        "/illustrations/vision-pp_commandes_vision-pp_manipulation-55.png",
+        "/illustrations/vision-pp_commandes_vision-pp_manipulation-57n.png"
+      ]
+    }
+  },
+  {
+    "label": "Lecture+",
+    "slug": "lecture-p",
+    "picto": "/pictos/lecture-p.svg",
+    "sections": {
+      "perception": [
+        "/illustrations/lecture-p_perception_dys_perception-82v1-simple.png",
+        "/illustrations/lecture-p_perception_dys_perception-83.png",
+        "/illustrations/lecture-p_perception_dys_perception-84.png",
+        "/illustrations/lecture-p_perception_dys_perception-86.png",
+        "/illustrations/lecture-p_perception_dys_perception-337.png",
+        "/illustrations/lecture-p_perception_dys_perception-419.png",
+        "/illustrations/lecture-p_perception_dys_perception-81v1-lecture-hb.png",
+        "/illustrations/lecture-p_perception_dys_perception-81v2-lecture-gd.png",
+        "/illustrations/lecture-p_perception_dys_perception-81v3-simple.png",
+        "/illustrations/lecture-p_perception_dys_perception-85.png"
+      ],
+      "comprehension": [],
+      "commandes": [
+        "/illustrations/lecture-p_commandes_dys_manipulation-412.png"
+      ]
+    }
+  },
+  {
+    "label": "Pointage+",
+    "slug": "pointage-p",
+    "picto": "/pictos/pointage-p.svg",
+    "sections": {
+      "perception": [
+        "/illustrations/pointage-p_perception_pointage-p_perception-152.png",
+        "/illustrations/pointage-p_perception_pointage-p_perception-326.png"
+      ],
+      "comprehension": [
+        "/illustrations/pointage-p_comprehension_pointage-p_comprehension-328.png",
+        "/illustrations/pointage-p_comprehension_pointage-p_comprehension-360.png",
+        "/illustrations/pointage-p_comprehension_pointage-p_comprehension-366.png",
+        "/illustrations/pointage-p_comprehension_pointage-p_comprehension-398.png",
+        "/illustrations/pointage-p_comprehension_pointage-p_comprehension-403.png"
+      ],
+      "commandes": [
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation-444.png",
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation-453.png",
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation-146.png",
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation-151.png",
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation-153nn.png",
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation-154n.png",
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation-156nn.png",
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation-157.png",
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation-158nn.png",
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation-345.png",
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation-413.png",
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation_340.png"
+      ]
+    }
+  },
+  {
+    "label": "Moteur+",
+    "slug": "moteur-p",
+    "picto": "/pictos/moteur-p.svg",
+    "sections": {
+      "perception": [
+        "/illustrations/moteur-p_perception_moteur-p_perception-394.png",
+        "/illustrations/moteur-p_perception_moteur-p_perception-87n1n-bis.png",
+        "/illustrations/moteur-p_perception_moteur-p_perception-89n.png",
+        "/illustrations/moteur-p_perception_moteur-p_perception-313.png",
+        "/illustrations/moteur-p_perception_moteur-p_perception-313bis.png",
+        "/illustrations/moteur-p_perception_moteur-p_perception-314.png",
+        "/illustrations/moteur-p_perception_moteur-p_perception-315.png",
+        "/illustrations/moteur-p_perception_moteur-p_perception-344.png",
+        "/illustrations/moteur-p_perception_moteur-p_perception-88n.png"
+      ],
+      "comprehension": [
+        "/illustrations/moteur-p_comprehension_moteur-p_comprehension-101n.png"
+      ],
+      "commandes": [
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-145nn.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-315.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-448.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-316.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-91n.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-95n.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-97nn.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-100.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-317ok.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-318.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-319.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-320.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-342.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-369.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-90.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-92n.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-94n.png",
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-96n.png"
+      ]
+    }
+  },
+  {
+    "label": "Audio+",
+    "slug": "audio-p",
+    "picto": "/pictos/audio-p.svg",
+    "sections": {
+      "perception": [
+        "/illustrations/audio-p_perception_audio-p_perception-121bis.png",
+        "/illustrations/audio-p_perception_audio-p_perception-122ter.png",
+        "/illustrations/audio-p_perception_audio-p_perception-123.png",
+        "/illustrations/audio-p_perception_audio-p_perception-124.png",
+        "/illustrations/audio-p_perception_audio-p_perception-125.png",
+        "/illustrations/audio-p_perception_audio-p_perception-126bis.png",
+        "/illustrations/audio-p_perception_audio-p_perception-127bis.png",
+        "/illustrations/audio-p_perception_audio-p_perception-128.png",
+        "/illustrations/audio-p_perception_audio-p_perception-129.png",
+        "/illustrations/audio-p_perception_audio-p_perception-130.png",
+        "/illustrations/audio-p_perception_audio-p_perception-131.png",
+        "/illustrations/audio-p_perception_audio-p_perception-132.png",
+        "/illustrations/audio-p_perception_audio-p_perception-133.png",
+        "/illustrations/audio-p_perception_audio-p_perception-134.png",
+        "/illustrations/audio-p_perception_audio-p_perception-135.png",
+        "/illustrations/audio-p_perception_audio-p_perception-136.png",
+        "/illustrations/audio-p_perception_audio-p_perception-137.png",
+        "/illustrations/audio-p_perception_audio-p_perception-138.png",
+        "/illustrations/audio-p_perception_audio-p_perception-139.png"
+      ],
+      "comprehension": [],
+      "commandes": [
+        "/illustrations/audio-p_commandes_audio-p_manipulation-423.png",
+        "/illustrations/audio-p_commandes_audio-p_manipulation-427.png",
+        "/illustrations/audio-p_commandes_audio-p_manipulation-441.png",
+        "/illustrations/audio-p_commandes_audio-p_manipulation-140.png",
+        "/illustrations/audio-p_commandes_audio-p_manipulation-409.png"
+      ]
+    }
+  },
+  {
+    "label": "LSF+",
+    "slug": "lsf-p",
+    "picto": "/pictos/lsf-p.svg",
+    "sections": {
+      "perception": [
+        "/illustrations/lsf-p_perception_lsf_perception-186.png",
+        "/illustrations/lsf-p_perception_lsf_perception-187.png",
+        "/illustrations/lsf-p_perception_lsf_perception-188.png"
+      ],
+      "comprehension": [
+        "/illustrations/lsf-p_comprehension_lsf_compr-phension-193-essai-hj.png",
+        "/illustrations/lsf-p_comprehension_lsf_comprehension-194.png",
+        "/illustrations/lsf-p_comprehension_lsf_comprehension-195.png",
+        "/illustrations/lsf-p_comprehension_lsf_comprehension-196.png"
+      ],
+      "commandes": [
+        "/illustrations/lsf-p_commandes_lsf_manipulation-189.png",
+        "/illustrations/lsf-p_commandes_lsf_manipulation-190.png",
+        "/illustrations/lsf-p_commandes_lsf_manipulation-191.png",
+        "/illustrations/lsf-p_commandes_lsf_manipulation-192.png",
+        "/illustrations/lsf-p_commandes_lsf_manipulation-346.png",
+        "/illustrations/lsf-p_commandes_lsf_manipulation-410.png",
+        "/illustrations/lsf-p_commandes_lsf_manipulation-443.png"
+      ]
+    }
+  },
+  {
+    "label": "Serein+",
+    "slug": "serein-p",
+    "picto": "/pictos/serein-p.svg",
+    "sections": {
+      "perception": [
+        "/illustrations/serein-p_perception_calme_perception-13nn.png",
+        "/illustrations/serein-p_perception_calme_perception-16nn.png",
+        "/illustrations/serein-p_perception_calme_perception-29n3bisn.png",
+        "/illustrations/serein-p_perception_calme_perception-300.png",
+        "/illustrations/serein-p_perception_calme_perception-40n.png",
+        "/illustrations/serein-p_perception_calme_perception-43.png",
+        "/illustrations/serein-p_perception_calme_perception-53n1n.png",
+        "/illustrations/serein-p_perception_calme_perception-61nn.png"
+      ],
+      "comprehension": [
+        "/illustrations/serein-p_comprehension_calme-compr-phension-20n.png",
+        "/illustrations/serein-p_comprehension_calme_compr-phension-58n.png",
+        "/illustrations/serein-p_comprehension_calme_compr-phension-60n.png",
+        "/illustrations/serein-p_comprehension_calme_compr-phension-62n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-09n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-10n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-11nn.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-14n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-15nn.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-17n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-18nn.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-19n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-21n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-22n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-23nn-bis.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-23nn.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-30n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-32n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-33n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-34n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-34bis.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-35n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-36nn.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-37n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-38n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-39n-1-.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-41nn.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-42n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-46nn.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-47n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-54n.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-55.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-56nn.png",
+        "/illustrations/serein-p_comprehension_calme_comprehension-57n.png"
+      ],
+      "commandes": [
+        "/illustrations/serein-p_commandes_calme_manipulation-24nn.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-25.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-27nn.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-28n.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-301.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-31nn.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-422.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-44n.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-45.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-48nn.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-49n.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-50n.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-51nn.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-52nn.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-59n.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-63n.png",
+        "/illustrations/serein-p_commandes_calme_manipulation-64n1n.png"
+      ]
+    }
+  },
+  {
+    "label": "Microgeste+",
+    "slug": "microgeste-p",
+    "picto": "/pictos/microgeste-p.svg",
+    "sections": {
+      "perception": [],
+      "comprehension": [
+        "/illustrations/microgeste-p_comprehension_microgeste-compr-phension-309.png",
+        "/illustrations/microgeste-p_comprehension_microgeste_comprehension-349.png",
+        "/illustrations/microgeste-p_comprehension_microgeste_compr-phension-309.png",
+        "/illustrations/microgeste-p_comprehension_microgeste_compr-phension-402.png",
+        "/illustrations/microgeste-p_comprehension_microgeste_comprehension-351.png"
+      ],
+      "commandes": [
+        "/illustrations/microgeste-p_commandes_microgeste_manipulation-447.png",
+        "/illustrations/microgeste-p_commandes_microgeste_manipulation-29n.png",
+        "/illustrations/microgeste-p_commandes_microgeste_manipulation-30n.png",
+        "/illustrations/microgeste-p_commandes_microgeste_manipulation-31.png",
+        "/illustrations/microgeste-p_commandes_microgeste_manipulation-310.png",
+        "/illustrations/microgeste-p_commandes_microgeste_manipulation-311.png",
+        "/illustrations/microgeste-p_commandes_microgeste_manipulation-312.png",
+        "/illustrations/microgeste-p_commandes_microgeste_manipulation-350.png",
+        "/illustrations/microgeste-p_commandes_microgeste_manipulation-393.png"
+      ]
+    }
+  },
+  {
+    "label": "Graphique+",
+    "slug": "graphique-p",
+    "picto": "/pictos/graphique-p.png",
+    "sections": {
+      "perception": [
+        "/illustrations/graphique-p_perception_graphique_perception-172.png",
+        "/illustrations/graphique-p_perception_graphique_perception-174.png",
+        "/illustrations/graphique-p_perception_graphique_perception-175.png",
+        "/illustrations/graphique-p_perception_graphique_perception-336.png",
+        "/illustrations/graphique-p_perception_graphique_perception-339.png",
+        "/illustrations/graphique-p_perception_graphique_perception-407.png"
+      ],
+      "comprehension": [
+        "/illustrations/graphique-p_comprehension_graphique-compr-phension-353.png",
+        "/illustrations/graphique-p_comprehension_graphique_compr-phension_353.png",
+        "/illustrations/graphique-p_comprehension_graphique_compr-phension_353bis.png",
+        "/illustrations/graphique-p_comprehension_graphique_comprehension-180nn.png",
+        "/illustrations/graphique-p_comprehension_graphique_comprehension-386.png",
+        "/illustrations/graphique-p_comprehension_graphique_comprehension-386bis.png"
+      ],
+      "commandes": [
+        "/illustrations/graphique-p_commandes_graphique_manipulation-425-v1.png",
+        "/illustrations/graphique-p_commandes_graphique_manipulation-450.png",
+        "/illustrations/graphique-p_commandes_graphique_manipulation-455.png",
+        "/illustrations/graphique-p_commandes_graphique_manipulation-176n.png",
+        "/illustrations/graphique-p_commandes_graphique_manipulation-177n1n.png",
+        "/illustrations/graphique-p_commandes_graphique_manipulation-178.png",
+        "/illustrations/graphique-p_commandes_graphique_manipulation-308.png"
+      ]
+    }
+  }
+]

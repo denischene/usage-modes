@@ -18,21 +18,9 @@ export const SECTION_META: Array<{
   title: string;
   description: string;
 }> = [
-  {
-    key: "perception",
-    title: "Perception",
-    description: "Comment l'utilisateur perçoit l'information : vue, ouïe, contraste, lisibilité.",
-  },
-  {
-    key: "comprehension",
-    title: "Compréhension",
-    description: "Comment l'information est structurée et rendue compréhensible.",
-  },
-  {
-    key: "commandes",
-    title: "Commandes",
-    description: "Comment l'utilisateur interagit, manipule et commande l'interface.",
-  },
+  { key: "perception", title: "Perception", description: "Comment l'utilisateur perçoit l'information : vue, ouïe, contraste, lisibilité." },
+  { key: "comprehension", title: "Compréhension", description: "Comment l'information est structurée et rendue compréhensible." },
+  { key: "commandes", title: "Commandes", description: "Comment l'utilisateur interagit, manipule et commande l'interface." },
 ];
 
 export const MODE_DESCRIPTIONS: Record<string, string> = {
@@ -41,7 +29,7 @@ export const MODE_DESCRIPTIONS: Record<string, string> = {
   "Vocal+": "Interaction par la voix : commandes et retours vocaux.",
   "Vision+": "Adaptations pour vision basse : contraste, taille, espacement.",
   "Vision++": "Adaptations renforcées pour cécité : lecteurs d'écran, braille.",
-  "Lecture+": "Aides à la lecture : police, espacement, balisage.",
+  "Lecture+": "Aides à la lecture : police, espacement, balisage du texte.",
   "Pointage+": "Adaptation du pointage : cibles larges, tolérance, précision.",
   "Moteur+": "Réduction de l'effort moteur : raccourcis, alternatives, séquences courtes.",
   "Audio+": "Adaptations pour l'audition : sous-titres, transcriptions, volumes.",

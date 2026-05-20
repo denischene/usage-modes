@@ -9,38 +9,89 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as ModesRouteImport } from './routes/modes'
+import { Route as AProposRouteImport } from './routes/a-propos'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as ModesIndexRouteImport } from './routes/modes.index'
+import { Route as ModesModeRouteImport } from './routes/modes.$mode'
 
+const ModesRoute = ModesRouteImport.update({
+  id: '/modes',
+  path: '/modes',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const AProposRoute = AProposRouteImport.update({
+  id: '/a-propos',
+  path: '/a-propos',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const ModesIndexRoute = ModesIndexRouteImport.update({
+  id: '/',
+  path: '/',
+  getParentRoute: () => ModesRoute,
+} as any)
+const ModesModeRoute = ModesModeRouteImport.update({
+  id: '/$mode',
+  path: '/$mode',
+  getParentRoute: () => ModesRoute,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/a-propos': typeof AProposRoute
+  '/modes': typeof ModesRouteWithChildren
+  '/modes/$mode': typeof ModesModeRoute
+  '/modes/': typeof ModesIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/a-propos': typeof AProposRoute
+  '/modes/$mode': typeof ModesModeRoute
+  '/modes': typeof ModesIndexRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/a-propos': typeof AProposRoute
+  '/modes': typeof ModesRouteWithChildren
+  '/modes/$mode': typeof ModesModeRoute
+  '/modes/': typeof ModesIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths: '/' | '/a-propos' | '/modes' | '/modes/$mode' | '/modes/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/a-propos' | '/modes/$mode' | '/modes'
+  id: '__root__' | '/' | '/a-propos' | '/modes' | '/modes/$mode' | '/modes/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  AProposRoute: typeof AProposRoute
+  ModesRoute: typeof ModesRouteWithChildren
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/modes': {
+      id: '/modes'
+      path: '/modes'
+      fullPath: '/modes'
+      preLoaderRoute: typeof ModesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/a-propos': {
+      id: '/a-propos'
+      path: '/a-propos'
+      fullPath: '/a-propos'
+      preLoaderRoute: typeof AProposRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/': {
       id: '/'
       path: '/'
@@ -48,12 +99,50 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/modes/': {
+      id: '/modes/'
+      path: '/'
+      fullPath: '/modes/'
+      preLoaderRoute: typeof ModesIndexRouteImport
+      parentRoute: typeof ModesRoute
+    }
+    '/modes/$mode': {
+      id: '/modes/$mode'
+      path: '/$mode'
+      fullPath: '/modes/$mode'
+      preLoaderRoute: typeof ModesModeRouteImport
+      parentRoute: typeof ModesRoute
+    }
   }
 }
 
+interface ModesRouteChildren {
+  ModesModeRoute: typeof ModesModeRoute
+  ModesIndexRoute: typeof ModesIndexRoute
+}
+
+const ModesRouteChildren: ModesRouteChildren = {
+  ModesModeRoute: ModesModeRoute,
+  ModesIndexRoute: ModesIndexRoute,
+}
+
+const ModesRouteWithChildren = ModesRoute._addFileChildren(ModesRouteChildren)
+
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  AProposRoute: AProposRoute,
+  ModesRoute: ModesRouteWithChildren,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
   ._addFileTypes<FileRouteTypes>()
+
+import type { getRouter } from './router.tsx'
+import type { startInstance } from './start.ts'
+declare module '@tanstack/react-start' {
+  interface Register {
+    ssr: true
+    router: Awaited<ReturnType<typeof getRouter>>
+    config: Awaited<ReturnType<typeof startInstance.getOptions>>
+  }
+}

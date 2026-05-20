@@ -9,7 +9,6 @@ import {
 } from "@tanstack/react-router";
 
 import appCss from "../styles.css?url";
-import modesData from "../lib/modes-data.json";
 
 function NotFoundComponent() {
   return (
@@ -143,5 +142,3 @@ function RootComponent() {
     </QueryClientProvider>
   );
 }
-
-export { modesData };

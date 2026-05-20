@@ -43,7 +43,12 @@ function HomePage() {
               </Link>
             </div>
           </div>
-          <div className="flex items-center justify-center">
+          <div className="flex flex-col items-center justify-start gap-8">
+            <nav aria-label="Navigation principale" className="flex flex-wrap justify-center gap-x-5 gap-y-2 text-sm font-semibold">
+              <Link to="/" activeOptions={{ exact: true }} activeProps={{ className: "text-primary underline" }}>Accueil</Link>
+              <Link to="/modes" activeProps={{ className: "text-primary underline" }}>Tous les modes</Link>
+              <Link to="/a-propos" activeProps={{ className: "text-primary underline" }}>À propos</Link>
+            </nav>
             <img
               src="/pictos/universal-design.svg"
               alt="Pictogramme Universal Design"

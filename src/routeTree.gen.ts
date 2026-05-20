@@ -9,12 +9,18 @@
 // Additionally, you should also exclude this file from your linter and/or formatter to prevent it from being checked or modified.
 
 import { Route as rootRouteImport } from './routes/__root'
+import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as ModesRouteImport } from './routes/modes'
 import { Route as AProposRouteImport } from './routes/a-propos'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as ModesIndexRouteImport } from './routes/modes.index'
 import { Route as ModesModeRouteImport } from './routes/modes.$mode'
 
+const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
+  id: '/sitemap.xml',
+  path: '/sitemap.xml',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ModesRoute = ModesRouteImport.update({
   id: '/modes',
   path: '/modes',
@@ -45,12 +51,14 @@ export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/a-propos': typeof AProposRoute
   '/modes': typeof ModesRouteWithChildren
+  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/modes/$mode': typeof ModesModeRoute
   '/modes/': typeof ModesIndexRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/a-propos': typeof AProposRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/modes/$mode': typeof ModesModeRoute
   '/modes': typeof ModesIndexRoute
 }
@@ -59,25 +67,47 @@ export interface FileRoutesById {
   '/': typeof IndexRoute
   '/a-propos': typeof AProposRoute
   '/modes': typeof ModesRouteWithChildren
+  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/modes/$mode': typeof ModesModeRoute
   '/modes/': typeof ModesIndexRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/' | '/a-propos' | '/modes' | '/modes/$mode' | '/modes/'
+  fullPaths:
+    | '/'
+    | '/a-propos'
+    | '/modes'
+    | '/sitemap.xml'
+    | '/modes/$mode'
+    | '/modes/'
   fileRoutesByTo: FileRoutesByTo
-  to: '/' | '/a-propos' | '/modes/$mode' | '/modes'
-  id: '__root__' | '/' | '/a-propos' | '/modes' | '/modes/$mode' | '/modes/'
+  to: '/' | '/a-propos' | '/sitemap.xml' | '/modes/$mode' | '/modes'
+  id:
+    | '__root__'
+    | '/'
+    | '/a-propos'
+    | '/modes'
+    | '/sitemap.xml'
+    | '/modes/$mode'
+    | '/modes/'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AProposRoute: typeof AProposRoute
   ModesRoute: typeof ModesRouteWithChildren
+  SitemapDotxmlRoute: typeof SitemapDotxmlRoute
 }
 
 declare module '@tanstack/react-router' {
   interface FileRoutesByPath {
+    '/sitemap.xml': {
+      id: '/sitemap.xml'
+      path: '/sitemap.xml'
+      fullPath: '/sitemap.xml'
+      preLoaderRoute: typeof SitemapDotxmlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/modes': {
       id: '/modes'
       path: '/modes'
@@ -132,6 +162,7 @@ const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AProposRoute: AProposRoute,
   ModesRoute: ModesRouteWithChildren,
+  SitemapDotxmlRoute: SitemapDotxmlRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

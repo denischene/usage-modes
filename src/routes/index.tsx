@@ -84,9 +84,8 @@ function HomePage() {
                   params={{ mode: m.slug }}
                   className="group flex h-full items-center gap-4 border-2 border-border bg-background p-5 no-underline transition-colors hover:border-primary"
                 >
-                  <span className="grid h-16 w-16 shrink-0 place-items-center bg-foreground p-2">
-                    <img src={m.picto} alt="" className="h-full w-full object-contain" />
-                  </span>
+                  <ModePicto mode={m} />
+
                   <span className="flex flex-col">
                     <span className="text-lg font-bold group-hover:text-primary">{m.label}</span>
                     <span className="text-sm text-muted-foreground">{MODE_DESCRIPTIONS[m.label]}</span>

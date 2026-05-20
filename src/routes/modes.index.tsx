@@ -1,5 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { modes, MODE_DESCRIPTIONS } from "@/lib/modes";
+import { ModePicto } from "@/components/ModePicto";
 
 export const Route = createFileRoute("/modes/")({
   head: () => ({

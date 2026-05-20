@@ -1,5 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { modes, MODE_DESCRIPTIONS } from "@/lib/modes";
+import { ModePicto } from "@/components/ModePicto";
 
 export const Route = createFileRoute("/modes/")({
   head: () => ({
@@ -34,9 +35,8 @@ function ModesIndex() {
                 className="group flex h-full flex-col gap-4 border-2 border-border bg-background p-6 no-underline transition-colors hover:border-primary"
               >
                 <div className="flex items-center gap-4">
-                  <span className="grid h-16 w-16 shrink-0 place-items-center bg-foreground p-2">
-                    <img src={m.picto} alt="" className="h-full w-full object-contain" />
-                  </span>
+                  <ModePicto mode={m} />
+
                   <span className="text-2xl font-bold group-hover:text-primary">{m.label}</span>
                 </div>
                 <p className="text-sm text-muted-foreground">{MODE_DESCRIPTIONS[m.label]}</p>

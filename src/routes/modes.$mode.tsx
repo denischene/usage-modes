@@ -1,5 +1,6 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { modes, MODE_DESCRIPTIONS, SECTION_META, type Mode } from "@/lib/modes";
+import { RuleImage } from "@/components/RuleImage";
 
 export const Route = createFileRoute("/modes/$mode")({
   loader: ({ params }) => {
@@ -110,23 +111,26 @@ function ModePage() {
                 </p>
               ) : (
                 <ul className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-                  {items.map((src, i) => (
-                    <li key={src} className="border-2 border-border bg-background">
-                      <figure>
-                        <div className="bg-surface">
-                          <img
-                            src={src}
-                            alt={`Règle illustrée ${s.title} n°${i + 1} pour le mode ${mode.label}. La règle est écrite en haut de l'illustration.`}
-                            loading="lazy"
-                            className="block h-auto w-full"
-                          />
-                        </div>
-                        <figcaption className="border-t border-border px-4 py-3 text-xs font-bold uppercase tracking-wider text-muted-foreground">
-                          {mode.label} · {s.title} · règle {i + 1}
-                        </figcaption>
-                      </figure>
-                    </li>
-                  ))}
+                  {items.map((src, i) => {
+                    const caption = `${mode.label} · ${s.title} · règle ${i + 1}`;
+                    const alt = `Règle illustrée ${s.title} n°${i + 1} pour le mode ${mode.label}. La règle est écrite en haut de l'illustration.`;
+                    return (
+                      <li key={src} className="border-2 border-border bg-background">
+                        <article className="flex flex-col">
+                          <header className="border-b border-border px-4 py-3">
+                            <p className="text-xs font-bold uppercase tracking-wider text-primary">
+                              {s.title} · règle {i + 1}
+                            </p>
+                            <p className="mt-1 text-sm text-foreground">
+                              Explication : la règle illustrée ci-dessous est inscrite en haut de l'image en gras.
+                              Elle s'applique au mode <strong>{mode.label}</strong> pour la dimension {s.title.toLowerCase()}.
+                            </p>
+                          </header>
+                          <RuleImage src={src} alt={alt} caption={caption} />
+                        </article>
+                      </li>
+                    );
+                  })}
                 </ul>
               )}
             </div>

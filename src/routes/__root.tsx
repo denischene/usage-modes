@@ -78,16 +78,21 @@ function RootShell({ children }: { children: React.ReactNode }) {
 
 function SiteHeader() {
   return (
-    <header className="border-b border-border bg-background">
+    <header className="border-b border-border bg-foreground text-background">
       <div className="orange-bar" aria-hidden="true" />
       <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-6 py-5">
-        <Link to="/" className="flex items-center gap-3 no-underline" aria-label="Accueil — Modes d'usages">
-          <span className="grid h-10 w-10 place-items-center bg-foreground font-bold text-background">o</span>
-          <span className="flex flex-col leading-tight">
+        <Link to="/" className="flex items-center gap-3 no-underline bg-primary px-3 py-2" aria-label="Accueil — Modes d'usages">
+          <img src="/pictos/universal-design.svg" alt="" className="h-10 w-10" />
+          <span className="flex flex-col leading-tight text-foreground">
             <span className="text-base font-bold">Modes d'usages</span>
-            <span className="text-xs text-muted-foreground">Accessibilité ergonomique</span>
+            <span className="text-xs">Accessibilité ergonomique</span>
           </span>
         </Link>
+        <nav aria-label="Navigation principale" className="flex flex-wrap items-center gap-x-5 gap-y-2 text-sm font-semibold">
+          <Link to="/" activeOptions={{ exact: true }} activeProps={{ className: "text-primary underline" }}>Accueil</Link>
+          <Link to="/modes" activeProps={{ className: "text-primary underline" }}>Tous les modes</Link>
+          <Link to="/a-propos" activeProps={{ className: "text-primary underline" }}>À propos</Link>
+        </nav>
       </div>
     </header>
   );

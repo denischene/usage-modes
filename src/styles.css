@@ -2,6 +2,15 @@
 @source "../src";
 @import "tw-animate-css";
 
+@font-face {
+  font-family: "Accessible DfA";
+  src: url("/fonts/AccessibleDfA-VF.ttf") format("truetype-variations"),
+       url("/fonts/AccessibleDfA-VF.ttf") format("truetype");
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
 @custom-variant dark (&:is(.dark *));
 
 @theme inline {
@@ -24,7 +33,7 @@
   --color-border: var(--border);
   --color-ring: var(--ring);
   --color-surface: var(--surface);
-  --font-sans: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --font-sans: "Accessible DfA", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 :root {

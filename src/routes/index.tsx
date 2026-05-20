@@ -18,12 +18,6 @@ function HomePage() {
       <section className="border-b border-border bg-foreground text-background">
         <div className="mx-auto grid max-w-7xl gap-10 px-6 py-16 md:grid-cols-[1fr_auto] md:py-24">
           <div className="max-w-2xl">
-            <p className="mb-4 inline-block bg-primary px-3 py-1 text-sm font-bold text-primary-foreground">
-              Accessibilité ergonomique
-            </p>
-            <h1 className="text-4xl font-bold leading-tight md:text-6xl">
-              Modes d'usages
-            </h1>
             <p className="mt-6 text-lg opacity-90 md:text-xl">
               Un catalogue de <strong>règles illustrées</strong> pour concevoir des interfaces accessibles
               à toutes et tous. Chaque mode d'usage répond à un besoin spécifique d'interaction.
@@ -43,12 +37,7 @@ function HomePage() {
               </Link>
             </div>
           </div>
-          <div className="flex flex-col items-center justify-start gap-8">
-            <nav aria-label="Navigation principale" className="flex flex-wrap justify-center gap-x-5 gap-y-2 text-sm font-semibold">
-              <Link to="/" activeOptions={{ exact: true }} activeProps={{ className: "text-primary underline" }}>Accueil</Link>
-              <Link to="/modes" activeProps={{ className: "text-primary underline" }}>Tous les modes</Link>
-              <Link to="/a-propos" activeProps={{ className: "text-primary underline" }}>À propos</Link>
-            </nav>
+          <div className="flex items-center justify-center">
             <img
               src="/pictos/universal-design.svg"
               alt="Pictogramme Universal Design"

@@ -38,10 +38,9 @@ function AboutPage() {
         cibles de pointage d'au moins 24×24 pixels et focus visible.
       </p>
 
-      <h2 className="mt-12 text-2xl font-bold">Charte Orange</h2>
+      <h2 className="mt-12 text-2xl font-bold">Origine du projet</h2>
       <p className="mt-3">
-        La direction visuelle s'appuie sur l'identité Orange : orange signature, typographie sans-serif,
-        bandeau de signature, compositions contrastées noir et blanc.
+        Les modes d’usages sont issus des travaux de recherche du Programme Accessibilité Salariés d’Orange Lab.
       </p>
 
       <div className="mt-12">

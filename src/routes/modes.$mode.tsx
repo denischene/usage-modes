@@ -111,19 +111,26 @@ function ModePage() {
                 </p>
               ) : (
                 <ul className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-                  {items.map((src, i) => {
+                  {items.map((item, i) => {
+                    const src = typeof item === "string" ? item : item.src;
+                    const customText = typeof item === "string" ? undefined : item.text;
+                    const wide = typeof item === "string" ? false : !!item.wide;
                     const caption = `${mode.label} · ${s.title} · règle ${i + 1}`;
                     const alt = `Règle illustrée ${s.title} n°${i + 1} pour le mode ${mode.label}. La règle est écrite en haut de l'illustration.`;
                     return (
-                      <li key={src} className="border-2 border-border bg-background">
+                      <li key={src} className={`border-2 border-border bg-background ${wide ? "sm:col-span-2" : ""}`}>
                         <article className="flex flex-col">
                           <header className="border-b border-border px-4 py-3">
                             <p className="text-xs font-bold uppercase tracking-wider text-primary">
                               {s.title} · règle {i + 1}
                             </p>
                             <p className="mt-1 text-sm text-foreground">
-                              Explication : la règle illustrée ci-dessous est inscrite en haut de l'image en gras.
-                              Elle s'applique au mode <strong>{mode.label}</strong> pour la dimension {s.title.toLowerCase()}.
+                              {customText ?? (
+                                <>
+                                  Explication : la règle illustrée ci-dessous est inscrite en haut de l'image en gras.
+                                  Elle s'applique au mode <strong>{mode.label}</strong> pour la dimension {s.title.toLowerCase()}.
+                                </>
+                              )}
                             </p>
                           </header>
                           <RuleImage src={src} alt={alt} caption={caption} />

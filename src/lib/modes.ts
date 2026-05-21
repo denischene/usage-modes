@@ -1,13 +1,15 @@
 import data from "./modes-data.json";
 
+export type RuleItem = string | { src: string; text?: string; wide?: boolean };
+
 export type Mode = {
   label: string;
   slug: string;
   picto: string;
   sections: {
-    perception: string[];
-    comprehension: string[];
-    commandes: string[];
+    perception: RuleItem[];
+    comprehension: RuleItem[];
+    commandes: RuleItem[];
   };
 };
 

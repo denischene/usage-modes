@@ -6,7 +6,7 @@ export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
       { title: "Modes d'usages — Règles illustrées d'accessibilité ergonomique" },
-      { name: "description", content: "13 modes d'usages pour concevoir des interfaces accessibles. Règles illustrées Perception, Compréhension, Commandes." },
+      { name: "description", content: "14 modes d'usages pour concevoir des interfaces accessibles. Règles illustrées Perception, Compréhension, Commandes." },
     ],
   }),
   component: HomePage,
@@ -28,7 +28,7 @@ function HomePage() {
                 to="/modes"
                 className="bg-primary px-6 py-3 font-bold text-primary-foreground no-underline hover:underline"
               >
-                Découvrir les 13 modes
+                Découvrir les 14 modes
               </Link>
               <Link
                 to="/a-propos"
@@ -73,7 +73,7 @@ function HomePage() {
       <section className="border-t border-border bg-surface" aria-labelledby="modes-titre">
         <div className="mx-auto max-w-7xl px-6 py-16">
           <div className="mb-10 flex items-end justify-between">
-            <h2 id="modes-titre" className="text-3xl font-bold md:text-4xl">Les 13 modes d'usages</h2>
+            <h2 id="modes-titre" className="text-3xl font-bold md:text-4xl">Les 14 modes d'usages</h2>
             <Link to="/modes" className="hidden text-sm font-bold text-primary md:inline">Tout voir →</Link>
           </div>
           <ul className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">

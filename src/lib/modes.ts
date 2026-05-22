@@ -32,6 +32,7 @@ export const MODE_DESCRIPTIONS: Record<string, string> = {
   "Vision+": "Adaptations pour vision basse : contraste, taille, espacement.",
   "Vision++": "Adaptations renforcées pour cécité : lecteurs d'écran, braille.",
   "Lecture+": "Aides à la lecture : police, espacement, balisage du texte.",
+  "Lecture++": "Aides à la lecture renforcées pour la dyslexie : couleurs, marges, masques de lecture.",
   "Pointage+": "Adaptation du pointage : cibles larges, tolérance, précision.",
   "Moteur+": "Réduction de l'effort moteur : raccourcis, alternatives, séquences courtes.",
   "Audio+": "Adaptations pour l'audition : sous-titres, transcriptions, volumes.",

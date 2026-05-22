@@ -5,41 +5,202 @@
     "picto": "/pictos/facile-p.svg",
     "sections": {
       "perception": [
-        { "src": "/illustrations/facile-p-new/Facile+-Perception-regle1.png", "text": "La vocalisation des moyens d’action (commandes) est déclenchée à la demande par l’utilisateur (simple tap, survol...)." },
-        { "src": "/illustrations/facile-p-new/Facile+-Perception-regle2.png", "text": "Les boutons doivent avoir des pictogrammes." },
-        { "src": "/illustrations/facile-p-new/Facile+-Perception-regle3.png", "text": "Les intitulés et les pictogrammes de boutons doivent être homogènes d’une page à l’autre s’ils ont la même fonction." },
-        { "src": "/illustrations/facile-p-new/Facile+-Perception-regle4.png", "text": "La vocalisation des contenus est déclenchée à la demande par l’utilisateur (simple tap, survol...)." }
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Perception-regle1.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Perception-regle2.png",
+          "text": "Les boutons doivent avoir des pictogrammes."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Perception-regle3.png",
+          "text": "Les intitulés et les pictogrammes de boutons doivent être homogènes d'une page à l'autre s'ils ont la même fonction."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Perception-regle4.png",
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+        }
       ],
       "comprehension": [
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle1.png", "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments entre les pages." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle2.png", "text": "Proposer des tunnels d’action pour les fonctions complexes.", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle3.png", "text": "Vocaliser la fonction [1] puis donner un guidage supplémentaire sur son utilité [2] et sur la façon de l’activer [3]." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle4.png", "text": "Proposer des termes compréhensibles et adaptés au niveau de langue (éviter les termes en anglais, les sigles...)." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle5.png", "text": "La tâche doit être découpée en séquences d’actions (niveau n, niveau n−1, niveau n−2).", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle6.png", "text": "Prévoir une phase de prise en main multimodale." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle7.png", "text": "Proposer des aides qui prévoient le déroulement d’une tâche sous forme de scénario." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle8.png", "text": "Limiter la quantité d’objets d’interface." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle9.png", "text": "Préférer de grandes listes à trop de profondeur.", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle10.png", "text": "Pour informer l’utilisateur que d’autres éléments sont disponibles même s’ils ne sont pas affichés à l’écran : rendre le dernier élément de la page à moitié visible et mettre un ascenseur incitant à visualiser le reste de la page." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle11.png", "text": "Répéter la consigne au bout d’un délai d’inactivité.", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle12.png", "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d’une page." }
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle1.png",
+          "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments entre les pages."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle2.png",
+          "text": "Proposer des tunnels d'action pour les fonctions complexes.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle3.png",
+          "text": "Vocaliser la fonction [1] puis donner un guidage supplémentaire sur son utilité [2] et sur la façon de l'activer [3]."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle4.png",
+          "text": "Proposer des termes compréhensibles et adaptés au niveau de langue (éviter les termes en anglais, les sigles...)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle5.png",
+          "text": "La tâche doit être découpée en séquences d'actions (niveau n, niveau n−1, niveau n−2).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle6.png",
+          "text": "Prévoir une phase de prise en main multimodale."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle7.png",
+          "text": "Proposer des aides qui prévoient le déroulement d'une tâche sous forme de scénario."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle8.png",
+          "text": "Limiter la quantité d'objets d'interface."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle9.png",
+          "text": "Préférer de grandes listes à trop de profondeur.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle10.png",
+          "text": "Pour informer l'utilisateur que d'autres éléments sont disponibles même s'ils ne sont pas affichés à l'écran : rendre le dernier élément de la page à moitié visible et mettre un ascenseur incitant à visualiser le reste de la page."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle11.png",
+          "text": "Répéter la consigne au bout d'un délai d'inactivité.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle12.png",
+          "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle1.png",
+          "text": "Limiter les efforts de mémorisation (mots de passe, commandes, numéros de téléphone...).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle2.png",
+          "text": "Proposer des captcha personnalisés de type « association de mots et images familières » plutôt que des captcha de type « lettres déformées » ou « détection d'images inconnues ».",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle4.png",
+          "text": "Rédiger des titres dont la sémantique précise le sujet."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle11.png",
+          "text": "Prédécouper les contenus longs en sous-parties.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle12.png",
+          "text": "Le libellé du bouton est à réutiliser dans le titre cible."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle13.png",
+          "text": "Pas d'image seule ni de texte seul : toujours associer l'un avec l'autre."
+        },
+        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-44.png",
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle14.png",
+          "text": "Découper les instructions en étapes."
+        }
       ],
       "commandes": [
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle1.png", "text": "Émettre des retours visuels (message furtif) sur les actions importantes réalisées." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle2.png", "text": "Commande tactile continue : le doigt peut rester posé longtemps sur l’écran." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle3.png", "text": "Permettre des gestes lents grâce à une validation par appui très long (3s)." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle4.png", "text": "Commande tactile sécurisée : l’utilisateur doit pouvoir interroger les commandes avant de les valider." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle5.png", "text": "Permettre le pointage direct : l’élément cliqué est sous le doigt (commandes tactiles colocalisées)." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle6.png", "text": "Commande vocale sécurisée : l’utilisateur doit pouvoir interroger les commandes avant de les valider.", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png", "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle8.png", "text": "Proposer un didacticiel de manipulation.", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle9.png", "text": "Proposer une saisie par commande vocale.", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle10.png", "text": "Annoncer, lors des premières utilisations ou à la demande, les commandes vocales disponibles." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle11.png", "text": "Proposer des commandes tactiles colocalisées (l’élément cliqué est sous le doigt)." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle12.png", "text": "Permettre les commandes vocales." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle13.png", "text": "Les retours système doivent présenter des pictogrammes en plus d’un texte court et simple." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle14.png", "text": "Émettre des retours sonores (bip, ding...) sur les actions de navigation." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle15.png", "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.", "wide": true }
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle1.png",
+          "text": "Émettre des retours visuels (message furtif) sur les actions importantes réalisées."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle2.png",
+          "text": "Commande tactile continue : le doigt peut rester posé longtemps sur l'écran."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle3.png",
+          "text": "Permettre des gestes lents grâce à une validation par appui très long (3s)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle4.png",
+          "text": "Commande tactile sécurisée : l'utilisateur doit pouvoir interroger les commandes avant de les valider."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle5.png",
+          "text": "Permettre le pointage direct : l'élément cliqué est sous le doigt (commandes tactiles colocalisées)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle6.png",
+          "text": "Commande vocale sécurisée : l'utilisateur doit pouvoir interroger les commandes avant de les valider.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png",
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle8.png",
+          "text": "Proposer un didacticiel de manipulation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle9.png",
+          "text": "Proposer une saisie par commande vocale.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle10.png",
+          "text": "Annoncer, lors des premières utilisations ou à la demande, les commandes vocales disponibles."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle11.png",
+          "text": "Proposer des commandes tactiles colocalisées (l'élément cliqué est sous le doigt)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle12.png",
+          "text": "Permettre les commandes vocales."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle13.png",
+          "text": "Les retours système doivent présenter des pictogrammes en plus d'un texte court et simple."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle14.png",
+          "text": "Émettre des retours sonores (bip, ding...) sur les actions de navigation."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle15.png",
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle3.png",
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle4.png",
+          "text": "S'assurer que les éléments nécessaires à l'interaction soient directement accessibles dans la page en cours (sans avoir besoin d'utiliser l'ascenseur).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle8.png",
+          "text": "Les délais temporels doivent être augmentés."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle10.png",
+          "text": "Permettre à l'utilisateur de revenir sur ses pas."
+        },
+        {
+          "src": "/illustrations/extras/Facile+-Commandes-regle20.png",
+          "text": "Plusieurs niveaux de facilitation doivent être disponibles."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle11.png",
+          "text": "Conserver l'orientation ascenseur sur l'ensemble du service.",
+          "wide": true
+        }
       ]
     }
   },
@@ -49,53 +210,283 @@
     "picto": "/pictos/facile-pp.svg",
     "sections": {
       "perception": [
-        { "src": "/illustrations/facile-pp-new/Facile++-Perception-regle1.png", "text": "La communication avec l’interlocuteur doit être ralentie." },
-        { "src": "/illustrations/facile-pp-new/Facile++-Perception-regle2.png", "text": "La vitesse de la synthèse vocale doit être suffisamment lente." },
-        { "src": "/illustrations/facile-pp-new/Facile++-Perception-regle3.png", "text": "Les boutons doivent avoir des pictogrammes." },
-        { "src": "/illustrations/facile-pp-new/Facile++-Perception-regle4.png", "text": "Permettre à l’aidant de créer des étiquettes vocales personnalisées (enregistrement du libellé de l’élément ou de la commande).", "wide": true },
-        { "src": "/illustrations/facile-pp-new/Facile++-Perception-regle5.png", "text": "Permettre à l’aidant de personnaliser les pictogrammes (possibilité de remplacer les pictogrammes par une photo).", "wide": true },
-        { "src": "/illustrations/facile-pp-new/Facile++-Perception-regle6.png", "text": "La synthèse vocale doit pouvoir être ralentie." },
-        { "src": "/illustrations/facile-pp-new/Facile++-Perception-regle7.png", "text": "La vocalisation des moyens d’action (commandes) est déclenchée à la demande par l’utilisateur (simple tap, survol...)." },
-        { "src": "/illustrations/facile-pp-new/Facile++-Perception-regle8.png", "text": "La vocalisation des contenus est déclenchée à la demande par l’utilisateur (simple tap, survol...)." },
-        { "src": "/illustrations/facile-pp-new/Facile++-Perception-regle9.png", "text": "Les intitulés et les pictogrammes de boutons doivent être homogènes d’une page à l’autre s’ils ont la même fonction.", "wide": true }
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle1.png",
+          "text": "La communication avec l'interlocuteur doit être ralentie."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle2.png",
+          "text": "La vitesse de la synthèse vocale doit être suffisamment lente."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle3.png",
+          "text": "Les boutons doivent avoir des pictogrammes."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle4.png",
+          "text": "Permettre à l'aidant de créer des étiquettes vocales personnalisées (enregistrement du libellé de l'élément ou de la commande).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle5.png",
+          "text": "Permettre à l'aidant de personnaliser les pictogrammes (possibilité de remplacer les pictogrammes par une photo).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle6.png",
+          "text": "La synthèse vocale doit pouvoir être ralentie."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle7.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle8.png",
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle9.png",
+          "text": "Les intitulés et les pictogrammes de boutons doivent être homogènes d'une page à l'autre s'ils ont la même fonction.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Perception-regle6.png",
+          "text": "Une interface audio doit systématiquement proposer un support visuel."
+        }
       ],
       "comprehension": [
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle1.png", "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments entre les pages." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle2.png", "text": "Proposer des tunnels d’action pour les fonctions complexes.", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle3.png", "text": "Vocaliser la fonction [1] puis donner un guidage supplémentaire sur son utilité [2] et sur la façon de l’activer [3]." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle4.png", "text": "Proposer des termes compréhensibles et adaptés au niveau de langue (éviter les termes en anglais, les sigles...)." },
-        { "src": "/illustrations/facile-pp-new/Facile++-Comprehension-regle5.png", "text": "Formuler les contenus à la forme active (Facile À Lire et à Comprendre – FALC)." },
-        { "src": "/illustrations/facile-pp-new/Facile++-Comprehension-regle6.png", "text": "Faire des phrases courtes (Facile À Lire et à Comprendre – FALC)." },
-        { "src": "/illustrations/facile-pp-new/Facile++-Comprehension-regle7.png", "text": "Compléter le texte par des images (Facile À Lire et à Comprendre – FALC)." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle8.png", "text": "Limiter la quantité d’objets d’interface." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle9.png", "text": "Préférer de grandes listes à trop de profondeur.", "wide": true },
-        { "src": "/illustrations/facile-pp-new/Facile++-Comprehension-regle10.png", "text": "Proposer des interfaces adaptatives permettant de rajouter des fonctions complexes au fur et à mesure.", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle11.png", "text": "Répéter la consigne au bout d’un délai d’inactivité.", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle5.png", "text": "La tâche doit être découpée en séquences d’actions (niveau n, niveau n−1, niveau n−2).", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle6.png", "text": "Prévoir une phase de prise en main multimodale." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle7.png", "text": "Proposer des aides qui prévoient le déroulement d’une tâche sous forme de scénario." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle10.png", "text": "Pour informer l’utilisateur que d’autres éléments sont disponibles même s’ils ne sont pas affichés à l’écran : rendre le dernier élément de la page à moitié visible et mettre un ascenseur incitant à visualiser le reste de la page." },
-        { "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle12.png", "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d’une page." }
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle1.png",
+          "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments entre les pages."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle2.png",
+          "text": "Proposer des tunnels d'action pour les fonctions complexes.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle3.png",
+          "text": "Vocaliser la fonction [1] puis donner un guidage supplémentaire sur son utilité [2] et sur la façon de l'activer [3]."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle4.png",
+          "text": "Proposer des termes compréhensibles et adaptés au niveau de langue (éviter les termes en anglais, les sigles...)."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Comprehension-regle5.png",
+          "text": "Formuler les contenus à la forme active (Facile À Lire et à Comprendre – FALC)."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Comprehension-regle6.png",
+          "text": "Faire des phrases courtes (Facile À Lire et à Comprendre – FALC)."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Comprehension-regle7.png",
+          "text": "Compléter le texte par des images (Facile À Lire et à Comprendre – FALC)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle8.png",
+          "text": "Limiter la quantité d'objets d'interface."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle9.png",
+          "text": "Préférer de grandes listes à trop de profondeur.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Comprehension-regle10.png",
+          "text": "Proposer des interfaces adaptatives permettant de rajouter des fonctions complexes au fur et à mesure.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle11.png",
+          "text": "Répéter la consigne au bout d'un délai d'inactivité.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle5.png",
+          "text": "La tâche doit être découpée en séquences d'actions (niveau n, niveau n−1, niveau n−2).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle6.png",
+          "text": "Prévoir une phase de prise en main multimodale."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle7.png",
+          "text": "Proposer des aides qui prévoient le déroulement d'une tâche sous forme de scénario."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle10.png",
+          "text": "Pour informer l'utilisateur que d'autres éléments sont disponibles même s'ils ne sont pas affichés à l'écran : rendre le dernier élément de la page à moitié visible et mettre un ascenseur incitant à visualiser le reste de la page."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle12.png",
+          "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle1.png",
+          "text": "Limiter les efforts de mémorisation (mots de passe, commandes, numéros de téléphone...).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle2.png",
+          "text": "Proposer des captcha personnalisés de type « association de mots et images familières » plutôt que des captcha de type « lettres déformées » ou « détection d'images inconnues ».",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle4.png",
+          "text": "Rédiger des titres dont la sémantique précise le sujet."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle5.png",
+          "text": "Proposer des animations pour faciliter la compréhension des boutons.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle11.png",
+          "text": "Prédécouper les contenus longs en sous-parties.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle12.png",
+          "text": "Le libellé du bouton est à réutiliser dans le titre cible."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle13.png",
+          "text": "Pas d'image seule ni de texte seul : toujours associer l'un avec l'autre."
+        },
+        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-44.png",
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle14.png",
+          "text": "Découper les instructions en étapes."
+        },
+        {
+          "src": "/illustrations/extras/Facile++-Comprehension-regle38.png",
+          "text": "Éviter les références distantes d'une phrase à l'autre."
+        }
       ],
       "commandes": [
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle1.png", "text": "Émettre des retours visuels (message furtif) sur les actions importantes réalisées." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle2.png", "text": "Commande tactile continue : le doigt peut rester posé longtemps sur l’écran." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle3.png", "text": "Permettre des gestes lents grâce à une validation par appui très long (3s)." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle4.png", "text": "Commande tactile sécurisée : l’utilisateur doit pouvoir interroger les commandes avant de les valider." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle5.png", "text": "Permettre le pointage direct : l’élément cliqué est sous le doigt (commandes tactiles colocalisées)." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle6.png", "text": "Commande vocale sécurisée : l’utilisateur doit pouvoir interroger les commandes avant de les valider.", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png", "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.", "wide": true },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle8.png", "text": "Proposer un didacticiel de manipulation.", "wide": true },
-        { "src": "/illustrations/facile-pp-new/Facile++-Commandes-regle9.png", "text": "Proposer une saisie par commande vocale avec un retour pictographique." },
-        { "src": "/illustrations/facile-pp-new/Facile++-Commandes-regle10.png", "text": "Annoncer systématiquement les commandes vocales disponibles." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle12.png", "text": "Permettre les commandes vocales." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle13.png", "text": "Les retours système doivent présenter des pictogrammes en plus d’un texte court et simple." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle14.png", "text": "Émettre des retours sonores (bip, ding...) sur les actions de navigation." },
-        { "src": "/illustrations/facile-p-new/Facile+-Commandes-regle15.png", "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.", "wide": true },
-        { "src": "/illustrations/facile-pp-new/Facile++-Commandes-regle15.png", "text": "Permettre la personnalisation des commandes vocales.", "wide": true },
-        { "src": "/illustrations/facile-pp-new/Facile++-Commandes-regle16.png", "text": "Proposer un clavier pictographique personnalisable." },
-        { "src": "/illustrations/facile-pp-new/Facile++-Commandes-regle17.png", "text": "Émettre des retours visuels (bouton plein, animations...) sur les actions de navigation." },
-        { "src": "/illustrations/facile-pp-new/Facile++-Commandes-regle18.png", "text": "Émettre des retours audios sur les actions réalisées." }
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle1.png",
+          "text": "Émettre des retours visuels (message furtif) sur les actions importantes réalisées."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle2.png",
+          "text": "Commande tactile continue : le doigt peut rester posé longtemps sur l'écran."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle3.png",
+          "text": "Permettre des gestes lents grâce à une validation par appui très long (3s)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle4.png",
+          "text": "Commande tactile sécurisée : l'utilisateur doit pouvoir interroger les commandes avant de les valider."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle5.png",
+          "text": "Permettre le pointage direct : l'élément cliqué est sous le doigt (commandes tactiles colocalisées)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle6.png",
+          "text": "Commande vocale sécurisée : l'utilisateur doit pouvoir interroger les commandes avant de les valider.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png",
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle8.png",
+          "text": "Proposer un didacticiel de manipulation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Commandes-regle9.png",
+          "text": "Proposer une saisie par commande vocale avec un retour pictographique."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Commandes-regle10.png",
+          "text": "Annoncer systématiquement les commandes vocales disponibles."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle12.png",
+          "text": "Permettre les commandes vocales."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle13.png",
+          "text": "Les retours système doivent présenter des pictogrammes en plus d'un texte court et simple."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle14.png",
+          "text": "Émettre des retours sonores (bip, ding...) sur les actions de navigation."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle15.png",
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Commandes-regle15.png",
+          "text": "Permettre la personnalisation des commandes vocales.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Commandes-regle16.png",
+          "text": "Proposer un clavier pictographique personnalisable."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Commandes-regle17.png",
+          "text": "Émettre des retours visuels (bouton plein, animations...) sur les actions de navigation."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Commandes-regle18.png",
+          "text": "Émettre des retours audios sur les actions réalisées."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle1.png",
+          "text": "Accepter plusieurs formats de saisie (ne pas enfermer l'utilisateur dans un schéma trop strict)."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle2.png",
+          "text": "Pas plus d'un ascenseur au sein d'une page."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle3.png",
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle4.png",
+          "text": "S'assurer que les éléments nécessaires à l'interaction soient directement accessibles dans la page en cours (sans avoir besoin d'utiliser l'ascenseur).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle7.png",
+          "text": "La zone cliquable doit être la plus grande possible (et ne pas se limiter à la case à cocher par exemple)."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle8.png",
+          "text": "Les délais temporels doivent être augmentés."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle9.png",
+          "text": "Permettre à l'utilisateur de corriger ce qu'il a déjà fait."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle10.png",
+          "text": "Permettre à l'utilisateur de revenir sur ses pas."
+        },
+        {
+          "src": "/illustrations/extras/Facile+-Commandes-regle20.png",
+          "text": "Plusieurs niveaux de facilitation doivent être disponibles."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle11.png",
+          "text": "Conserver l'orientation ascenseur sur l'ensemble du service.",
+          "wide": true
+        }
       ]
     }
   },
@@ -135,7 +526,11 @@
         "/illustrations/vocal-p_commandes_vocal-p_manipulation-36n.png",
         "/illustrations/vocal-p_commandes_vocal-p_manipulation-37.png",
         "/illustrations/vocal-p_commandes_vocal-p_manipulation-38nn.png",
-        "/illustrations/vocal-p_commandes_vocal-p_manipulation-40nnbis.png"
+        "/illustrations/vocal-p_commandes_vocal-p_manipulation-40nnbis.png",
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle12.png",
+          "text": "Prévoir une fonction Recherche."
+        }
       ]
     }
   },
@@ -214,20 +609,278 @@
     "picto": "/pictos/lecture-p.svg",
     "sections": {
       "perception": [
-        "/illustrations/lecture-p_perception_dys_perception-82v1-simple.png",
-        "/illustrations/lecture-p_perception_dys_perception-83.png",
-        "/illustrations/lecture-p_perception_dys_perception-84.png",
-        "/illustrations/lecture-p_perception_dys_perception-86.png",
-        "/illustrations/lecture-p_perception_dys_perception-337.png",
-        "/illustrations/lecture-p_perception_dys_perception-419.png",
-        "/illustrations/lecture-p_perception_dys_perception-81v1-lecture-hb.png",
-        "/illustrations/lecture-p_perception_dys_perception-81v2-lecture-gd.png",
-        "/illustrations/lecture-p_perception_dys_perception-81v3-simple.png",
-        "/illustrations/lecture-p_perception_dys_perception-85.png"
+        {
+          "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle1.png",
+          "text": "Utiliser une police de caractères bien lisible.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle2.png",
+          "text": "Lester les caractères susceptibles de basculer."
+        },
+        {
+          "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle3.png",
+          "text": "Proposer une règle de lecture et/ou un masque de lecture."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle7.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+        },
+        {
+          "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle5.png",
+          "text": "Aligner le contenu à gauche sans le justifier."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle8.png",
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+        },
+        {
+          "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle7.png",
+          "text": "Utiliser les règles typographiques de la langue."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Perception-regle3.png",
+          "text": "Les titres doivent être clairement identifiables (graisse, indentation, majuscule)."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Perception-regle6.png",
+          "text": "Une interface audio doit systématiquement proposer un support visuel."
+        }
       ],
-      "comprehension": [],
+      "comprehension": [
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle1.png",
+          "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments entre les pages."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle4.png",
+          "text": "Proposer des termes compréhensibles et adaptés au niveau de langue (éviter les termes en anglais, les sigles...)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle6.png",
+          "text": "Prévoir une phase de prise en main multimodale."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle8.png",
+          "text": "Limiter la quantité d'objets d'interface."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle12.png",
+          "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
+        },
+        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-44.png"
+      ],
       "commandes": [
-        "/illustrations/lecture-p_commandes_dys_manipulation-412.png"
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle4.png",
+          "text": "Commande tactile sécurisée : l'utilisateur doit pouvoir interroger les commandes avant de les valider."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle5.png",
+          "text": "Permettre le pointage direct : l'élément cliqué est sous le doigt (commandes tactiles colocalisées)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png",
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "wide": true
+        }
+      ]
+    }
+  },
+  {
+    "label": "Lecture++",
+    "slug": "lecture-pp",
+    "picto": "/pictos/lecture-pp.svg",
+    "sections": {
+      "perception": [
+        {
+          "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle1.png",
+          "text": "Utiliser une police de caractères bien lisible.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle2.png",
+          "text": "Lester les caractères susceptibles de basculer."
+        },
+        {
+          "src": "/illustrations/lecture-pp-new/Lecture++-Perception-regle3.png",
+          "text": "Proposer des couleurs pour faciliter la lecture des caractères, des syllabes et des phonèmes qui posent problème."
+        },
+        {
+          "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle3.png",
+          "text": "Proposer une règle de lecture et/ou un masque de lecture."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle7.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+        },
+        {
+          "src": "/illustrations/lecture-pp-new/Lecture++-Perception-regle6.png",
+          "text": "Aligner le contenu à gauche sans le justifier et mettre une marge à gauche."
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle8.png",
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+        },
+        {
+          "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle7.png",
+          "text": "Utiliser les règles typographiques de la langue."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Perception-regle3.png",
+          "text": "Les titres doivent être clairement identifiables (graisse, indentation, majuscule)."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Perception-regle6.png",
+          "text": "Une interface audio doit systématiquement proposer un support visuel."
+        }
+      ],
+      "comprehension": [
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle1.png",
+          "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments entre les pages."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle4.png",
+          "text": "Proposer des termes compréhensibles et adaptés au niveau de langue (éviter les termes en anglais, les sigles...)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle6.png",
+          "text": "Prévoir une phase de prise en main multimodale."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle8.png",
+          "text": "Limiter la quantité d'objets d'interface."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle12.png",
+          "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle1.png",
+          "text": "Limiter les efforts de mémorisation (mots de passe, commandes, numéros de téléphone...).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle2.png",
+          "text": "Proposer des captcha personnalisés de type « association de mots et images familières » plutôt que des captcha de type « lettres déformées » ou « détection d'images inconnues ».",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle4.png",
+          "text": "Rédiger des titres dont la sémantique précise le sujet."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle5.png",
+          "text": "Proposer des animations pour faciliter la compréhension des boutons.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle11.png",
+          "text": "Prédécouper les contenus longs en sous-parties.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle12.png",
+          "text": "Le libellé du bouton est à réutiliser dans le titre cible."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle13.png",
+          "text": "Pas d'image seule ni de texte seul : toujours associer l'un avec l'autre."
+        },
+        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-44.png",
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle14.png",
+          "text": "Découper les instructions en étapes."
+        },
+        {
+          "src": "/illustrations/extras/Facile++-Comprehension-regle38.png",
+          "text": "Éviter les références distantes d'une phrase à l'autre."
+        }
+      ],
+      "commandes": [
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle4.png",
+          "text": "Commande tactile sécurisée : l'utilisateur doit pouvoir interroger les commandes avant de les valider."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle2.png",
+          "text": "Commande tactile continue : le doigt peut rester posé longtemps sur l'écran."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle5.png",
+          "text": "Permettre le pointage direct : l'élément cliqué est sous le doigt (commandes tactiles colocalisées)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle6.png",
+          "text": "Commande vocale sécurisée : l'utilisateur doit pouvoir interroger les commandes avant de les valider.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png",
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle12.png",
+          "text": "Permettre les commandes vocales."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle9.png",
+          "text": "Proposer une saisie par commande vocale.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle13.png",
+          "text": "Les retours système doivent présenter des pictogrammes en plus d'un texte court et simple."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle1.png",
+          "text": "Accepter plusieurs formats de saisie (ne pas enfermer l'utilisateur dans un schéma trop strict)."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle2.png",
+          "text": "Pas plus d'un ascenseur au sein d'une page."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle3.png",
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle4.png",
+          "text": "S'assurer que les éléments nécessaires à l'interaction soient directement accessibles dans la page en cours (sans avoir besoin d'utiliser l'ascenseur).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle6.png",
+          "text": "Lors de la saisie, une prédiction doit être disponible."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle7.png",
+          "text": "La zone cliquable doit être la plus grande possible (et ne pas se limiter à la case à cocher par exemple)."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle8.png",
+          "text": "Les délais temporels doivent être augmentés."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle9.png",
+          "text": "Permettre à l'utilisateur de corriger ce qu'il a déjà fait."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle10.png",
+          "text": "Permettre à l'utilisateur de revenir sur ses pas."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle11.png",
+          "text": "Conserver l'orientation ascenseur sur l'ensemble du service.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle12.png",
+          "text": "Prévoir une fonction Recherche."
+        }
       ]
     }
   },
@@ -259,7 +912,11 @@
         "/illustrations/pointage-p_commandes_pointage-p_manipulation-158nn.png",
         "/illustrations/pointage-p_commandes_pointage-p_manipulation-345.png",
         "/illustrations/pointage-p_commandes_pointage-p_manipulation-413.png",
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation_340.png"
+        "/illustrations/pointage-p_commandes_pointage-p_manipulation_340.png",
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle12.png",
+          "text": "Prévoir une fonction Recherche."
+        }
       ]
     }
   },
@@ -300,7 +957,11 @@
         "/illustrations/moteur-p_commandes_moteur-p_manipulation-90.png",
         "/illustrations/moteur-p_commandes_moteur-p_manipulation-92n.png",
         "/illustrations/moteur-p_commandes_moteur-p_manipulation-94n.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-96n.png"
+        "/illustrations/moteur-p_commandes_moteur-p_manipulation-96n.png",
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle12.png",
+          "text": "Prévoir une fonction Recherche."
+        }
       ]
     }
   },
@@ -373,69 +1034,158 @@
     "picto": "/pictos/serein-p.svg",
     "sections": {
       "perception": [
-        "/illustrations/serein-p_perception_calme_perception-13nn.png",
-        "/illustrations/serein-p_perception_calme_perception-16nn.png",
-        "/illustrations/serein-p_perception_calme_perception-29n3bisn.png",
-        "/illustrations/serein-p_perception_calme_perception-300.png",
-        "/illustrations/serein-p_perception_calme_perception-40n.png",
-        "/illustrations/serein-p_perception_calme_perception-43.png",
-        "/illustrations/serein-p_perception_calme_perception-53n1n.png",
-        "/illustrations/serein-p_perception_calme_perception-61nn.png"
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Perception-regle1.png",
+          "text": "La vocalisation doit être activable depuis les réglages."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Perception-regle3.png",
+          "text": "Les intitulés et les pictogrammes de boutons doivent être homogènes d'une page à l'autre s'ils ont la même fonction."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Perception-regle3.png",
+          "text": "Les titres doivent être clairement identifiables (graisse, indentation, majuscule)."
+        },
+        {
+          "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle7.png",
+          "text": "Utiliser les règles typographiques de la langue."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Perception-regle5.png",
+          "text": "Présenter systématiquement ce qui a changé."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Perception-regle6.png",
+          "text": "Une interface audio doit systématiquement proposer un support visuel."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Perception-regle7.png",
+          "text": "Éviter les couleurs saturées ainsi que le rouge et le violet. Préférer des pastels, du vert, du bleu.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle9.png",
+          "text": "Les intitulés et les pictogrammes de boutons doivent être homogènes d'une page à l'autre s'ils ont la même fonction.",
+          "wide": true
+        }
       ],
       "comprehension": [
-        "/illustrations/serein-p_comprehension_calme-compr-phension-20n.png",
-        "/illustrations/serein-p_comprehension_calme_compr-phension-58n.png",
-        "/illustrations/serein-p_comprehension_calme_compr-phension-60n.png",
-        "/illustrations/serein-p_comprehension_calme_compr-phension-62n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-09n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-10n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-11nn.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-14n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-15nn.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-17n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-18nn.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-19n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-21n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-22n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-23nn-bis.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-23nn.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-30n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-32n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-33n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-34n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-34bis.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-35n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-36nn.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-37n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-38n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-39n-1-.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-41nn.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-42n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-46nn.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-47n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-54n.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-55.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-56nn.png",
-        "/illustrations/serein-p_comprehension_calme_comprehension-57n.png"
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle1.png",
+          "text": "Limiter les efforts de mémorisation (mots de passe, commandes, numéros de téléphone...).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle2.png",
+          "text": "Proposer des captcha personnalisés de type « association de mots et images familières » plutôt que des captcha de type « lettres déformées » ou « détection d'images inconnues ».",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle2.png",
+          "text": "Proposer des tunnels d'action pour les fonctions complexes.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle4.png",
+          "text": "Rédiger des titres dont la sémantique précise le sujet."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle5.png",
+          "text": "Proposer des animations pour faciliter la compréhension des boutons.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle6.png",
+          "text": "Éviter les tons enjoués, le surjeu émotionnel de l'interface."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle7.png",
+          "text": "Prévoir sur l'ensemble de l'interface un minuteur pour anticiper la fin de tâche.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle8.png",
+          "text": "Enrichir les fonctions comme la prise d'appel par des animations pour permettre à l'utilisateur d'anticiper la situation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle9.png",
+          "text": "Prévoir des rappels de tâches."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle12.png",
+          "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle11.png",
+          "text": "Prédécouper les contenus longs en sous-parties.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle12.png",
+          "text": "Le libellé du bouton est à réutiliser dans le titre cible."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle13.png",
+          "text": "Pas d'image seule ni de texte seul : toujours associer l'un avec l'autre."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle14.png",
+          "text": "Découper les instructions en étapes."
+        }
       ],
       "commandes": [
-        "/illustrations/serein-p_commandes_calme_manipulation-24nn.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-25.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-27nn.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-28n.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-301.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-31nn.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-422.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-44n.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-45.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-48nn.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-49n.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-50n.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-51nn.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-52nn.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-59n.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-63n.png",
-        "/illustrations/serein-p_commandes_calme_manipulation-64n1n.png"
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle1.png",
+          "text": "Accepter plusieurs formats de saisie (ne pas enfermer l'utilisateur dans un schéma trop strict)."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle2.png",
+          "text": "Pas plus d'un ascenseur au sein d'une page."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle3.png",
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle4.png",
+          "text": "S'assurer que les éléments nécessaires à l'interaction soient directement accessibles dans la page en cours (sans avoir besoin d'utiliser l'ascenseur).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle5.png",
+          "text": "Permettre d'annuler les actions qui demandent du temps."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle6.png",
+          "text": "Lors de la saisie, une prédiction doit être disponible."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle7.png",
+          "text": "La zone cliquable doit être la plus grande possible (et ne pas se limiter à la case à cocher par exemple)."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle8.png",
+          "text": "Les délais temporels doivent être augmentés."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle9.png",
+          "text": "Permettre à l'utilisateur de corriger ce qu'il a déjà fait."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle10.png",
+          "text": "Permettre à l'utilisateur de revenir sur ses pas."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle11.png",
+          "text": "Conserver l'orientation ascenseur sur l'ensemble du service.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle12.png",
+          "text": "Prévoir une fonction Recherche."
+        }
       ]
     }
   },
@@ -461,7 +1211,11 @@
         "/illustrations/microgeste-p_commandes_microgeste_manipulation-311.png",
         "/illustrations/microgeste-p_commandes_microgeste_manipulation-312.png",
         "/illustrations/microgeste-p_commandes_microgeste_manipulation-350.png",
-        "/illustrations/microgeste-p_commandes_microgeste_manipulation-393.png"
+        "/illustrations/microgeste-p_commandes_microgeste_manipulation-393.png",
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle12.png",
+          "text": "Prévoir une fonction Recherche."
+        }
       ]
     }
   },
@@ -471,29 +1225,93 @@
     "picto": "/pictos/graphique-p.png",
     "sections": {
       "perception": [
-        "/illustrations/graphique-p_perception_graphique_perception-172.png",
-        "/illustrations/graphique-p_perception_graphique_perception-174.png",
-        "/illustrations/graphique-p_perception_graphique_perception-175.png",
-        "/illustrations/graphique-p_perception_graphique_perception-336.png",
-        "/illustrations/graphique-p_perception_graphique_perception-339.png",
-        "/illustrations/graphique-p_perception_graphique_perception-407.png"
+        {
+          "src": "/illustrations/graphique-p-new/Graphique+-Perception-regle1.png",
+          "text": "Proposer une vocalisation pour tous les types d'éléments (d'action et d'information)."
+        },
+        {
+          "src": "/illustrations/graphique-p-new/Graphique+-Perception-regle2.png",
+          "text": "Traduire l'interface en images."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Perception-regle4.png",
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+        },
+        {
+          "src": "/illustrations/graphique-p-new/Graphique+-Perception-regle4.png",
+          "text": "La vocalisation des moyens d'actions (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Perception-regle4.png",
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Perception-regle1.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+        }
       ],
       "comprehension": [
-        "/illustrations/graphique-p_comprehension_graphique-compr-phension-353.png",
-        "/illustrations/graphique-p_comprehension_graphique_compr-phension_353.png",
-        "/illustrations/graphique-p_comprehension_graphique_compr-phension_353bis.png",
-        "/illustrations/graphique-p_comprehension_graphique_comprehension-180nn.png",
-        "/illustrations/graphique-p_comprehension_graphique_comprehension-386.png",
-        "/illustrations/graphique-p_comprehension_graphique_comprehension-386bis.png"
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle1.png",
+          "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments entre les pages."
+        },
+        {
+          "src": "/illustrations/graphique-p-new/Graphique+-Comprehension-regle2.png",
+          "text": "Proposer des tunnels d'action pour les fonctions complexes.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle12.png",
+          "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
+        },
+        {
+          "src": "/illustrations/graphique-p-new/Graphique+-Comprehension-regle4.png",
+          "text": "Proposer des illustrations dessinées pour les contenus et commandes plutôt que des photos."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle5.png",
+          "text": "Proposer des animations pour faciliter la compréhension des boutons.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle8.png",
+          "text": "Enrichir les fonctions comme la prise d'appel par des animations pour permettre à l'utilisateur d'anticiper la situation.",
+          "wide": true
+        }
       ],
       "commandes": [
-        "/illustrations/graphique-p_commandes_graphique_manipulation-425-v1.png",
-        "/illustrations/graphique-p_commandes_graphique_manipulation-450.png",
-        "/illustrations/graphique-p_commandes_graphique_manipulation-455.png",
-        "/illustrations/graphique-p_commandes_graphique_manipulation-176n.png",
-        "/illustrations/graphique-p_commandes_graphique_manipulation-177n1n.png",
-        "/illustrations/graphique-p_commandes_graphique_manipulation-178.png",
-        "/illustrations/graphique-p_commandes_graphique_manipulation-308.png"
+        {
+          "src": "/illustrations/graphique-p-new/Graphique+-Commandes-regle1.png",
+          "text": "L'utilisateur doit pouvoir interroger le clavier avant de valider la touche. De même, le contenu saisi peut être vocalisé sur demande.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/graphique-p-new/Graphique+-Commandes-regle2.png",
+          "text": "L'utilisateur doit pouvoir interroger les boutons avant de les valider."
+        },
+        {
+          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png",
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/graphique-p-new/Graphique+-Commandes-regle4.png",
+          "text": "Pour la saisie d'informations, l'utilisateur doit avoir le choix entre : la saisie par clavier, par pictogrammes ou par commande vocale.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/graphique-p-new/Graphique+-Commandes-regle5.png",
+          "text": "Émettre des retours visuels (message furtif) sur les actions importantes réalisées."
+        },
+        {
+          "src": "/illustrations/graphique-p-new/Graphique+-Commandes-regle6.png",
+          "text": "Émettre des retours haptiques (vibration) sur les actions réalisées et les actions de navigation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/graphique-p-new/Graphique+-Commandes-regle7.png",
+          "text": "Émettre des retours sonores (bip, ding...) sur les actions de navigation."
+        }
       ]
     }
   }

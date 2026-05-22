@@ -6,7 +6,7 @@ export const Route = createFileRoute("/modes/")({
   head: () => ({
     meta: [
       { title: "Tous les modes d'usages — Catalogue" },
-      { name: "description", content: "Catalogue complet des 13 modes d'usages d'accessibilité ergonomique." },
+      { name: "description", content: "Catalogue complet des 14 modes d'usages d'accessibilité ergonomique." },
     ],
   }),
   component: ModesIndex,

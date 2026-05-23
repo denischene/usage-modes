@@ -102,7 +102,10 @@
           "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle13.png",
           "text": "Pas d'image seule ni de texte seul : toujours associer l'un avec l'autre."
         },
-        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-44.png",
+        {
+          "src": "/illustrations/extras/Facile+-Comprehension-regle19.png",
+          "text": "Au début des longs documents fournir l'information résumée."
+        },
         {
           "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle14.png",
           "text": "Découper les instructions en étapes."
@@ -176,8 +179,7 @@
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle3.png",
-          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation.",
-          "wide": true
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle4.png",
@@ -242,7 +244,8 @@
         },
         {
           "src": "/illustrations/facile-pp-new/Facile++-Perception-regle8.png",
-          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         },
         {
           "src": "/illustrations/facile-pp-new/Facile++-Perception-regle9.png",
@@ -356,7 +359,10 @@
           "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle13.png",
           "text": "Pas d'image seule ni de texte seul : toujours associer l'un avec l'autre."
         },
-        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-44.png",
+        {
+          "src": "/illustrations/extras/Facile+-Comprehension-regle19.png",
+          "text": "Au début des longs documents fournir l'information résumée."
+        },
         {
           "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle14.png",
           "text": "Découper les instructions en étapes."
@@ -454,8 +460,7 @@
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle3.png",
-          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation.",
-          "wide": true
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle4.png",
@@ -668,7 +673,10 @@
           "src": "/illustrations/facile-p-new/Facile+-Comprehension-regle12.png",
           "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
         },
-        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-44.png"
+        {
+          "src": "/illustrations/extras/Facile+-Comprehension-regle19.png",
+          "text": "Au début des longs documents fournir l'information résumée."
+        }
       ],
       "commandes": [
         {
@@ -844,8 +852,7 @@
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle3.png",
-          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation.",
-          "wide": true
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle4.png",
@@ -926,41 +933,127 @@
     "picto": "/pictos/moteur-p.svg",
     "sections": {
       "perception": [
-        "/illustrations/moteur-p_perception_moteur-p_perception-394.png",
-        "/illustrations/moteur-p_perception_moteur-p_perception-87n1n-bis.png",
-        "/illustrations/moteur-p_perception_moteur-p_perception-89n.png",
-        "/illustrations/moteur-p_perception_moteur-p_perception-313.png",
-        "/illustrations/moteur-p_perception_moteur-p_perception-313bis.png",
-        "/illustrations/moteur-p_perception_moteur-p_perception-314.png",
-        "/illustrations/moteur-p_perception_moteur-p_perception-315.png",
-        "/illustrations/moteur-p_perception_moteur-p_perception-344.png",
-        "/illustrations/moteur-p_perception_moteur-p_perception-88n.png"
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle1.png",
+          "text": "Les éléments de l'interface sont suffisamment grands pour être vus de loin."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle2.png",
+          "text": "Proposer une vocalisation pour tous les types d'éléments d'action et d'information.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle3.png",
+          "text": "Émettre des retours sonores sur les actions réalisées."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle4.png",
+          "text": "Le niveau de son doit être suffisamment élevé."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle5.png",
+          "text": "L'élément sélectionné doit être clairement visible.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle6.png",
+          "text": "Marquer la séparation entre le début et la fin de la liste par un rendu visuel et audio."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle7.png",
+          "text": "La vocalisation doit être désactivable."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle8.png",
+          "text": "Utiliser des contrastes et couleurs adaptés."
+        }
       ],
       "comprehension": [
-        "/illustrations/moteur-p_comprehension_moteur-p_comprehension-101n.png"
+        {
+          "src": "",
+          "text": "Aucune règle de compréhension spécifique n'est nécessaire pour ce mode d'usage.",
+          "noImage": true
+        }
       ],
       "commandes": [
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-145nn.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-315.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-448.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-316.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-91n.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-95n.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-97nn.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-100.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-317ok.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-318.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-319.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-320.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-342.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-369.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-90.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-92n.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-94n.png",
-        "/illustrations/moteur-p_commandes_moteur-p_manipulation-96n.png",
         {
-          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle12.png",
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle1.png",
           "text": "Prévoir une fonction Recherche."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle2.png",
+          "text": "Les listes et les mosaïques doivent pouvoir être parcourues par des boucles. Les boucles vont de haut en bas pour les listes, et sont en Z pour les mosaïques."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle3.png",
+          "text": "Le clavier virtuel des lettres doit être utilisable en séquentiel.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle4.png",
+          "text": "Lors de la saisie, une prédiction de la lettre, du mot ou de la phrase la plus probable doit être proposée."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle5.png",
+          "text": "Proposer trois commandes suffisantes pour la navigation."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle6.png",
+          "text": "Proposer une alternative au « tirer-déposer ». Pour cela, décomposer l'action en 4 temps.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle7.png",
+          "text": "La manipulation du focus par défilement est décolocalisée (le focus déplacé n'est pas forcément sous l'appui) et se fait en séquentiel."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle8.png",
+          "text": "Permettre l'usage d'un périphérique de pointage. Dans ce cas la manipulation du focus est décolocalisée (le focus déplacé n'est pas forcément sous le doigt)."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle9.png",
+          "text": "Préférer de grandes listes à trop de profondeur.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle10.png",
+          "text": "L'appui long permettant de valider doit être lent."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle11.png",
+          "text": "Le clavier virtuel des chiffres doit être utilisable en séquentiel.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle12.png",
+          "text": "Pour la saisie d'information l'utilisateur doit avoir le choix entre un clavier navigable en séquentiel ou une commande vocale.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle13.png",
+          "text": "Proposer des interfaces adaptatives.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle14.png",
+          "text": "S'assurer que tout l'écran ne fonctionne que comme un seul gros bouton (qui déclenche l'élément focusé dans la page)."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle15.png",
+          "text": "Permettre la connexion d'un contacteur sur tous les dispositifs."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle16.png",
+          "text": "Éviter les actions répétées involontaires : laisser son doigt sur l'écran ou sur le clavier ne doit pas déclencher d'actions répétées.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle17.png",
+          "text": "Permettre le défilement manuel du focus (navigation pas à pas)."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle18.png",
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation."
         }
       ]
     }
@@ -1145,8 +1238,7 @@
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle3.png",
-          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation.",
-          "wide": true
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle4.png",
@@ -1246,8 +1338,9 @@
           "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Perception-regle1.png",
-          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle5.png",
+          "text": "Permettre à l'aidant de personnaliser les pictogrammes (possibilité de remplacer les pictogrammes par une photo).",
+          "wide": true
         }
       ],
       "comprehension": [

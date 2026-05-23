@@ -40,7 +40,32 @@ function AboutPage() {
 
       <h2 className="mt-12 text-2xl font-bold">Origine du projet</h2>
       <p className="mt-3">
-        Les modes d’usages sont issus des travaux de recherche du Programme Accessibilité Salariés d’Orange Lab.
+        Les modes d'usages sont issus des travaux de recherche du Programme Accessibilité Salariés d'Orange Lab.
+      </p>
+      <p className="mt-4">
+        <img
+          src="/logo-orange.png"
+          alt="logo de l'entreprise de Télécom Orange"
+          className="inline-block h-16 w-auto"
+        />
+      </p>
+
+      <h2 className="mt-12 text-2xl font-bold">Licence</h2>
+      <p className="mt-3">
+        Documentation sous licence CC BY SA 4.0
+        <img
+          src="/by-sa.svg"
+          alt="logo d'une licence Creative Commons"
+          className="ml-2 inline-block h-5 w-auto align-middle"
+        />
+        {" "}(pictogrammes, illustrations et textes).
+      </p>
+      <p className="mt-3">
+        Le logo Orange est la propriété d'Orange : Copyright © 2026 Orange SA All rights reserved.
+      </p>
+      <p className="mt-3">
+        Les pictogrammes des modes d'usages sont référencés dans la norme «&nbsp;ISO/IEC 11581-7:2024 Icônes
+        d'interface utilisateur — Partie 7&nbsp;: Icônes utilisées pour régler les modes d'interaction&nbsp;».
       </p>
 
       <div className="mt-12">

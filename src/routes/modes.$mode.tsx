@@ -115,15 +115,18 @@ function ModePage() {
                     const src = typeof item === "string" ? item : item.src;
                     const customText = typeof item === "string" ? undefined : item.text;
                     const wide = typeof item === "string" ? false : !!item.wide;
+                    const noImage = typeof item !== "string" && !src;
                     const caption = `${mode.label} · ${s.title} · règle ${i + 1}`;
                     const alt = `Règle illustrée ${s.title} n°${i + 1} pour le mode ${mode.label}. La règle est écrite en haut de l'illustration.`;
                     return (
-                      <li key={src} className={`border-2 border-border bg-background ${wide ? "sm:col-span-2" : ""}`}>
+                      <li key={`${src || "no-img"}-${i}`} className={`border-2 border-border bg-background ${wide ? "sm:col-span-2" : ""}`}>
                         <article className="flex flex-col">
                           <header className="border-b border-border px-4 py-3">
-                            <p className="text-xs font-bold uppercase tracking-wider text-primary">
-                              {s.title} · règle {i + 1}
-                            </p>
+                            {!noImage && (
+                              <p className="text-xs font-bold uppercase tracking-wider text-primary">
+                                {s.title} · règle {i + 1}
+                              </p>
+                            )}
                             <p className="mt-1 text-sm text-foreground">
                               {customText ?? (
                                 <>
@@ -133,7 +136,7 @@ function ModePage() {
                               )}
                             </p>
                           </header>
-                          <RuleImage src={src} alt={alt} caption={caption} />
+                          {!noImage && <RuleImage src={src} alt={alt} caption={caption} />}
                         </article>
                       </li>
                     );

@@ -5,7 +5,7 @@ export const Route = createFileRoute("/modes")({
   head: () => ({
     meta: [
       { title: "Tous les modes d'usages — Accessibilité ergonomique" },
-      { name: "description", content: "Liste des modes d'usages : Facile+, Facile++, Vocal+, Vision+, Vision++, Lecture+, Lecture++, Pointage+, Moteur+, Audio+, LSF+, Serein+, Microgeste+, Graphique+." },
+      { name: "description", content: "Liste des modes d'usages : Facile+, Facile++, Vocal+, Vision+, Vision++, Lecture+, Lecture++, Pointage+, Moteur+, Moteur++, Audio+, LSF+, Serein+, Microgeste+, Graphique+." },
     ],
   }),
   component: ModesLayout,

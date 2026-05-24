@@ -6,8 +6,9 @@
     "sections": {
       "perception": [
         {
-          "src": "/illustrations/facile-p-new/Facile+-Perception-regle1.png",
-          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/extras/Facile++-Perception-regle7.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         },
         {
           "src": "/illustrations/facile-p-new/Facile+-Perception-regle2.png",

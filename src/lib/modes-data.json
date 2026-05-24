@@ -1051,8 +1051,9 @@
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle17.png",
-          "text": "Permettre le défilement manuel du focus (navigation pas à pas)."
+          "src": "/illustrations/extras/Moteur+-Commandes-regle17.png",
+          "text": "Permettre le défilement manuel du focus (\"Tap\" en tactile, \"Tabulation\" sur clavier) et la validation par une seconde commande (\"Appui long\" en tactile, \"Entrer\" sur clavier).",
+          "wide": true
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle18.png",

@@ -35,6 +35,7 @@ export const MODE_DESCRIPTIONS: Record<string, string> = {
   "Lecture++": "Aides à la lecture renforcées pour la dyslexie : couleurs, marges, masques de lecture.",
   "Pointage+": "Adaptation du pointage : cibles larges, tolérance, précision.",
   "Moteur+": "Réduction de l'effort moteur : raccourcis, alternatives, séquences courtes.",
+  "Moteur++": "Adaptations renforcées pour défilement automatique du focus et commande unique.",
   "Audio+": "Adaptations pour l'audition : sous-titres, transcriptions, volumes.",
   "LSF+": "Langue des signes française : interprétation, vidéos signées.",
   "Serein+": "Apaisement de l'expérience : focus, absence de pression temporelle.",

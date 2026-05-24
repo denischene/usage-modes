@@ -6,8 +6,9 @@
     "sections": {
       "perception": [
         {
-          "src": "/illustrations/facile-p-new/Facile+-Perception-regle1.png",
-          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/extras/Facile++-Perception-regle7.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         },
         {
           "src": "/illustrations/facile-p-new/Facile+-Perception-regle2.png",
@@ -239,8 +240,9 @@
           "text": "La synthèse vocale doit pouvoir être ralentie."
         },
         {
-          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle7.png",
-          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/extras/Facile++-Perception-regle7.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         },
         {
           "src": "/illustrations/facile-pp-new/Facile++-Perception-regle8.png",
@@ -943,7 +945,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle3.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Perception-règle3.png",
           "text": "Émettre des retours sonores sur les actions réalisées."
         },
         {
@@ -996,7 +998,7 @@
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle5.png",
-          "text": "Proposer trois commandes suffisantes pour la navigation."
+          "text": "Proposer trois commandes de défilement manuel suffisantes pour la navigation (Suivant-Valider-Retour hiérarchique)."
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle6.png",
@@ -1049,8 +1051,178 @@
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle17.png",
-          "text": "Permettre le défilement manuel du focus (navigation pas à pas)."
+          "src": "/illustrations/extras/Moteur+-Commandes-regle17.png",
+          "text": "Permettre le défilement manuel du focus (\"Tap\" en tactile, \"Tabulation\" sur clavier) et la validation par une seconde commande (\"Appui long\" en tactile, \"Entrer\" sur clavier).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle18.png",
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation."
+        }
+      ]
+    }
+  },
+  {
+    "label": "Moteur++",
+    "slug": "moteur-pp",
+    "picto": "/pictos/moteur-pp.svg",
+    "sections": {
+      "perception": [
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle1.png",
+          "text": "Les éléments de l'interface sont suffisamment grands pour être vus de loin."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle2.png",
+          "text": "Proposer une vocalisation pour tous les types d'éléments d'action et d'information.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Perception-règle3.png",
+          "text": "Émettre des retours sonores sur les actions réalisées."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle4.png",
+          "text": "Le niveau de son doit être suffisamment élevé."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle5.png",
+          "text": "L'élément sélectionné doit être clairement visible.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle6.png",
+          "text": "Marquer la séparation entre le début et la fin de la liste par un rendu visuel et audio."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle7.png",
+          "text": "La vocalisation doit être désactivable."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle8.png",
+          "text": "Utiliser des contrastes et couleurs adaptés.",
+          "wide": true
+        }
+      ],
+      "comprehension": [
+        {
+          "src": "",
+          "text": "Aucune règle de compréhension spécifique n'est nécessaire pour ce mode d'usage.",
+          "noImage": true
+        }
+      ],
+      "commandes": [
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle1.png",
+          "text": "Prévoir une fonction Recherche."
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle2.png",
+          "text": "Prévoir une fonction de recherche prédictive."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle2.png",
+          "text": "Les listes et les mosaïques doivent pouvoir être parcourues par des boucles. Les boucles vont de haut en bas pour les listes, et sont en Z pour les mosaïques."
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle4.png",
+          "text": "Permettre le défilement AUTOMATIQUE du focus (navigation pas à pas)."
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle5.png",
+          "text": "Lors d'un défilement automatique, l'utilisateur ne fait que Valider le focus en cours. Cela ouvre alors une fenêtre contextuelle où le focus défile encore automatiquement entre Confirmation et Annulation."
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle6.png",
+          "text": "La vitesse de défilement par défaut du focus doit être de 1 seconde."
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle7.png",
+          "text": "La vitesse de défilement du focus doit être paramétrable.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle8.png",
+          "text": "Le défilement automatique du focus se met en pause après une longue période d'inactivité de l'utilisateur (3 boucles de défilement auto)."
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle9.png",
+          "text": "Après mise en pause du défilement, une validation (par appui bref ou long) fait reprendre le défilement mais ne valide pas l'objet en cours de focus. La reprise de défilement se fait après un bref délai."
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle10.png",
+          "text": "Proposer des interfaces adaptatives permettant d'ajuster la vitesse de déplacement du focus en fonction des performances de l'usager.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle11.png",
+          "text": "Lorsque l'utilisateur ne peut effectuer qu'une seule commande, le système doit permettre qu'elle soit réalisée de plusieurs façons.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle12.png",
+          "text": "Au-delà de la Confirmation et l'Annulation de l'action en cours, il est possible de proposer plusieurs actions dans un menu contextuel."
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle13.png",
+          "text": "Proposer un mode \"Défilement automatique\" avec une seule commande, et un mode \"Défilement semi-automatique\" avec deux commandes de navigation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle3.png",
+          "text": "Le clavier virtuel des lettres doit être utilisable en séquentiel.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle4.png",
+          "text": "Lors de la saisie, une prédiction de la lettre, du mot ou de la phrase la plus probable doit être proposée."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle6.png",
+          "text": "Proposer une alternative au « tirer-déposer ». Pour cela, décomposer l'action en 4 temps.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/extras/Moteur+-Commandes-regle17.png",
+          "text": "Permettre le défilement manuel du focus (\"Tap\" en tactile, \"Tabulation\" sur clavier) et la validation par une seconde commande (\"Appui long\" en tactile, \"Entrer\" sur clavier).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle9.png",
+          "text": "Préférer de grandes listes à trop de profondeur.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle10.png",
+          "text": "L'appui long permettant de valider doit être lent."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle11.png",
+          "text": "Le clavier virtuel des chiffres doit être utilisable en séquentiel.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle12.png",
+          "text": "Pour la saisie d'information l'utilisateur doit avoir le choix entre un clavier navigable en séquentiel ou une commande vocale.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle13.png",
+          "text": "Proposer des interfaces adaptatives.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle14.png",
+          "text": "S'assurer que tout l'écran ne fonctionne que comme un seul gros bouton (qui déclenche l'élément focusé dans la page)."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle15.png",
+          "text": "Permettre la connexion d'un contacteur sur tous les dispositifs."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle16.png",
+          "text": "Éviter les actions répétées involontaires : laisser son doigt sur l'écran ou sur le clavier ne doit pas déclencher d'actions répétées.",
+          "wide": true
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle18.png",
@@ -1331,8 +1503,9 @@
           "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
         },
         {
-          "src": "/illustrations/graphique-p-new/Graphique+-Perception-regle4.png",
-          "text": "La vocalisation des moyens d'actions (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/extras/Graphique+-Perception-regle4.png",
+          "text": "La vocalisation des moyens d'actions (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         },
         {
           "src": "/illustrations/facile-p-new/Facile+-Perception-regle4.png",

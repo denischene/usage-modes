@@ -240,8 +240,9 @@
           "text": "La synthèse vocale doit pouvoir être ralentie."
         },
         {
-          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle7.png",
-          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/extras/Facile++-Perception-regle7.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         },
         {
           "src": "/illustrations/facile-pp-new/Facile++-Perception-regle8.png",

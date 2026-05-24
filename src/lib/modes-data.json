@@ -1333,8 +1333,9 @@
           "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
         },
         {
-          "src": "/illustrations/graphique-p-new/Graphique+-Perception-regle4.png",
-          "text": "La vocalisation des moyens d'actions (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/extras/Graphique+-Perception-regle4.png",
+          "text": "La vocalisation des moyens d'actions (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         },
         {
           "src": "/illustrations/facile-p-new/Facile+-Perception-regle4.png",

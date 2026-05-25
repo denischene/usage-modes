@@ -19,7 +19,7 @@
           "text": "Les intitulés et les pictogrammes de boutons doivent être homogènes d'une page à l'autre s'ils ont la même fonction."
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Perception-regle4.png",
+          "src": "/illustrations/extras/Facile+-Perception-regle4-v2.png",
           "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
         }
       ],
@@ -77,7 +77,7 @@
           "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
         },
         {
-          "src": "/illustrations/extras/Lecture++-Compréhension-règle13.png",
+          "src": "/illustrations/extras/Facile+-Comprehension-regle13.png",
           "text": "Limiter les efforts de mémorisation (mots de passe, commandes, numéros de téléphone...).",
           "wide": true
         },
@@ -325,7 +325,7 @@
           "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
         },
         {
-          "src": "/illustrations/extras/Facile++-Compréhension-règle17.png",
+          "src": "/illustrations/extras/Serein+-Comprehension-regle1.png",
           "text": "Limiter les efforts de mémorisation (mots de passe, commandes, numéros de téléphone...).",
           "wide": true
         },
@@ -461,8 +461,7 @@
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle4.png",
-          "text": "S'assurer que les éléments nécessaires à l'interaction soient directement accessibles dans la page en cours (sans avoir besoin d'utiliser l'ascenseur).",
-          "wide": true
+          "text": "S'assurer que les éléments nécessaires à l'interaction soient directement accessibles dans la page en cours (sans avoir besoin d'utiliser l'ascenseur)."
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle7.png",
@@ -770,7 +769,7 @@
           "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
         },
         {
-          "src": "/illustrations/extras/Lecture++-Compréhension-règle6.png",
+          "src": "/illustrations/extras/Serein+-Comprehension-regle1.png",
           "text": "Limiter les efforts de mémorisation (mots de passe, commandes, numéros de téléphone...).",
           "wide": true
         },
@@ -968,7 +967,8 @@
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle7.png",
-          "text": "La vocalisation doit être désactivable."
+          "text": "La vocalisation doit être désactivable.",
+          "wide": true
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle8.png",
@@ -1003,7 +1003,8 @@
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle5.png",
-          "text": "Proposer trois commandes de défilement manuel suffisantes pour la navigation (Suivant-Valider-Retour hiérarchique)."
+          "text": "Proposer trois commandes de défilement manuel suffisantes pour la navigation (Suivant-Valider-Retour hiérarchique).",
+          "wide": true
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle6.png",
@@ -1033,7 +1034,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle12.png",
+          "src": "/illustrations/extras/Moteur+-Commandes-regle12.png",
           "text": "Pour la saisie d'information l'utilisateur doit avoir le choix entre un clavier navigable en séquentiel ou une commande vocale.",
           "wide": true
         },
@@ -1062,7 +1063,8 @@
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle18.png",
-          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation."
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
+          "wide": true
         },
         {
           "src": "/illustrations/extras/Moteur+-Commandes-règle19.png",
@@ -1212,7 +1214,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle12.png",
+          "src": "/illustrations/extras/Moteur+-Commandes-regle12.png",
           "text": "Pour la saisie d'information l'utilisateur doit avoir le choix entre un clavier navigable en séquentiel ou une commande vocale.",
           "wide": true
         },
@@ -1236,7 +1238,8 @@
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle18.png",
-          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation."
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
+          "wide": true
         },
         {
           "src": "/illustrations/extras/Moteur++-Commandes-règle27.png",
@@ -1319,8 +1322,8 @@
           "text": "La vocalisation doit être activable depuis les réglages."
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Perception-regle3.png",
-          "text": "Les intitulés et les pictogrammes de boutons doivent être homogènes d'une page à l'autre s'ils ont la même fonction."
+          "src": "/illustrations/extras/Serein+-Perception-regle2.png",
+          "text": "Recentrer dans la vue les messages systèmes"
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Perception-regle3.png",
@@ -1347,11 +1350,21 @@
           "src": "/illustrations/facile-pp-new/Facile++-Perception-regle9.png",
           "text": "Les intitulés et les pictogrammes de boutons doivent être homogènes d'une page à l'autre s'ils ont la même fonction.",
           "wide": true
+        },
+        {
+          "src": "/illustrations/extras/Facile++-Perception-regle7.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/extras/Facile++-Perception-règle8.png",
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         }
       ],
       "comprehension": [
         {
-          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle1.png",
+          "src": "/illustrations/extras/Serein+-Comprehension-regle1.png",
           "text": "Limiter les efforts de mémorisation (mots de passe, commandes, numéros de téléphone...).",
           "wide": true
         },
@@ -1512,7 +1525,7 @@
           "text": "Traduire l'interface en images."
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Perception-regle4.png",
+          "src": "/illustrations/extras/Facile++-Perception-règle8.png",
           "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
         },
         {
@@ -1521,8 +1534,9 @@
           "wide": true
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Perception-regle4.png",
-          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/extras/Graphique+-Perception-regle5.png",
+          "text": "Permettre à l'aidant de créer des étiquettes vocales (enregistrements du libellé de tout élément d'interface, commandes, messages...)",
+          "wide": true
         },
         {
           "src": "/illustrations/facile-pp-new/Facile++-Perception-regle5.png",

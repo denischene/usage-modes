@@ -77,7 +77,7 @@
           "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
         },
         {
-          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle1.png",
+          "src": "/illustrations/extras/Lecture++-Compréhension-règle13.png",
           "text": "Limiter les efforts de mémorisation (mots de passe, commandes, numéros de téléphone...).",
           "wide": true
         },
@@ -158,10 +158,6 @@
           "text": "Annoncer, lors des premières utilisations ou à la demande, les commandes vocales disponibles."
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle11.png",
-          "text": "Proposer des commandes tactiles colocalisées (l'élément cliqué est sous le doigt)."
-        },
-        {
           "src": "/illustrations/facile-p-new/Facile+-Commandes-regle12.png",
           "text": "Permettre les commandes vocales."
         },
@@ -179,13 +175,12 @@
           "wide": true
         },
         {
-          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle3.png",
+          "src": "/illustrations/extras/Facile+-Commandes-règle16.png",
           "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle4.png",
-          "text": "S'assurer que les éléments nécessaires à l'interaction soient directement accessibles dans la page en cours (sans avoir besoin d'utiliser l'ascenseur).",
-          "wide": true
+          "text": "S'assurer que les éléments nécessaires à l'interaction soient directement accessibles dans la page en cours (sans avoir besoin d'utiliser l'ascenseur)."
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle8.png",
@@ -245,7 +240,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle8.png",
+          "src": "/illustrations/extras/Facile++-Perception-règle8.png",
           "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
           "wide": true
         },
@@ -330,7 +325,7 @@
           "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
         },
         {
-          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle1.png",
+          "src": "/illustrations/extras/Facile++-Compréhension-règle17.png",
           "text": "Limiter les efforts de mémorisation (mots de passe, commandes, numéros de téléphone...).",
           "wide": true
         },
@@ -461,7 +456,7 @@
           "text": "Pas plus d'un ascenseur au sein d'une page."
         },
         {
-          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle3.png",
+          "src": "/illustrations/extras/Facile++-Commandes-règle21.png",
           "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         },
         {
@@ -630,16 +625,18 @@
           "text": "Proposer une règle de lecture et/ou un masque de lecture."
         },
         {
-          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle7.png",
-          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/extras/Facile++-Perception-regle7.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         },
         {
           "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle5.png",
           "text": "Aligner le contenu à gauche sans le justifier."
         },
         {
-          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle8.png",
-          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/extras/Facile++-Perception-règle8.png",
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         },
         {
           "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle7.png",
@@ -693,6 +690,10 @@
           "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png",
           "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
           "wide": true
+        },
+        {
+          "src": "/illustrations/extras/Lecture+-Commandes-règle4.png",
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         }
       ]
     }
@@ -721,16 +722,18 @@
           "text": "Proposer une règle de lecture et/ou un masque de lecture."
         },
         {
-          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle7.png",
-          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/extras/Facile++-Perception-regle7.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         },
         {
           "src": "/illustrations/lecture-pp-new/Lecture++-Perception-regle6.png",
           "text": "Aligner le contenu à gauche sans le justifier et mettre une marge à gauche."
         },
         {
-          "src": "/illustrations/facile-pp-new/Facile++-Perception-regle8.png",
-          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/extras/Facile++-Perception-règle8.png",
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         },
         {
           "src": "/illustrations/lecture-p-new/Lecture+-Perception-regle7.png",
@@ -767,7 +770,7 @@
           "text": "Utiliser un codage couleur pour faciliter la catégorisation des éléments d'une page."
         },
         {
-          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle1.png",
+          "src": "/illustrations/extras/Lecture++-Compréhension-règle6.png",
           "text": "Limiter les efforts de mémorisation (mots de passe, commandes, numéros de téléphone...).",
           "wide": true
         },
@@ -798,7 +801,10 @@
           "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle13.png",
           "text": "Pas d'image seule ni de texte seul : toujours associer l'un avec l'autre."
         },
-        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-44.png",
+        {
+          "src": "/illustrations/extras/Facile+-Comprehension-regle19.png",
+          "text": "Au début des longs documents fournir l'information résumée."
+        },
         {
           "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle14.png",
           "text": "Découper les instructions en étapes."
@@ -853,13 +859,12 @@
           "text": "Pas plus d'un ascenseur au sein d'une page."
         },
         {
-          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle3.png",
+          "src": "/illustrations/extras/Lecture++-Commandes-règle11.png",
           "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle4.png",
-          "text": "S'assurer que les éléments nécessaires à l'interaction soient directement accessibles dans la page en cours (sans avoir besoin d'utiliser l'ascenseur).",
-          "wide": true
+          "text": "S'assurer que les éléments nécessaires à l'interaction soient directement accessibles dans la page en cours (sans avoir besoin d'utiliser l'ascenseur)."
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle6.png",
@@ -1058,6 +1063,10 @@
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle18.png",
           "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation."
+        },
+        {
+          "src": "/illustrations/extras/Moteur+-Commandes-règle19.png",
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         }
       ]
     }
@@ -1096,7 +1105,8 @@
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle7.png",
-          "text": "La vocalisation doit être désactivable."
+          "text": "La vocalisation doit être désactivable.",
+          "wide": true
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle8.png",
@@ -1227,6 +1237,10 @@
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle18.png",
           "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation."
+        },
+        {
+          "src": "/illustrations/extras/Moteur++-Commandes-règle27.png",
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         }
       ]
     }
@@ -1410,13 +1424,12 @@
           "text": "Pas plus d'un ascenseur au sein d'une page."
         },
         {
-          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle3.png",
+          "src": "/illustrations/extras/Serein+-Commandes-règle3.png",
           "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle4.png",
-          "text": "S'assurer que les éléments nécessaires à l'interaction soient directement accessibles dans la page en cours (sans avoir besoin d'utiliser l'ascenseur).",
-          "wide": true
+          "text": "S'assurer que les éléments nécessaires à l'interaction soient directement accessibles dans la page en cours (sans avoir besoin d'utiliser l'ascenseur)."
         },
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle5.png",
@@ -1562,7 +1575,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/graphique-p-new/Graphique+-Commandes-regle4.png",
+          "src": "/illustrations/extras/Graphique+-Commandes-regle4-v2.png",
           "text": "Pour la saisie d'informations, l'utilisateur doit avoir le choix entre : la saisie par clavier, par pictogrammes ou par commande vocale.",
           "wide": true
         },
@@ -1578,6 +1591,10 @@
         {
           "src": "/illustrations/graphique-p-new/Graphique+-Commandes-regle7.png",
           "text": "Émettre des retours sonores (bip, ding...) sur les actions de navigation."
+        },
+        {
+          "src": "/illustrations/extras/Graphique+-Commandes-règle8.png",
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         }
       ]
     }

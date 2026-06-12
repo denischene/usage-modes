@@ -20,7 +20,8 @@
         },
         {
           "src": "/illustrations/extras/Facile+-Perception-regle4-v2.png",
-          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         }
       ],
       "comprehension": [
@@ -170,7 +171,7 @@
           "text": "Émettre des retours sonores (bip, ding...) sur les actions de navigation."
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle15.png",
+          "src": "/illustrations/extras/Serein+-Commandes-regle3-v2.png",
           "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
           "wide": true
         },
@@ -195,7 +196,7 @@
           "text": "Plusieurs niveaux de facilitation doivent être disponibles."
         },
         {
-          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle11.png",
+          "src": "/illustrations/extras/Serein+-Commandes-regle3-v2.png",
           "text": "Conserver l'orientation ascenseur sur l'ensemble du service.",
           "wide": true
         }
@@ -240,7 +241,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/extras/Facile++-Perception-règle8.png",
+          "src": "/illustrations/extras/Facile+-Perception-regle4-v2.png",
           "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
           "wide": true
         },
@@ -633,7 +634,7 @@
           "text": "Aligner le contenu à gauche sans le justifier."
         },
         {
-          "src": "/illustrations/extras/Facile++-Perception-règle8.png",
+          "src": "/illustrations/extras/Facile+-Perception-regle4-v2.png",
           "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
           "wide": true
         },
@@ -691,7 +692,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/extras/Lecture+-Commandes-règle4.png",
+          "src": "/illustrations/extras/Serein+-Commandes-regle3-v2.png",
           "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         }
       ]
@@ -730,7 +731,7 @@
           "text": "Aligner le contenu à gauche sans le justifier et mettre une marge à gauche."
         },
         {
-          "src": "/illustrations/extras/Facile++-Perception-règle8.png",
+          "src": "/illustrations/extras/Facile+-Perception-regle4-v2.png",
           "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
           "wide": true
         },
@@ -858,7 +859,7 @@
           "text": "Pas plus d'un ascenseur au sein d'une page."
         },
         {
-          "src": "/illustrations/extras/Lecture++-Commandes-règle11.png",
+          "src": "/illustrations/extras/Serein+-Commandes-regle3-v2.png",
           "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         },
         {
@@ -1357,7 +1358,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/extras/Facile++-Perception-règle8.png",
+          "src": "/illustrations/extras/Facile+-Perception-regle4-v2.png",
           "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
           "wide": true
         }
@@ -1437,7 +1438,7 @@
           "text": "Pas plus d'un ascenseur au sein d'une page."
         },
         {
-          "src": "/illustrations/extras/Serein+-Commandes-règle3.png",
+          "src": "/illustrations/extras/Serein+-Commandes-regle3-v2.png",
           "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         },
         {
@@ -1525,8 +1526,9 @@
           "text": "Traduire l'interface en images."
         },
         {
-          "src": "/illustrations/extras/Facile++-Perception-règle8.png",
-          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...)."
+          "src": "/illustrations/extras/Facile+-Perception-regle4-v2.png",
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
         },
         {
           "src": "/illustrations/extras/Graphique+-Perception-regle4.png",
@@ -1607,7 +1609,7 @@
           "text": "Émettre des retours sonores (bip, ding...) sur les actions de navigation."
         },
         {
-          "src": "/illustrations/extras/Graphique+-Commandes-règle8.png",
+          "src": "/illustrations/extras/Serein+-Commandes-regle3-v2.png",
           "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         }
       ]

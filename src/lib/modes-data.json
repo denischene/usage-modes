@@ -498,40 +498,125 @@
     "picto": "/pictos/vocal-p.svg",
     "sections": {
       "perception": [
-        "/illustrations/vocal-p_perception_vocal-p_perception-329.png",
-        "/illustrations/vocal-p_perception_vocal-p_perception-32nn.png",
-        "/illustrations/vocal-p_perception_vocal-p_perception-330.png",
-        "/illustrations/vocal-p_perception_vocal-p_perception-33nn.png",
-        "/illustrations/vocal-p_perception_vocal-p_perception-347.png",
-        "/illustrations/vocal-p_perception_vocal-p_perception-34nn.png",
-        "/illustrations/vocal-p_perception_vocal-p_perception-372.png",
-        "/illustrations/vocal-p_perception_vocal-p_perception-374.png"
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Perception-règle1.png",
+          "text": "La vocalisation doit être réglable (vitesse, verbosité, volume)."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Perception-règle2.png",
+          "text": "Proposer une vocalisation pour  tous les types d’éléments (d’action et d’information)."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Perception-règle3.png",
+          "text": "L’aide pour novice doit vocaliser :  [1] Le nom de la page, [2] la synthèse de la page, [3] les commandes génériques de manipulation, [4] les informations relatives à l’élément sélectionné."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Perception-règle4.png",
+          "text": "Toute image porteuse de sens doit être décrite."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Perception-règle5.png",
+          "text": "Lors de l’arrivée sur une page ou suite à une interruption ou sur demande, en plus du libellé, la position de l’élément en cours est vocalisé."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Perception-règle6.png",
+          "text": "L’aide de page présente le titre de la page, le contenu et/ou les commandes disponibles."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Perception-règle7.png",
+          "text": "Privilégier le zoom logique (réorganisant l’interface verticalement) au zoom physique (agissant comme une loupe et obligeant à naviguer en tous sens). Le zoom logique permet une navigation séquentielle nécessaire à la vocalisation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Perception-règle8.png",
+          "text": "Le libellé de l’élément en cours doit être vocalisé systématiquement."
+        }
       ],
       "comprehension": [
-        "/illustrations/vocal-p_comprehension_vocal-p_compr-phension-391.png",
-        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-333.png",
-        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-404.png",
-        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-406.png",
-        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-41n.png",
-        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-42nn.png",
-        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-43nn.png",
-        "/illustrations/vocal-p_comprehension_vocal-p_comprehension-44.png"
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Compréhension-règle1.png",
+          "text": "Préférer de grandes listes à trop de profondeur.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Compréhension-règle2.png",
+          "text": "Indiquer systématiquement la position au sein des listes longues."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Compréhension-règle3.png",
+          "text": "Au début des longs documents, fournir un sommaire de navigation."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Compréhension-règle4.png",
+          "text": "L’aide pour novice sur l’élément sélectionné vocalise [1 ] la fonction, [2] son utilité et [3] la façon de l’activer."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Compréhension-règle5.png",
+          "text": "Indiquer systématiquement la position dans l’arborescence du service."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Compréhension-règle6.png",
+          "text": "Distinguer clairement les contenus et les commandes."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Compréhension-règle7.png",
+          "text": "Séquentialiser l’interaction : décomposer la tâche principale en sous-tâches progressives.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Compréhension-règle8.png",
+          "text": "Au début des longs documents, fournir l’information résumée."
+        }
       ],
       "commandes": [
-        "/illustrations/vocal-p_commandes_vocal-p_manipulation-430.png",
-        "/illustrations/vocal-p_commandes_vocal-p_manipulation-436.png",
-        "/illustrations/vocal-p_commandes_vocal-p_manipulation-446.png",
-        "/illustrations/vocal-p_commandes_vocal-p_manipulation-331.png",
-        "/illustrations/vocal-p_commandes_vocal-p_manipulation-332.png",
-        "/illustrations/vocal-p_commandes_vocal-p_manipulation-348.png",
-        "/illustrations/vocal-p_commandes_vocal-p_manipulation-368.png",
-        "/illustrations/vocal-p_commandes_vocal-p_manipulation-36n.png",
-        "/illustrations/vocal-p_commandes_vocal-p_manipulation-37.png",
-        "/illustrations/vocal-p_commandes_vocal-p_manipulation-38nn.png",
-        "/illustrations/vocal-p_commandes_vocal-p_manipulation-40nnbis.png",
         {
-          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle12.png",
-          "text": "Prévoir une fonction Recherche."
+          "src": "/illustrations/vocal-p-new/Vocal+-Commandes-règle1.png",
+          "text": "Émettre des retours audio sur les actions réalisées."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Commandes-règle2.png",
+          "text": "Émettre des retours sonores (bip, ding...) sur les actions de navigation."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Commandes-règle3.png",
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Commandes-règle4.png",
+          "text": "La vocalisation des éléments d’interface doit être systématique, quelles que soient les actions effectuées.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Commandes-règle5.png",
+          "text": "Pour passer à l’élément suivant, le geste peut être continu ou séquentiel."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Commandes-règle6.png",
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Commandes-règle7.png",
+          "text": "Un geste de manipulation continue (par ex. : permettant d’aller 2 éléments plus loin) doit avoir son équivalent en 2 actions séquentielles (par ex. : suivant, suivant).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Commandes-règle8.png",
+          "text": "Commande tactile : le doigt peut rester posé longtemps sur l’écran sans déclencher d’action involontaire."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Commandes-règle9.png",
+          "text": "Permettre les commandes vocales."
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Commandes-règle10.png",
+          "text": "Tactile décolocalisé : les gestes de commandes (navigation haut/bas, validation, information) peuvent se faire n’importe où sur l’écran : l’action se passe au niveau du focus et non pas là où l’on pointe.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vocal-p-new/Vocal+-Commandes-règle11.png",
+          "text": "Commande tactile sécurisée : l’utilisateur doit pouvoir interroger les commandes avant de les valider."
         }
       ]
     }

@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 
-export function RuleImage({ src, alt, caption }: { src: string; alt: string; caption: string }) {
+export function RuleImage({ src, alt: _alt, caption }: { src: string; alt?: string; caption: string }) {
+  // Images de règles considérées comme décoratives : pas d'alternative textuelle.
+  const alt = "";
   const [open, setOpen] = useState(false);
 
   useEffect(() => {

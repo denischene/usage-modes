@@ -167,11 +167,11 @@
           "text": "Les retours système doivent présenter des pictogrammes en plus d'un texte court et simple."
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle14.png",
+          "src": "/illustrations/extras/Facile+-Commandes-regle14-v2.png",
           "text": "Émettre des retours sonores (bip, ding...) sur les actions de navigation."
         },
         {
-          "src": "/illustrations/extras/Serein+-Commandes-regle3-v2.png",
+          "src": "/illustrations/extras/Facile+-Commandes-regle15-v2.png",
           "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
           "wide": true
         },
@@ -192,7 +192,7 @@
           "text": "Permettre à l'utilisateur de revenir sur ses pas."
         },
         {
-          "src": "/illustrations/extras/Facile+-Commandes-regle20.png",
+          "src": "/illustrations/extras/Facile+-Commandes-regle20-v2.png",
           "text": "Plusieurs niveaux de facilitation doivent être disponibles."
         },
         {
@@ -457,7 +457,7 @@
           "text": "Pas plus d'un ascenseur au sein d'une page."
         },
         {
-          "src": "/illustrations/extras/Facile++-Commandes-règle21.png",
+          "src": "/illustrations/extras/Facile++-Commandes-regle21-v3.png",
           "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         },
         {

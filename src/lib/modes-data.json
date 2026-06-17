@@ -733,11 +733,13 @@
         },
         {
           "src": "/illustrations/vision-p-new/Vision+-Commandes-règle8.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire."
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "wide": true
         },
         {
           "src": "/illustrations/vision-p-new/Vision+-Commandes-règle9.png",
-          "text": "Proposer un Zoom qui grossit tous les éléments et une loupe de pointage qui ne grossit que ce qui est désigné."
+          "text": "Proposer un Zoom qui grossit tous les éléments et une loupe de pointage qui ne grossit que ce qui est désigné.",
+          "wide": true
         }
       ]
     }
@@ -872,15 +874,18 @@
         },
         {
           "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle8.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire."
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "wide": true
         },
         {
           "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle9.png",
-          "text": "Proposer un Zoom qui grossit tous les éléments et une loupe de pointage qui ne grossit que ce qui est désigné."
+          "text": "Proposer un Zoom qui grossit tous les éléments et une loupe de pointage qui ne grossit que ce qui est désigné.",
+          "wide": true
         },
         {
           "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle10.png",
-          "text": "Proposer un Focus-loupe qui grossit ce qui mis en focus via le clavier (Tabulation)."
+          "text": "Proposer un Focus-loupe qui grossit ce qui est mis en focus via le clavier (Tabulation).",
+          "wide": true
         },
         {
           "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle11.png",
@@ -1234,7 +1239,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Perception-règle3.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Perception-regle3.png",
           "text": "Émettre des retours sonores sur les actions réalisées."
         },
         {
@@ -1352,7 +1357,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/extras/Moteur+-Commandes-règle19.png",
+          "src": "/illustrations/extras/Moteur+-Commandes-regle19.png",
           "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         }
       ]
@@ -1374,7 +1379,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Perception-règle3.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Perception-regle3.png",
           "text": "Émettre des retours sonores sur les actions réalisées."
         },
         {
@@ -1414,7 +1419,7 @@
           "text": "Prévoir une fonction Recherche."
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle2.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-regle2.png",
           "text": "Prévoir une fonction de recherche prédictive."
         },
         {
@@ -1422,46 +1427,46 @@
           "text": "Les listes et les mosaïques doivent pouvoir être parcourues par des boucles. Les boucles vont de haut en bas pour les listes, et sont en Z pour les mosaïques."
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle4.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-regle4.png",
           "text": "Permettre le défilement AUTOMATIQUE du focus (navigation pas à pas)."
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle5.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-regle5.png",
           "text": "Lors d'un défilement automatique, l'utilisateur ne fait que Valider le focus en cours. Cela ouvre alors une fenêtre contextuelle où le focus défile encore automatiquement entre Confirmation et Annulation."
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle6.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-regle6.png",
           "text": "La vitesse de défilement par défaut du focus doit être de 1 seconde."
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle7.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-regle7.png",
           "text": "La vitesse de défilement du focus doit être paramétrable.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle8.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-regle8.png",
           "text": "Le défilement automatique du focus se met en pause après une longue période d'inactivité de l'utilisateur (3 boucles de défilement auto)."
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle9.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-regle9.png",
           "text": "Après mise en pause du défilement, une validation (par appui bref ou long) fait reprendre le défilement mais ne valide pas l'objet en cours de focus. La reprise de défilement se fait après un bref délai."
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle10.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-regle10.png",
           "text": "Proposer des interfaces adaptatives permettant d'ajuster la vitesse de déplacement du focus en fonction des performances de l'usager.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle11.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-regle11.png",
           "text": "Lorsque l'utilisateur ne peut effectuer qu'une seule commande, le système doit permettre qu'elle soit réalisée de plusieurs façons.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle12.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-regle12.png",
           "text": "Au-delà de la Confirmation et l'Annulation de l'action en cours, il est possible de proposer plusieurs actions dans un menu contextuel."
         },
         {
-          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-règle13.png",
+          "src": "/illustrations/moteur-pp-new/Moteur++-Commandes-regle13.png",
           "text": "Proposer un mode \"Défilement automatique\" avec une seule commande, et un mode \"Défilement semi-automatique\" avec deux commandes de navigation.",
           "wide": true
         },
@@ -1527,7 +1532,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/extras/Moteur++-Commandes-règle27.png",
+          "src": "/illustrations/extras/Moteur++-Commandes-regle27.png",
           "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
         }
       ]

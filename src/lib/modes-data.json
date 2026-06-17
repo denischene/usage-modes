@@ -733,11 +733,13 @@
         },
         {
           "src": "/illustrations/vision-p-new/Vision+-Commandes-règle8.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire."
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "wide": true
         },
         {
           "src": "/illustrations/vision-p-new/Vision+-Commandes-règle9.png",
-          "text": "Proposer un Zoom qui grossit tous les éléments et une loupe de pointage qui ne grossit que ce qui est désigné."
+          "text": "Proposer un Zoom qui grossit tous les éléments et une loupe de pointage qui ne grossit que ce qui est désigné.",
+          "wide": true
         }
       ]
     }
@@ -872,15 +874,18 @@
         },
         {
           "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle8.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire."
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "wide": true
         },
         {
           "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle9.png",
-          "text": "Proposer un Zoom qui grossit tous les éléments et une loupe de pointage qui ne grossit que ce qui est désigné."
+          "text": "Proposer un Zoom qui grossit tous les éléments et une loupe de pointage qui ne grossit que ce qui est désigné.",
+          "wide": true
         },
         {
           "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle10.png",
-          "text": "Proposer un Focus-loupe qui grossit ce qui mis en focus via le clavier (Tabulation)."
+          "text": "Proposer un Focus-loupe qui grossit ce qui est mis en focus via le clavier (Tabulation).",
+          "wide": true
         },
         {
           "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle11.png",

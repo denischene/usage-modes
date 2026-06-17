@@ -156,7 +156,7 @@ function ModePage() {
       {/* Other modes */}
       <section aria-labelledby="autres-titre" className="border-t border-border bg-foreground text-background">
         <div className="mx-auto max-w-7xl px-6 py-12">
-          <h2 id="autres-titre" className="mb-6 text-2xl font-bold">Explorer d'autres modes</h2>
+          <h2 id="autres-titre" className="mb-6 text-2xl font-bold">{t("mode.others")}</h2>
           <ul className="flex flex-wrap gap-2">
             {modes
               .filter((m) => m.slug !== mode.slug)

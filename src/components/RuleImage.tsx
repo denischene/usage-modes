@@ -1,8 +1,24 @@
 import { useEffect, useState } from "react";
 
+function getSafeIllustrationSrc(src: string) {
+  const normalized = src.normalize("NFC");
+  const match = normalized.match(
+    /^\/illustrations\/(vocal-p-new|vision-p-new|vision-pp-new)\/(?:Vocal\+|Vision\+|Vision\+\+)-(Perception|Compréhension|Commandes)-règle(\d+)\.png$/,
+  );
+
+  if (!match) return src;
+
+  const [, folder, section, rule] = match;
+  const modeSlug = folder === "vocal-p-new" ? "vocal-p" : folder === "vision-p-new" ? "vision-p" : "vision-pp";
+  const sectionSlug = section === "Compréhension" ? "comprehension" : section.toLowerCase();
+
+  return `/illustrations/${folder}/${modeSlug}-${sectionSlug}-regle-${rule}.png`;
+}
+
 export function RuleImage({ src, alt: _alt, caption }: { src: string; alt?: string; caption: string }) {
   // Images de règles considérées comme décoratives : pas d'alternative textuelle.
   const alt = "";
+  const safeSrc = getSafeIllustrationSrc(src);
   const [open, setOpen] = useState(false);
 
   useEffect(() => {
@@ -27,7 +43,7 @@ export function RuleImage({ src, alt: _alt, caption }: { src: string; alt?: stri
         className="block w-full cursor-zoom-in bg-surface focus-visible:outline-3 focus-visible:outline-primary"
         aria-label={`Agrandir l'illustration : ${caption}`}
       >
-        <img src={src} alt={alt} loading="lazy" className="block h-auto w-full" />
+        <img src={safeSrc} alt={alt} loading="lazy" className="block h-auto w-full" />
       </button>
 
       {open && (
@@ -47,7 +63,7 @@ export function RuleImage({ src, alt: _alt, caption }: { src: string; alt?: stri
             Fermer ✕
           </button>
           <img
-            src={src}
+            src={safeSrc}
             alt={alt}
             className="max-h-[90vh] max-w-[95vw] object-contain bg-background"
             onClick={(e) => e.stopPropagation()}

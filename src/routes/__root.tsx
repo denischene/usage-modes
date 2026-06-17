@@ -9,6 +9,8 @@ import {
 } from "@tanstack/react-router";
 
 import appCss from "../styles.css?url";
+import { I18nProvider, useI18n } from "@/lib/i18n";
+import { LanguageSwitcher } from "@/components/LanguageSwitcher";
 
 function NotFoundComponent() {
   return (
@@ -59,7 +61,11 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4af37686-bcf3-4790-9aa3-7735a7a6e694/id-preview-333e4993--00271e2f-c13e-4017-9cd2-19ef010a6a57.lovable.app-1779347139411.png" },
       { name: "twitter:card", content: "summary_large_image" },
     ],
-    links: [{ rel: "stylesheet", href: appCss }],
+    links: [
+      { rel: "stylesheet", href: appCss },
+      { rel: "icon", type: "image/svg+xml", href: "/pictos/universal-design.svg" },
+      { rel: "apple-touch-icon", href: "/pictos/universal-design.svg" },
+    ],
   }),
   shellComponent: RootShell,
   component: RootComponent,
@@ -82,53 +88,56 @@ function RootShell({ children }: { children: React.ReactNode }) {
 }
 
 function SiteHeader() {
+  const { t } = useI18n();
   return (
     <header className="border-b border-border bg-foreground text-background">
       <div className="orange-bar" aria-hidden="true" />
       <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-6 py-5">
-        <Link to="/" className="flex items-center gap-3 no-underline bg-primary px-3 py-2" aria-label="Accueil — Modes d'usages">
+        <Link to="/" className="flex items-center gap-3 no-underline bg-primary px-3 py-2" aria-label={`${t("nav.home")} — ${t("site.title")}`}>
           <img src="/pictos/universal-design.svg" alt="" className="h-10 w-10" />
           <span className="flex flex-col leading-tight text-foreground">
-            <span className="text-base font-bold">Modes d'usages</span>
-            <span className="text-xs">Accessibilité ergonomique</span>
+            <span className="text-base font-bold">{t("site.title")}</span>
+            <span className="text-xs">{t("site.subtitle")}</span>
           </span>
         </Link>
-        <nav aria-label="Navigation principale" className="flex flex-wrap items-center gap-x-5 gap-y-2 text-sm font-semibold">
-          <Link to="/" activeOptions={{ exact: true }} activeProps={{ className: "text-primary underline" }}>Accueil</Link>
-          <Link to="/modes" activeProps={{ className: "text-primary underline" }}>Tous les modes</Link>
-          <Link to="/a-propos" activeProps={{ className: "text-primary underline" }}>À propos</Link>
-        </nav>
+        <div className="flex flex-wrap items-center gap-4">
+          <nav aria-label={t("nav.aria")} className="flex flex-wrap items-center gap-x-5 gap-y-2 text-sm font-semibold">
+            <Link to="/" activeOptions={{ exact: true }} activeProps={{ className: "text-primary underline" }}>{t("nav.home")}</Link>
+            <Link to="/modes" activeProps={{ className: "text-primary underline" }}>{t("nav.all")}</Link>
+            <Link to="/a-propos" activeProps={{ className: "text-primary underline" }}>{t("nav.about")}</Link>
+          </nav>
+          <LanguageSwitcher />
+        </div>
       </div>
     </header>
   );
 }
 
 function SiteFooter() {
+  const { t } = useI18n();
   return (
     <footer className="mt-24 border-t border-border bg-foreground text-background">
       <div className="orange-bar" aria-hidden="true" />
       <div className="mx-auto max-w-7xl px-6 py-10 grid gap-8 md:grid-cols-3">
         <div>
-          <p className="text-lg font-bold">Modes d'usages</p>
-          <p className="mt-2 text-sm opacity-80">
-            Règles illustrées d'accessibilité ergonomique — édité selon la charte Orange et conforme aux critères WCAG 2.2.
-          </p>
+          <p className="text-lg font-bold">{t("site.title")}</p>
+          <p className="mt-2 text-sm opacity-80">{t("footer.tagline")}</p>
         </div>
-        <nav aria-label="Pied de page">
-          <p className="mb-2 font-bold">Navigation</p>
+        <nav aria-label={t("footer.navTitle")}>
+          <p className="mb-2 font-bold">{t("footer.navTitle")}</p>
           <ul className="space-y-1 text-sm">
-            <li><Link to="/">Accueil</Link></li>
-            <li><Link to="/modes">Tous les modes</Link></li>
-            <li><Link to="/a-propos">À propos</Link></li>
+            <li><Link to="/">{t("nav.home")}</Link></li>
+            <li><Link to="/modes">{t("nav.all")}</Link></li>
+            <li><Link to="/a-propos">{t("nav.about")}</Link></li>
           </ul>
         </nav>
         <div>
-          <p className="mb-2 font-bold">Conformité</p>
-          <p className="text-sm opacity-80">WCAG 2.2 — AA. Contrastes, navigation clavier, alternatives textuelles.</p>
+          <p className="mb-2 font-bold">{t("footer.complianceTitle")}</p>
+          <p className="text-sm opacity-80">{t("footer.compliance")}</p>
         </div>
       </div>
       <div className="border-t border-background/20">
-        <p className="mx-auto max-w-7xl px-6 py-4 text-xs opacity-70">© {new Date().getFullYear()} Orange — Tous droits réservés.</p>
+        <p className="mx-auto max-w-7xl px-6 py-4 text-xs opacity-70">© {new Date().getFullYear()} Orange — {t("footer.rights")}</p>
       </div>
     </footer>
   );
@@ -138,12 +147,19 @@ function RootComponent() {
   const { queryClient } = Route.useRouteContext();
   return (
     <QueryClientProvider client={queryClient}>
-      <a href="#contenu" className="skip-link">Aller au contenu principal</a>
-      <SiteHeader />
-      <main id="contenu" className="min-h-[60dvh]">
-        <Outlet />
-      </main>
-      <SiteFooter />
+      <I18nProvider>
+        <SkipLink />
+        <SiteHeader />
+        <main id="contenu" className="min-h-[60dvh]">
+          <Outlet />
+        </main>
+        <SiteFooter />
+      </I18nProvider>
     </QueryClientProvider>
   );
+}
+
+function SkipLink() {
+  const { t } = useI18n();
+  return <a href="#contenu" className="skip-link">{t("skip")}</a>;
 }

@@ -1,6 +1,7 @@
 import { createFileRoute, Link, notFound } from "@tanstack/react-router";
-import { modes, MODE_DESCRIPTIONS, SECTION_META, type Mode } from "@/lib/modes";
+import { modes, SECTION_META, type Mode } from "@/lib/modes";
 import { RuleImage } from "@/components/RuleImage";
+import { useI18n } from "@/lib/i18n";
 
 export const Route = createFileRoute("/modes/$mode")({
   loader: ({ params }) => {

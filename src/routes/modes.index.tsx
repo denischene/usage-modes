@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
-import { modes, MODE_DESCRIPTIONS } from "@/lib/modes";
+import { modes } from "@/lib/modes";
 import { ModePicto } from "@/components/ModePicto";
+import { useI18n, THtml } from "@/lib/i18n";
 
 export const Route = createFileRoute("/modes/")({
   head: () => ({
@@ -13,17 +14,16 @@ export const Route = createFileRoute("/modes/")({
 });
 
 function ModesIndex() {
+  const { t, modeDescription } = useI18n();
   return (
     <div className="mx-auto max-w-7xl px-6 py-16">
       <nav aria-label="Fil d'Ariane" className="mb-6 text-sm">
-        <Link to="/" className="text-muted-foreground">Accueil</Link>
+        <Link to="/" className="text-muted-foreground">{t("nav.home")}</Link>
         <span aria-hidden="true" className="mx-2 text-muted-foreground">/</span>
-        <span aria-current="page" className="font-bold">Tous les modes</span>
+        <span aria-current="page" className="font-bold">{t("modes.crumb")}</span>
       </nav>
-      <h1 className="text-4xl font-bold md:text-5xl">Tous les modes d'usages</h1>
-      <p className="mt-4 max-w-3xl text-lg text-muted-foreground">
-        Chaque mode regroupe les règles illustrées pour <strong>Perception</strong>, <strong>Compréhension</strong> et <strong>Commandes</strong>.
-      </p>
+      <h1 className="text-4xl font-bold md:text-5xl">{t("modes.title")}</h1>
+      <THtml as="p" k="modes.lead" className="mt-4 max-w-3xl text-lg text-muted-foreground" />
       <ul className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {modes.map((m) => {
           const total = m.sections.perception.length + m.sections.comprehension.length + m.sections.commandes.length;
@@ -36,12 +36,11 @@ function ModesIndex() {
               >
                 <div className="flex items-center gap-4">
                   <ModePicto mode={m} />
-
                   <span className="text-2xl font-bold group-hover:text-primary">{m.label}</span>
                 </div>
-                <p className="text-sm text-muted-foreground">{MODE_DESCRIPTIONS[m.label]}</p>
+                <p className="text-sm text-muted-foreground">{modeDescription(m.label)}</p>
                 <p className="mt-auto text-xs font-bold uppercase tracking-wider text-primary">
-                  {total} règles illustrées →
+                  {total} {t("modes.rulesSuffix")}
                 </p>
               </Link>
             </li>

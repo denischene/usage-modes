@@ -734,6 +734,10 @@
         {
           "src": "/illustrations/vision-p-new/Vision+-Commandes-règle8.png",
           "text": "Proposer 5 commandes de navigation suffisantes pour tout faire."
+        },
+        {
+          "src": "/illustrations/vision-p-new/Vision+-Commandes-règle9.png",
+          "text": "Proposer un Zoom qui grossit tous les éléments et une loupe de pointage qui ne grossit que ce qui est désigné."
         }
       ]
     }
@@ -744,33 +748,144 @@
     "picto": "/pictos/vision-pp.svg",
     "sections": {
       "perception": [
-        "/illustrations/vision-pp_perception_vision-pp_perception-50.png",
-        "/illustrations/vision-pp_perception_vision-pp_perception-355.png",
-        "/illustrations/vision-pp_perception_vision-pp_perception-373.png",
-        "/illustrations/vision-pp_perception_vision-pp_perception-375.png",
-        "/illustrations/vision-pp_perception_vision-pp_perception-405.png",
-        "/illustrations/vision-pp_perception_vision-pp_perception-416.png",
-        "/illustrations/vision-pp_perception_vision-pp_perception-46nnbis.png",
-        "/illustrations/vision-pp_perception_vision-pp_perception-47nn.png",
-        "/illustrations/vision-pp_perception_vision-pp_perception-49.png",
-        "/illustrations/vision-pp_perception_vision-pp_perception-51.png",
-        "/illustrations/vision-pp_perception_vision-pp_perception-52.png",
-        "/illustrations/vision-pp_perception_vision-pp_perception-56.png"
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle1.png",
+          "text": "Utiliser des contrastes et couleurs adaptés.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle2.png",
+          "text": "Proposer le réglage de la taille de la police et des pictogrammes.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle3.png",
+          "text": "Utiliser une police de caractères bien lisible.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle4.png",
+          "text": "La zone où figurent les notifications (alerte, erreur) doit apparaître dans le champ de vision. Recentrer dans la vue les messages systèmes."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle5.png",
+          "text": "Toujours utiliser forme ET couleur pour différencier des éléments."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle6.png",
+          "text": "Donner la possibilité de zoomer brièvement avec un raccourci de commandes."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle7.png",
+          "text": "Mettre des liserés entre les zones, et des contours aux modales en prévision de l'inverse vidéo.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle8.png",
+          "text": "Les titres doivent être clairement identifiables (graisse, indentation, majuscule)."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle9.png",
+          "text": "La vocalisation des moyens d'action (commandes) est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle10.png",
+          "text": "La vocalisation des contenus est déclenchée à la demande par l'utilisateur (simple tap, survol...).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle11.png",
+          "text": "En mode bicolore, s'assurer que le focus est bien visible en le mettant de la même couleur que le texte."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle12.png",
+          "text": "Les boutons doivent avoir des pictogrammes."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle13.png",
+          "text": "Optimiser la visibilité du pointeur.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle14.png",
+          "text": "Permettre de très forts zooms (×200%) voire même une fonction Agrandisseur (la loupe prend tout l’écran)."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle15.png",
+          "text": "Privilégier le zoom logique (réorganisant l’interface verticalement) au zoom physique (agissant comme une loupe et obligeant à naviguer en tous sens).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Perception-règle16.png",
+          "text": "Éviter les changements d’états systèmes trop brusques, préférer les fondus enchaînés.",
+          "wide": true
+        }
       ],
       "comprehension": [
-        "/illustrations/vision-pp_comprehension_vision-pp_comprehension-58n.png"
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Compréhension-règle1.png",
+          "text": "Au début des longs documents fournir l'information résumée."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Compréhension-règle2.png",
+          "text": "Le libellé du bouton est à réutiliser dans le titre cible."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Compréhension-règle3.png",
+          "text": "Vocaliser la fonction [1] puis donner un guidage supplémentaire sur son utilité [2] et sur la façon de l'activer [3]."
+        },
+        {
+          "src": "/illustrations/serein-p-new/Serein+-Comprehension-regle14.png",
+          "text": "Découper les instructions en étapes."
+        }
       ],
       "commandes": [
-        "/illustrations/vision-pp_commandes_vision-pp_manipulation-429.png",
-        "/illustrations/vision-pp_commandes_vision-pp_manipulation-435.png",
-        "/illustrations/vision-pp_commandes_vision-pp_manipulation-440.png",
-        "/illustrations/vision-pp_commandes_vision-pp_manipulation-371.png",
-        "/illustrations/vision-pp_commandes_vision-pp_manipulation-382.png",
-        "/illustrations/vision-pp_commandes_vision-pp_manipulation-415.png",
-        "/illustrations/vision-pp_commandes_vision-pp_manipulation-53nn.png",
-        "/illustrations/vision-pp_commandes_vision-pp_manipulation-54n.png",
-        "/illustrations/vision-pp_commandes_vision-pp_manipulation-55.png",
-        "/illustrations/vision-pp_commandes_vision-pp_manipulation-57n.png"
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle1.png",
+          "text": "Émettre des retours sonores (bip, ding...) sur les actions de navigation."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle2.png",
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle3.png",
+          "text": "En mode bicolore, faciliter l'identification de l'action par défaut (focus sur le bouton, texte en gras)."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle4.png",
+          "text": "Permettre le pointage directe : l'élément cliqué est sous le doigt (commandes tactiles colocalisées)."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle5.png",
+          "text": "Toujours permettre de revenir à l'accueil via un bouton ou un raccourci."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle6.png",
+          "text": "Commande tactile sécurisée : l'utilisateur doit pouvoir interroger les commandes avant de les valider."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle7.png",
+          "text": "Prévoir des points d'ancrages visuels à partir desquels l'utilisateur peut se situer dans l'espace."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle8.png",
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle9.png",
+          "text": "Proposer un Zoom qui grossit tous les éléments et une loupe de pointage qui ne grossit que ce qui est désigné."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle10.png",
+          "text": "Proposer un Focus-loupe qui grossit ce qui mis en focus via le clavier (Tabulation)."
+        },
+        {
+          "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle11.png",
+          "text": "Émettre des retours audio sur les actions réalisées."
+        }
       ]
     }
   },

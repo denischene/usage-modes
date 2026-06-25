@@ -50,7 +50,7 @@ export const Route = createFileRoute("/modes/$mode")({
 
 function ModePage() {
   const { mode } = Route.useLoaderData() as { mode: Mode };
-  const { t, modeDescription } = useI18n();
+  const { t, modeDescription, lang } = useI18n();
   const sectionTitle = (key: string) =>
     key === "perception" ? t("home.perception.title")
     : key === "comprehension" ? t("home.comprehension.title")

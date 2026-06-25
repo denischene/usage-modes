@@ -2,6 +2,15 @@ import { createFileRoute, Link, notFound } from "@tanstack/react-router";
 import { modes, SECTION_META, type Mode } from "@/lib/modes";
 import { RuleImage } from "@/components/RuleImage";
 import { useI18n } from "@/lib/i18n";
+import ruleTranslations from "@/lib/rule-translations.json";
+
+function translateRule(text: string | undefined, lang: string): string | undefined {
+  if (!text) return text;
+  if (lang === "fr") return text;
+  const key = lang === "pt-BR" ? "pt" : lang === "zh-CN" ? "zh" : lang;
+  const entry = (ruleTranslations as Record<string, Record<string, string>>)[text];
+  return entry?.[key] ?? text;
+}
 
 export const Route = createFileRoute("/modes/$mode")({
   loader: ({ params }) => {

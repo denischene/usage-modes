@@ -888,6 +888,11 @@
           "wide": true
         },
         {
+          "src": "/illustrations/extras/Vision++-Commandes-regle11-new.png",
+          "text": "Proposer, en plus du zoom qui réorganise en vertical les éléments, un agrandisseur : forte loupe sur tout l'écran avec navigation par pointage souris/doigt ou clavier (flèches).",
+          "wide": true
+        },
+        {
           "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle11.png",
           "text": "Émettre des retours audio sur les actions réalisées."
         }
@@ -1277,6 +1282,10 @@
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle1.png",
           "text": "Prévoir une fonction Recherche."
+        },
+        {
+          "src": "/illustrations/extras/Moteur+-Commandes-regle2-new.png",
+          "text": "Limiter la quantité d'objets d'interface."
         },
         {
           "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle2.png",
@@ -1775,27 +1784,123 @@
     "slug": "microgeste-p",
     "picto": "/pictos/microgeste-p.svg",
     "sections": {
-      "perception": [],
+      "perception": [
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle1.png",
+          "text": "Les éléments de l'interface sont suffisamment grands pour être vus de loin."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle2.png",
+          "text": "Proposer une vocalisation pour tous les types d'éléments d'action et d'information.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-pp-new/Moteur++-Perception-regle3.png",
+          "text": "Émettre des retours sonores sur les actions réalisées."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle4.png",
+          "text": "Le niveau de son doit être suffisamment élevé."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle5.png",
+          "text": "L'élément sélectionné doit être clairement visible.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle6.png",
+          "text": "Marquer la séparation entre le début et la fin de la liste par un rendu visuel et audio."
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle7.png",
+          "text": "La vocalisation doit être désactivable.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle8.png",
+          "text": "Utiliser des contrastes et couleurs adaptés.",
+          "wide": true
+        }
+      ],
       "comprehension": [
-        "/illustrations/microgeste-p_comprehension_microgeste-compr-phension-309.png",
-        "/illustrations/microgeste-p_comprehension_microgeste_comprehension-349.png",
-        "/illustrations/microgeste-p_comprehension_microgeste_compr-phension-309.png",
-        "/illustrations/microgeste-p_comprehension_microgeste_compr-phension-402.png",
-        "/illustrations/microgeste-p_comprehension_microgeste_comprehension-351.png"
+        {
+          "src": "",
+          "text": "Aucune règle de compréhension spécifique n'est nécessaire pour ce mode d'usage.",
+          "noImage": true
+        }
       ],
       "commandes": [
-        "/illustrations/microgeste-p_commandes_microgeste_manipulation-447.png",
-        "/illustrations/microgeste-p_commandes_microgeste_manipulation-29n.png",
-        "/illustrations/microgeste-p_commandes_microgeste_manipulation-30n.png",
-        "/illustrations/microgeste-p_commandes_microgeste_manipulation-31.png",
-        "/illustrations/microgeste-p_commandes_microgeste_manipulation-310.png",
-        "/illustrations/microgeste-p_commandes_microgeste_manipulation-311.png",
-        "/illustrations/microgeste-p_commandes_microgeste_manipulation-312.png",
-        "/illustrations/microgeste-p_commandes_microgeste_manipulation-350.png",
-        "/illustrations/microgeste-p_commandes_microgeste_manipulation-393.png",
         {
-          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle12.png",
+          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle1.png",
           "text": "Prévoir une fonction Recherche."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle2.png",
+          "text": "Limiter la quantité d'objets d'interface."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle3.png",
+          "text": "Permettre la validation par «tiré à droite» (sur mobile) ou par survol statique souris (sur ordinateur).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle4.png",
+          "text": "Tactile décolocalisé : les gestes de commandes (navigation haut/bas, validation, information) peuvent se faire n'importe où sur l'écran : l'action se passe au niveau du focus et non pas là où l'on pointe.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle5.png",
+          "text": "Lors de la saisie, une prédiction de la lettre, du mot ou de la phrase la plus probable doit être proposée."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle6.png",
+          "text": "Les délais temporels doivent être augmentés."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle7.png",
+          "text": "Permettre l'amplification du déplacement du focus (petit mouvement = grand déplacement)."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle8.png",
+          "text": "Préférer de grandes listes à trop de profondeur."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle9.png",
+          "text": "Proposer des interfaces adaptatives."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle10.png",
+          "text": "Éviter les actions répétées involontaires : laisser son doigt sur l'écran ou sur le clavier ne doit pas déclencher d'actions répétées."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle11.png",
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle12.png",
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle13.png",
+          "text": "Éviter les actions répétées involontaires grâce à une temporisation entre 2 actions.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle14.png",
+          "text": "Éviter les combinaisons simultanées de touches : permettre les touches rémanentes."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle15.png",
+          "text": "Lors d'une saisie, proposer le choix entre le clavier et la reconnaissance vocale."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle16.png",
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle17.png",
+          "text": "Regrouper les objets activables et faire des zones d'activation."
         }
       ]
     }

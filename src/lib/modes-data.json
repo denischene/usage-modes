@@ -1235,11 +1235,11 @@
     "sections": {
       "perception": [
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle1.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-1.png",
           "text": "Les éléments de l'interface sont suffisamment grands pour être vus de loin."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle2.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-2.png",
           "text": "Proposer une vocalisation pour tous les types d'éléments d'action et d'information.",
           "wide": true
         },
@@ -1248,25 +1248,25 @@
           "text": "Émettre des retours sonores sur les actions réalisées."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle4.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-4.png",
           "text": "Le niveau de son doit être suffisamment élevé."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle5.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-5.png",
           "text": "L'élément sélectionné doit être clairement visible.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle6.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-6.png",
           "text": "Marquer la séparation entre le début et la fin de la liste par un rendu visuel et audio."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle7.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-7.png",
           "text": "La vocalisation doit être désactivable.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle8.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-8.png",
           "text": "Utiliser des contrastes et couleurs adaptés.",
           "wide": true
         }
@@ -1280,55 +1280,55 @@
       ],
       "commandes": [
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle1.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-1.png",
           "text": "Prévoir une fonction Recherche."
         },
         {
-          "src": "/illustrations/extras/Moteur+-Commandes-regle2-new.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-limiter.png",
           "text": "Limiter la quantité d'objets d'interface."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle2.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-2.png",
           "text": "Les listes et les mosaïques doivent pouvoir être parcourues par des boucles. Les boucles vont de haut en bas pour les listes, et sont en Z pour les mosaïques."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle3.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-3.png",
           "text": "Le clavier virtuel des lettres doit être utilisable en séquentiel.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle4.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-4.png",
           "text": "Lors de la saisie, une prédiction de la lettre, du mot ou de la phrase la plus probable doit être proposée."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle5.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-5.png",
           "text": "Proposer trois commandes de défilement manuel suffisantes pour la navigation (Suivant-Valider-Retour hiérarchique).",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle6.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-6.png",
           "text": "Proposer une alternative au « tirer-déposer ». Pour cela, décomposer l'action en 4 temps.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle7.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-7.png",
           "text": "La manipulation du focus par défilement est décolocalisée (le focus déplacé n'est pas forcément sous l'appui) et se fait en séquentiel."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle8.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-8.png",
           "text": "Permettre l'usage d'un périphérique de pointage. Dans ce cas la manipulation du focus est décolocalisée (le focus déplacé n'est pas forcément sous le doigt)."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle9.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-9.png",
           "text": "Préférer de grandes listes à trop de profondeur.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle10.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-10.png",
           "text": "L'appui long permettant de valider doit être lent."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle11.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-11.png",
           "text": "Le clavier virtuel des chiffres doit être utilisable en séquentiel.",
           "wide": true
         },
@@ -1338,20 +1338,20 @@
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle13.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-13.png",
           "text": "Proposer des interfaces adaptatives.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle14.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-14.png",
           "text": "S'assurer que tout l'écran ne fonctionne que comme un seul gros bouton (qui déclenche l'élément focusé dans la page)."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle15.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-15.png",
           "text": "Permettre la connexion d'un contacteur sur tous les dispositifs."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle16.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-16.png",
           "text": "Éviter les actions répétées involontaires : laisser son doigt sur l'écran ou sur le clavier ne doit pas déclencher d'actions répétées.",
           "wide": true
         },
@@ -1361,7 +1361,7 @@
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle18.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-18.png",
           "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
           "wide": true
         },
@@ -1379,11 +1379,11 @@
     "sections": {
       "perception": [
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle1.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-1.png",
           "text": "Les éléments de l'interface sont suffisamment grands pour être vus de loin."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle2.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-2.png",
           "text": "Proposer une vocalisation pour tous les types d'éléments d'action et d'information.",
           "wide": true
         },
@@ -1392,25 +1392,25 @@
           "text": "Émettre des retours sonores sur les actions réalisées."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle4.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-4.png",
           "text": "Le niveau de son doit être suffisamment élevé."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle5.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-5.png",
           "text": "L'élément sélectionné doit être clairement visible.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle6.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-6.png",
           "text": "Marquer la séparation entre le début et la fin de la liste par un rendu visuel et audio."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle7.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-7.png",
           "text": "La vocalisation doit être désactivable.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle8.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-8.png",
           "text": "Utiliser des contrastes et couleurs adaptés.",
           "wide": true
         }
@@ -1424,7 +1424,7 @@
       ],
       "commandes": [
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle1.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-1.png",
           "text": "Prévoir une fonction Recherche."
         },
         {
@@ -1432,7 +1432,7 @@
           "text": "Prévoir une fonction de recherche prédictive."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle2.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-2.png",
           "text": "Les listes et les mosaïques doivent pouvoir être parcourues par des boucles. Les boucles vont de haut en bas pour les listes, et sont en Z pour les mosaïques."
         },
         {
@@ -1480,16 +1480,16 @@
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle3.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-3.png",
           "text": "Le clavier virtuel des lettres doit être utilisable en séquentiel.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle4.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-4.png",
           "text": "Lors de la saisie, une prédiction de la lettre, du mot ou de la phrase la plus probable doit être proposée."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle6.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-6.png",
           "text": "Proposer une alternative au « tirer-déposer ». Pour cela, décomposer l'action en 4 temps.",
           "wide": true
         },
@@ -1499,16 +1499,16 @@
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle9.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-9.png",
           "text": "Préférer de grandes listes à trop de profondeur.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle10.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-10.png",
           "text": "L'appui long permettant de valider doit être lent."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle11.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-11.png",
           "text": "Le clavier virtuel des chiffres doit être utilisable en séquentiel.",
           "wide": true
         },
@@ -1518,25 +1518,25 @@
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle13.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-13.png",
           "text": "Proposer des interfaces adaptatives.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle14.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-14.png",
           "text": "S'assurer que tout l'écran ne fonctionne que comme un seul gros bouton (qui déclenche l'élément focusé dans la page)."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle15.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-15.png",
           "text": "Permettre la connexion d'un contacteur sur tous les dispositifs."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle16.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-16.png",
           "text": "Éviter les actions répétées involontaires : laisser son doigt sur l'écran ou sur le clavier ne doit pas déclencher d'actions répétées.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle18.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-18.png",
           "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
           "wide": true
         },
@@ -1786,11 +1786,11 @@
     "sections": {
       "perception": [
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle1.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-1.png",
           "text": "Les éléments de l'interface sont suffisamment grands pour être vus de loin."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle2.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-2.png",
           "text": "Proposer une vocalisation pour tous les types d'éléments d'action et d'information.",
           "wide": true
         },
@@ -1799,25 +1799,25 @@
           "text": "Émettre des retours sonores sur les actions réalisées."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle4.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-4.png",
           "text": "Le niveau de son doit être suffisamment élevé."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle5.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-5.png",
           "text": "L'élément sélectionné doit être clairement visible.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle6.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-6.png",
           "text": "Marquer la séparation entre le début et la fin de la liste par un rendu visuel et audio."
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle7.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-7.png",
           "text": "La vocalisation doit être désactivable.",
           "wide": true
         },
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Perception-regle8.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-perception-regle-8.png",
           "text": "Utiliser des contrastes et couleurs adaptés.",
           "wide": true
         }
@@ -1831,75 +1831,80 @@
       ],
       "commandes": [
         {
-          "src": "/illustrations/moteur-p-new/Moteur+-Commandes-regle1.png",
+          "src": "/illustrations/moteur-p-new/moteur-p-commandes-regle-1.png",
           "text": "Prévoir une fonction Recherche."
         },
         {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle2.png",
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-2.png",
           "text": "Limiter la quantité d'objets d'interface."
         },
         {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle3.png",
-          "text": "Permettre la validation par «tiré à droite» (sur mobile) ou par survol statique souris (sur ordinateur).",
-          "wide": true
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-3.png",
+          "text": "Permettre la validation par «tiré à droite» (sur mobile) ou par survol statique souris (sur ordinateur)."
         },
         {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle4.png",
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-4.png",
           "text": "Tactile décolocalisé : les gestes de commandes (navigation haut/bas, validation, information) peuvent se faire n'importe où sur l'écran : l'action se passe au niveau du focus et non pas là où l'on pointe.",
           "wide": true
         },
         {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle5.png",
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-5.png",
           "text": "Lors de la saisie, une prédiction de la lettre, du mot ou de la phrase la plus probable doit être proposée."
         },
         {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle6.png",
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-6.png",
           "text": "Les délais temporels doivent être augmentés."
         },
         {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle7.png",
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-7.png",
           "text": "Permettre l'amplification du déplacement du focus (petit mouvement = grand déplacement)."
         },
         {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle8.png",
-          "text": "Préférer de grandes listes à trop de profondeur."
-        },
-        {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle9.png",
-          "text": "Proposer des interfaces adaptatives."
-        },
-        {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle10.png",
-          "text": "Éviter les actions répétées involontaires : laisser son doigt sur l'écran ou sur le clavier ne doit pas déclencher d'actions répétées."
-        },
-        {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle11.png",
-          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation."
-        },
-        {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle12.png",
-          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation.",
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-8.png",
+          "text": "Préférer de grandes listes à trop de profondeur.",
           "wide": true
         },
         {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle13.png",
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-9.png",
+          "text": "Proposer des interfaces adaptatives.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-10.png",
+          "text": "Éviter les actions répétées involontaires : laisser son doigt sur l'écran ou sur le clavier ne doit pas déclencher d'actions répétées.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-11.png",
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-12.png",
+          "text": "Les boutons permettant une action doivent être distincts des éléments permettant une simple navigation."
+        },
+        {
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-13.png",
           "text": "Éviter les actions répétées involontaires grâce à une temporisation entre 2 actions.",
           "wide": true
         },
         {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle14.png",
-          "text": "Éviter les combinaisons simultanées de touches : permettre les touches rémanentes."
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-14.png",
+          "text": "Éviter les combinaisons simultanées de touches : permettre les touches rémanentes.",
+          "wide": true
         },
         {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle15.png",
-          "text": "Lors d'une saisie, proposer le choix entre le clavier et la reconnaissance vocale."
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-15.png",
+          "text": "Lors d'une saisie, proposer le choix entre le clavier et la reconnaissance vocale.",
+          "wide": true
         },
         {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle16.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire."
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-16.png",
+          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "wide": true
         },
         {
-          "src": "/illustrations/microgeste-p-new/Microgeste+-Commandes-regle17.png",
+          "src": "/illustrations/microgeste-p-new/microgeste-p-commandes-regle-17.png",
           "text": "Regrouper les objets activables et faire des zones d'activation."
         }
       ]

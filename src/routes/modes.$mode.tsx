@@ -146,7 +146,7 @@ function ModePage() {
                               </p>
                             )}
                             <p className="mt-1 text-sm text-foreground">
-                              {customText ?? t("mode.defaultText")}
+                              {translateRule(customText, lang) ?? t("mode.defaultText")}
                             </p>
                           </header>
                           {!noImage && <RuleImage src={src} alt={alt} caption={caption} />}

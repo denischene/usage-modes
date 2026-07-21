@@ -933,6 +933,17 @@
     "label": "Lecture+",
     "slug": "lecture-p",
     "picto": "/pictos/lecture-p.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes ayant des contraintes de lecture. Une police optimisée pour la dyslexie, des textes bien lisibles, des règles de lecture, la possibilité de colorer les caractères-sons et de se faire lire le texte.",
+      "users": [
+        "Personne ayant des difficultés de lecture liées à la dyslexie",
+        "Les caractères se mélangent",
+        "Les lignes se mélangent",
+        "L'association phonème-morphème est compliquée",
+        "La fatigue vient vite"
+      ],
+      "pictos": ["/pictos-modes/reading-p-white.svg", "/pictos-modes/reading-p-black.svg"]
+    },
     "sections": {
       "perception": [
         {

@@ -3,6 +3,16 @@
     "label": "Facile+",
     "slug": "facile-p",
     "picto": "/pictos/facile-p.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes peu habituées à internet. Le texte, les boutons, les liens, la souris et le focus sont bien visibles et un peu plus grands, les contrastes sont ajustés et une loupe est disponible.",
+      "users": [
+        "Personnes peu habituées aux NTIC, ne maîtrisent pas les interfaces vocales ni tactiles, novices, cumulant les contraintes (visuel, audio, manip, compréhension, mémorisation), concerne par ex. les séniors",
+        "Ne connaît pas les mots du monde numérique (illectronisme)",
+        "A besoin d'être formé, rassuré, a besoin de guidage",
+        "A besoin d'une interaction sans erreurs et simplifiée basée sur de nombreux indices perceptifs"
+      ],
+      "pictos": ["/pictos-modes/easy-p-white.svg", "/pictos-modes/easy-p-black.svg"]
+    },
     "sections": {
       "perception": [
         {

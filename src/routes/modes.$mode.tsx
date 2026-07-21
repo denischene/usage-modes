@@ -82,6 +82,16 @@ function ModePage() {
 
           {/* In-page nav */}
           <ul className="mt-8 flex flex-wrap gap-2">
+            {mode.description && (
+              <li>
+                <a
+                  href="#description"
+                  className="inline-block border-2 border-background px-4 py-2 text-sm font-bold no-underline hover:underline"
+                >
+                  Description
+                </a>
+              </li>
+            )}
             {SECTION_META.map((s) => {
               const count = mode.sections[s.key].length;
               const title = sectionTitle(s.key);
@@ -102,6 +112,48 @@ function ModePage() {
           </ul>
         </div>
       </section>
+
+      {/* Description */}
+      {mode.description && (
+        <section id="description" aria-labelledby="description-titre" className="bg-background">
+          <div className="mx-auto max-w-7xl px-6 py-16">
+            <div className="mb-10 flex items-baseline gap-4">
+              <span className="text-5xl font-bold text-primary">00</span>
+              <div>
+                <h2 id="description-titre" className="text-3xl font-bold md:text-4xl">Description</h2>
+                <p className="mt-1 text-muted-foreground">Présentation du mode, utilisateurs cibles et pictogrammes.</p>
+              </div>
+            </div>
+
+            <p className="max-w-4xl text-lg leading-relaxed text-foreground">{mode.description.intro}</p>
+
+            <div className="mt-10 grid gap-8 lg:grid-cols-2">
+              <div className="border-2 border-border bg-background p-6">
+                <h3 className="mb-4 text-xl font-bold">Utilisateurs cibles et contraintes</h3>
+                <ul className="space-y-3">
+                  {mode.description.users.map((u, i) => (
+                    <li key={i} className="flex gap-3 text-foreground">
+                      <span aria-hidden="true" className="mt-2 h-1.5 w-1.5 shrink-0 bg-primary" />
+                      <span>{u}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+              <div className="border-2 border-border bg-background p-6">
+                <h3 className="mb-4 text-xl font-bold">Pictogrammes du mode d'usage {mode.label}</h3>
+                <ul className="flex flex-wrap gap-4">
+                  {mode.description.pictos.map((p, i) => (
+                    <li key={p} className={`grid h-32 w-32 place-items-center border border-border p-3 ${i % 2 === 1 ? "bg-foreground" : "bg-background"}`}>
+                      <img src={p} alt={`Pictogramme ${mode.label} ${i === 0 ? "fond clair" : "fond noir"}`} className="h-full w-full object-contain" />
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            </div>
+          </div>
+        </section>
+      )}
+
 
       {/* Sections */}
       {SECTION_META.map((s, idx) => {

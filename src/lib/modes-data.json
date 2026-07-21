@@ -3,6 +3,16 @@
     "label": "Facile+",
     "slug": "facile-p",
     "picto": "/pictos/facile-p.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes peu habituées à internet. Le texte, les boutons, les liens, la souris et le focus sont bien visibles et un peu plus grands, les contrastes sont ajustés et une loupe est disponible.",
+      "users": [
+        "Personnes peu habituées aux NTIC, ne maîtrisent pas les interfaces vocales ni tactiles, novices, cumulant les contraintes (visuel, audio, manip, compréhension, mémorisation), concerne par ex. les séniors",
+        "Ne connaît pas les mots du monde numérique (illectronisme)",
+        "A besoin d'être formé, rassuré, a besoin de guidage",
+        "A besoin d'une interaction sans erreurs et simplifiée basée sur de nombreux indices perceptifs"
+      ],
+      "pictos": ["/pictos-modes/easy-p-white.svg", "/pictos-modes/easy-p-black.svg"]
+    },
     "sections": {
       "perception": [
         {
@@ -625,6 +635,16 @@
     "label": "Vision+",
     "slug": "vision-p",
     "picto": "/pictos/vision-p.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes ayant des contraintes visuelles (couleur, lisibilité). Les couleurs du texte et de la page sont très contrastés, la souris et le focus sont bien visibles, une loupe et une règle de lecture sont disponibles.",
+      "users": [
+        "Personne ayant des contraintes visuelles légères.",
+        "Problème pour distinguer certaines couleurs, problèmes de lisibilité de texte, problèmes d'éblouissements, problème avec les couleurs (daltonisme, contraste)",
+        "A besoin d'un affichage contrasté, de zoomer ou tout au moins d'avoir de gros caractères.",
+        "A besoin de personnaliser les couleurs"
+      ],
+      "pictos": ["/pictos-modes/vision-p-white.svg", "/pictos-modes/vision-p-black.svg"]
+    },
     "sections": {
       "perception": [
         {
@@ -748,6 +768,16 @@
     "label": "Vision++",
     "slug": "vision-pp",
     "picto": "/pictos/vision-pp.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes ayant de fortes contraintes visuelles. Les couleurs du texte et de la page sont modifiées, les éléments (focus, souris, texte, ascenseur) sont plus bien plus gros, une police optimisée, une loupe ×5 et une règle de lecture sont disponibles.",
+      "users": [
+        "Personne ayant des contraintes visuelles avancées.",
+        "A peu de retours visuels et a donc besoin de zoomer fortement tout l'écran",
+        "A besoin d'un zoom de façon permanente (très gros caractères) et de pouvoir facilement passer de la vue globale (totalité de l'écran non zoomé, sans grands caractères) aux vues locales (vues partielles zoomées, avec grands caractères).",
+        "A besoin d'un rendu visuel « augmenté », de rendus tactiles (braille, picots), de rendus audios (synthèse vocale)"
+      ],
+      "pictos": ["/pictos-modes/vision-pp-white.svg", "/pictos-modes/vision-pp-black.svg"]
+    },
     "sections": {
       "perception": [
         {
@@ -903,6 +933,17 @@
     "label": "Lecture+",
     "slug": "lecture-p",
     "picto": "/pictos/lecture-p.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes ayant des contraintes de lecture. Une police optimisée pour la dyslexie, des textes bien lisibles, des règles de lecture, la possibilité de colorer les caractères-sons et de se faire lire le texte.",
+      "users": [
+        "Personne ayant des difficultés de lecture liées à la dyslexie",
+        "Les caractères se mélangent",
+        "Les lignes se mélangent",
+        "L'association phonème-morphème est compliquée",
+        "La fatigue vient vite"
+      ],
+      "pictos": ["/pictos-modes/reading-p-white.svg", "/pictos-modes/reading-p-black.svg"]
+    },
     "sections": {
       "perception": [
         {

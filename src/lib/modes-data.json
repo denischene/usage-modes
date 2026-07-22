@@ -506,6 +506,18 @@
     "label": "Vocal+",
     "slug": "vocal-p",
     "picto": "/pictos/vocal-p.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes n'utilisant pas la vision ni le pointage visuel. Le contenu est structuré séquentiellement et hiérarchiquement, les éléments sont tous vocalisés lorsqu'ils sont utiles, résumés lorsqu'ils sont nombreux ou complexes, la navigation au clavier est logique et les retours audios et vibratoires sont systématiques.",
+      "users": [
+        "Personne dont les yeux ne sont pas disponibles (conducteurs de véhicules) ou aveugles.",
+        "Ne peut pas pointer visuellement, et a donc besoin d'être informé par le biais du tactile et de l'audio.",
+        "Navigue dans l'interface de façon séquentielle.",
+        "A besoin d'avoir des résumés des éléments présents, surtout lorsqu'ils sont nombreux.",
+        "Doit pouvoir interroger le système en audio pour savoir ce qui est en cours de focus.",
+        "A besoin d'une navigation sécure sans risque de déclencher des actions par inadvertance."
+      ],
+      "pictos": ["/pictos-modes/vocal-p-white.svg", "/pictos-modes/vocal-p-black.svg"]
+    },
     "sections": {
       "perception": [
         {

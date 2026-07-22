@@ -516,7 +516,7 @@
         "Doit pouvoir interroger le système en audio pour savoir ce qui est en cours de focus.",
         "A besoin d'une navigation sécure sans risque de déclencher des actions par inadvertance."
       ],
-      "pictos": ["/pictos-modes/vocal-p-white.svg", "/pictos-modes/vocal-p-black.svg"]
+      "pictos": ["/pictos-modes/vocal-p-white.svg", "/pictos-modes/vocal-p-black.png"]
     },
     "sections": {
       "perception": [
@@ -1469,7 +1469,7 @@
         "Ce mode génère une forte fatigue.",
         "Voix souvent altérée et donc commande vocale pas systématique mais souhaitable quand c'est possible."
       ],
-      "pictos": ["/pictos-modes/motor-pp-white.svg", "/pictos-modes/motor-pp-black.svg"]
+      "pictos": ["/pictos-modes/motor-pp-white.svg", "/pictos-modes/motor-pp-black.png"]
     },
     "sections": {
       "perception": [

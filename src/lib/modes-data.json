@@ -1049,6 +1049,18 @@
     "label": "Lecture++",
     "slug": "lecture-pp",
     "picto": "/pictos/lecture-pp.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes ayant des contraintes de lecture et/ou de manipulation. Une police optimisée pour la dyslexie, des textes bien lisibles, des règles de lecture, la possibilité de colorer les caractères-sons et de se faire lire le texte, ainsi que des aides au pointage.",
+      "users": [
+        "Personne ayant des difficultés importantes de lecture liées à la dyslexie, et éventuellement également de la dyspraxie, dysphasie…",
+        "Les caractères se mélangent.",
+        "Les lignes se mélangent.",
+        "L'association phonème-morphème est compliquée.",
+        "La fatigue vient vite.",
+        "La coordination motrice, dont le pointage, peut être compliquée."
+      ],
+      "pictos": ["/pictos-modes/reading-pp-white.svg", "/pictos-modes/reading-pp-black.svg"]
+    },
     "sections": {
       "perception": [
         {

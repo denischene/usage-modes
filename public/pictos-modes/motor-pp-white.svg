@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="ic_profiles_motor_handicap_1.svg"
+   inkscape:export-filename="C:\Den\Accessibilité\SP4_Société déficiente et IHM Innovantes\Tél mobile Universel\TelMultiprofils\Design graphique\Pictos\all_icons\ic_profiles\ic_profiles_motor_handicap_1.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="756"
+     inkscape:window-height="480"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg16" />
+  <title
+     id="title2">ic_profiles_motor_handicap_1</title>
+  <g
+     id="g14">
+    <path
+       d="M283.6,352.94v-63a3.14,3.14,0,0,0-3.15-3.14H231.54a3.14,3.14,0,0,0-3.15,3.14v63a3.14,3.14,0,0,1-3.14,3.14H197.88a3.15,3.15,0,0,0-2.72,4.72l58.12,100.65a3.14,3.14,0,0,0,5.44,0L316.84,360.8a3.15,3.15,0,0,0-2.72-4.72H286.74A3.15,3.15,0,0,1,283.6,352.94Z"
+       id="path4" />
+    <path
+       d="M256,33.28a222.79,222.79,0,0,1,86.69,428A222.78,222.78,0,0,1,169.3,50.77,221.12,221.12,0,0,1,256,33.28M256,0C114.59,0,0,114.64,0,256S114.59,512,256,512,512,397.36,512,256,397.35,0,256,0Z"
+       id="path6" />
+    <g
+       id="g12">
+      <path
+         d="M199.72,172.77a16.18,16.18,0,0,1,5.45,1l11.66,4.17c-1.93,3.47-5.48,6.59-6.15,10.79l-23.87-8.92a16.72,16.72,0,0,1,12.91-7m0-11.81A28.5,28.5,0,0,0,177,173.23a11.81,11.81,0,0,0,5.7,17.62l23.87,8.92a11.82,11.82,0,0,0,15.75-8.91,24.92,24.92,0,0,1,1.7-2.48,42.71,42.71,0,0,0,3.14-4.71,11.82,11.82,0,0,0-6.33-16.87l-11.67-4.17a27.9,27.9,0,0,0-9.42-1.67Z"
+         id="path8" />
+      <path
+         d="M493.42,182.4a60.23,60.23,0,0,0-1.07-15.1,51,51,0,0,0-3.71-10.41c-.66-1.41-1.34-2.81-2-4.21a69.29,69.29,0,0,1-1.42,17.75,71.06,71.06,0,0,1-18.83,35C449.81,222.42,289,255.34,289,255.34a70.78,70.78,0,0,1-22.37,3.6,71.91,71.91,0,0,1-24.7-4.37L91.68,199.31a15.71,15.71,0,0,1-9.83-18.19,14.86,14.86,0,0,1,7.92-9.76,13.91,13.91,0,0,1,7.07-1.91,16.08,16.08,0,0,1,5.44,1l110.66,41a39.34,39.34,0,0,0,31.18,15.45,38.76,38.76,0,0,0,10.17-1.36l149.58-40.39a13.08,13.08,0,0,0,9.25-15.8c-.6-2-1.47-2.78-2.57-2.78-2.61,0-6.54,4.17-11.32,5.57l-154.5,34.15a9.21,9.21,0,0,1-2.2.25c-6.93,0-16.74-6.45-18.76-12.28-2.33-7.06,9.13-16.94,16.19-19.26l52.79-17.54a85.84,85.84,0,0,0,32.52-20.08s74.67-52.1,101.47-52.1a15.47,15.47,0,0,1,3.23.31,70,70,0,0,1,18.79,6.87c-6.68-6.89-13.28-13.86-19.62-21a60.34,60.34,0,0,1-8.48-3.42c-10.48,1.43-28.5,7.25-63.72,28.09-22.34,13.21-41,26.22-41.8,26.77a16.62,16.62,0,0,0-2.29,1.9,68.42,68.42,0,0,1-25.73,15.91l-52.73,17.51c-6.44,2.13-13.5,6.79-18.9,12.48-3.68,3.89-8.86,10.75-9.68,19.26l-97.38-36-.18-.07a33.77,33.77,0,0,0-11.41-2,31.81,31.81,0,0,0-15.31,3.94,32.71,32.71,0,0,0-16.69,20.48c-.09.33-.18.67-.26,1a33.3,33.3,0,0,0,21,38.8l150.2,55.24a89.31,89.31,0,0,0,30.82,5.46,88.29,88.29,0,0,0,26.92-4.17c6.48-1.34,43.68-9.11,82.13-18.53,24.91-6.11,45.54-11.72,61.3-16.68,29.23-9.2,37.49-14.82,42.07-19.52a90,90,0,0,0,18.42-27.65A8.91,8.91,0,0,1,493.42,182.4Z"
+         id="path10" />
+    </g>
+  </g>
+</svg>

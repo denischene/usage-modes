@@ -506,6 +506,18 @@
     "label": "Vocal+",
     "slug": "vocal-p",
     "picto": "/pictos/vocal-p.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes n'utilisant pas la vision ni le pointage visuel. Le contenu est structuré séquentiellement et hiérarchiquement, les éléments sont tous vocalisés lorsqu'ils sont utiles, résumés lorsqu'ils sont nombreux ou complexes, la navigation au clavier est logique et les retours audios et vibratoires sont systématiques.",
+      "users": [
+        "Personne dont les yeux ne sont pas disponibles (conducteurs de véhicules) ou aveugles.",
+        "Ne peut pas pointer visuellement, et a donc besoin d'être informé par le biais du tactile et de l'audio.",
+        "Navigue dans l'interface de façon séquentielle.",
+        "A besoin d'avoir des résumés des éléments présents, surtout lorsqu'ils sont nombreux.",
+        "Doit pouvoir interroger le système en audio pour savoir ce qui est en cours de focus.",
+        "A besoin d'une navigation sécure sans risque de déclencher des actions par inadvertance."
+      ],
+      "pictos": ["/pictos-modes/vocal-p-white.svg", "/pictos-modes/vocal-p-black.svg"]
+    },
     "sections": {
       "perception": [
         {
@@ -1037,6 +1049,18 @@
     "label": "Lecture++",
     "slug": "lecture-pp",
     "picto": "/pictos/lecture-pp.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes ayant des contraintes de lecture et/ou de manipulation. Une police optimisée pour la dyslexie, des textes bien lisibles, des règles de lecture, la possibilité de colorer les caractères-sons et de se faire lire le texte, ainsi que des aides au pointage.",
+      "users": [
+        "Personne ayant des difficultés importantes de lecture liées à la dyslexie, et éventuellement également de la dyspraxie, dysphasie…",
+        "Les caractères se mélangent.",
+        "Les lignes se mélangent.",
+        "L'association phonème-morphème est compliquée.",
+        "La fatigue vient vite.",
+        "La coordination motrice, dont le pointage, peut être compliquée."
+      ],
+      "pictos": ["/pictos-modes/reading-pp-white.svg", "/pictos-modes/reading-pp-black.svg"]
+    },
     "sections": {
       "perception": [
         {
@@ -1237,6 +1261,16 @@
     "label": "Pointage+",
     "slug": "pointage-p",
     "picto": "/pictos/pointage-p.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes ayant des contraintes de pointage à la souris. Une souris bien visible et de bonne taille, des zones de clics agrandies et la possibilité de cliquer au survol, sans effort avec un ascenseur à gros boutons.",
+      "users": [
+        "Personne ayant de fortes contraintes motrices de manipulation, pas de manipulation directe mais via un contacteur unique. Le défilement automatique du focus est requis.",
+        "Tremblements, atteinte difficile des cibles.",
+        "Erreurs de saisie au clavier.",
+        "Appuis répétés ou trop longs non volontaires."
+      ],
+      "pictos": ["/pictos-modes/pointing-p-white.svg", "/pictos-modes/pointing-p-black.svg"]
+    },
     "sections": {
       "perception": [
         "/illustrations/pointage-p_perception_pointage-p_perception-152.png",
@@ -1273,6 +1307,15 @@
     "label": "Moteur+",
     "slug": "moteur-p",
     "picto": "/pictos/moteur-p.png",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes privilégiant l'usage du clavier ou de boutons de navigation et de raccourcis. Une équivalence clavier pour toute action, un focus bien visible, une navigation du focus ordonnée logiquement, une fonction de recherche, de la commande vocale, des temps d'action suffisants, des touches rémanentes et touches filtres.",
+      "users": [
+        "Personne ayant de fortes contraintes motrices de manipulation et en capacité d'utiliser un clavier ou une partie de clavier, ou un pointeur limité en directions.",
+        "Navigation par tabulation, en mode séquentiel maîtrisé (proche du mode séquentiel des personnes non-voyantes).",
+        "Voix souvent altérée et donc commande vocale pas systématique mais souhaitable quand c'est possible."
+      ],
+      "pictos": ["/pictos-modes/motor-p-white.svg", "/pictos-modes/motor-p-black.svg"]
+    },
     "sections": {
       "perception": [
         {
@@ -1417,6 +1460,17 @@
     "label": "Moteur++",
     "slug": "moteur-pp",
     "picto": "/pictos/moteur-pp.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes ayant de fortes contraintes motrices de manipulation voire pas de manipulation directe mais via un, deux ou trois contacteurs. Le défilement automatique du focus est nécessaire. Les besoins sont identiques au mode Moteur+ avec en plus le défilement automatique du focus et une stricte organisation de l'information en boîtes et sous-boîtes.",
+      "users": [
+        "Personne ayant de fortes contraintes motrices de manipulation, ayant une manipulation incertaine ou utilisant un contacteur voire deux ou trois.",
+        "Navigation en mode séquentiel maîtrisé (proche du mode séquentiel des personnes non-voyantes) et encore plus souvent en mode séquentiel automatique ou semi-automatique (défilement du focus).",
+        "Peut effectuer deux ou trois actions, pas plus : Suivant/Précédent/Valider/Retour/Prise d'info.",
+        "Ce mode génère une forte fatigue.",
+        "Voix souvent altérée et donc commande vocale pas systématique mais souhaitable quand c'est possible."
+      ],
+      "pictos": ["/pictos-modes/motor-pp-white.svg", "/pictos-modes/motor-pp-black.svg"]
+    },
     "sections": {
       "perception": [
         {

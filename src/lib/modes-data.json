@@ -1441,6 +1441,17 @@
     "label": "Moteur++",
     "slug": "moteur-pp",
     "picto": "/pictos/moteur-pp.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes ayant de fortes contraintes motrices de manipulation voire pas de manipulation directe mais via un, deux ou trois contacteurs. Le défilement automatique du focus est nécessaire. Les besoins sont identiques au mode Moteur+ avec en plus le défilement automatique du focus et une stricte organisation de l'information en boîtes et sous-boîtes.",
+      "users": [
+        "Personne ayant de fortes contraintes motrices de manipulation, ayant une manipulation incertaine ou utilisant un contacteur voire deux ou trois.",
+        "Navigation en mode séquentiel maîtrisé (proche du mode séquentiel des personnes non-voyantes) et encore plus souvent en mode séquentiel automatique ou semi-automatique (défilement du focus).",
+        "Peut effectuer deux ou trois actions, pas plus : Suivant/Précédent/Valider/Retour/Prise d'info.",
+        "Ce mode génère une forte fatigue.",
+        "Voix souvent altérée et donc commande vocale pas systématique mais souhaitable quand c'est possible."
+      ],
+      "pictos": ["/pictos-modes/motor-pp-white.svg", "/pictos-modes/motor-pp-black.svg"]
+    },
     "sections": {
       "perception": [
         {

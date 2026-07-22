@@ -11,6 +11,7 @@ export function LanguageSwitcher() {
         onChange={(e) => setLang(e.target.value as LangCode)}
         aria-label={t("lang.label")}
         className="border-2 border-background bg-foreground px-2 py-1 font-semibold text-background"
+        suppressHydrationWarning
       >
         {LANGUAGES.map((l) => (
           <option key={l.code} value={l.code} className="text-foreground">

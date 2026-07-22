@@ -143,7 +143,7 @@ function ModePage() {
                 <h3 className="mb-4 text-xl font-bold">Pictogrammes du mode d'usage {mode.label}</h3>
                 <ul className="flex flex-wrap gap-4">
                   {mode.description.pictos.map((p, i) => (
-                    <li key={p} className="grid h-32 w-32 place-items-center border border-border bg-background p-3">
+                    <li key={p} className={`grid h-32 w-32 place-items-center border border-border p-3 ${i === 0 ? "bg-white" : "bg-black"}`}>
                       <img src={p} alt={`Pictogramme ${mode.label} ${i === 0 ? "fond clair" : "fond noir"}`} className="h-full w-full object-contain" />
                     </li>
                   ))}

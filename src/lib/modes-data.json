@@ -1261,6 +1261,16 @@
     "label": "Pointage+",
     "slug": "pointage-p",
     "picto": "/pictos/pointage-p.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes ayant des contraintes de pointage à la souris. Une souris bien visible et de bonne taille, des zones de clics agrandies et la possibilité de cliquer au survol, sans effort avec un ascenseur à gros boutons.",
+      "users": [
+        "Personne ayant de fortes contraintes motrices de manipulation, pas de manipulation directe mais via un contacteur unique. Le défilement automatique du focus est requis.",
+        "Tremblements, atteinte difficile des cibles.",
+        "Erreurs de saisie au clavier.",
+        "Appuis répétés ou trop longs non volontaires."
+      ],
+      "pictos": ["/pictos-modes/pointing-p-white.svg", "/pictos-modes/pointing-p-black.svg"]
+    },
     "sections": {
       "perception": [
         "/illustrations/pointage-p_perception_pointage-p_perception-152.png",

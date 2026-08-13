@@ -2088,11 +2088,88 @@
   "zh": "避免使用俏皮的语气和过度情绪化的界面。"
  },
  "Le sous-titrage en texte temps réel (TTR)  proposé par exemple par un Centre Relai Téléphonique, est nécessaire en situation de communication.": {},
- "Les communications en direct doivent proposer une visio pour la lecture labiale.": {},
- "Tous les contenus (audio, vidéo) doivent avoir une alternative textuelle.": {},
- "Les sous-titres doivent être affichables en bicolores ou colorés selon la norme.": {},
- "Proposer plusieurs couleurs de fonds (gris et noir) pour les sous-titres": {},
- "Les sous-titres sourds et malentendants (STSM) doivent être colorés selon la norme française et être adaptés à la couleur de fond.": {},
- "Proposer 5 tailles de police pour les sous-titres.": {},
- "Les sous-titres ne doivent pas être incrustés dans la vidéo mais gérés via un fichier texte indépendant (de façon à être paramétrables).": {}
+ "Les communications en direct doivent proposer une visio pour la lecture labiale.": {
+  "en": "Live communications must offer video for lip-reading.",
+  "es": "Las comunicaciones en directo deben ofrecer video para la lectura labial.",
+  "de": "Live-Kommunikationen müssen Video für das Lippenlesen anbieten.",
+  "it": "Le comunicazioni in diretta devono offrire video per la lettura labiale.",
+  "pl": "Komunikacja na żywo musi oferować wideo do czytania z ruchu warg.",
+  "ga": "Ní mór d'fhoinsí cumarsáide beo físeán a thairiscint le haghaidh léamh liopaí.",
+  "pt-BR": "As comunicações ao vivo devem oferecer vídeo para leitura labial.",
+  "ja": "ライブコミュニケーションでは、読唇術のためにビデオを提供する必要があります。",
+  "ko": "실시간 통신은 입술 판독을 위한 비디오를 제공해야 합니다.",
+  "zh": "实时通信必须提供用于唇读的视频。"
+ },
+ "Tous les contenus (audio, vidéo) doivent avoir une alternative textuelle.": {
+  "en": "All content (audio, video) must have a text alternative.",
+  "es": "Todo el contenido (audio, video) debe tener una alternativa textual.",
+  "de": "Alle Inhalte (Audio, Video) müssen eine Textalternative haben.",
+  "it": "Tutti i contenuti (audio, video) devono avere un'alternativa testuale.",
+  "pl": "Wszystkie treści (audio, wideo) muszą posiadać alternatywę tekstową.",
+  "ga": "Ní mór go mbeadh malairt téacs ag gach ábhar (fuaime, físeáin).",
+  "pt-BR": "Todo o conteúdo (áudio, vídeo) deve ter uma alternativa textual.",
+  "ja": "すべてのコンテンツ（オーディオ、ビデオ）にはテキストの代替案が必要です。",
+  "ko": "모든 콘텐츠(오디오, 비디오)는 텍스트 대체 수단을 가져야 합니다.",
+  "zh": "所有内容（音频、视频）都必须有文本替代方案。"
+ },
+ "Les sous-titres doivent être affichables en bicolores ou colorés selon la norme.": {
+  "en": "Subtitles must be displayable in bicolour or coloured according to the standard.",
+  "es": "Los subtítulos deben poder mostrarse en dos colores o en color según la norma.",
+  "de": "Untertitel müssen gemäß der Norm zweifarbig oder farbig darstellbar sein.",
+  "it": "I sottotitoli devono essere visualizzabili in bicolore o colorati secondo lo standard.",
+  "pl": "Napisy muszą być wyświetlane w dwóch kolorach lub kolorowe zgodnie z normą.",
+  "ga": "Ní mór fotheidil a bheith infheicthe i ndath dédhathach nó daite de réir an chaighdeáin.",
+  "pt-BR": "As legendas devem ser exibíveis em bicolores ou coloridas de acordo com o padrão.",
+  "ja": "字幕は、標準に従って2色またはカラーで表示できる必要があります。",
+  "ko": "자막은 표준에 따라 2색 또는 유색으로 표시할 수 있어야 합니다.",
+  "zh": "字幕必须可以根据标准以双色或彩色显示。"
+ },
+ "Proposer plusieurs couleurs de fonds (gris et noir) pour les sous-titres": {
+  "en": "Offer several background colours (grey and black) for subtitles",
+  "es": "Ofrecer varios colores de fondo (gris y negro) para los subtítulos",
+  "de": "Mehrere Hintergrundfarben (Grau und Schwarz) für Untertitel anbieten",
+  "it": "Offrire diversi colori di sfondo (grigio e nero) per i sottotitoli",
+  "pl": "Oferuj kilka kolorów tła (szary i czarny) dla napisów",
+  "ga": "Tairiscint roinnt dathanna cúlra (liath agus dubh) le haghaidh fotheidil",
+  "pt-BR": "Oferecer várias cores de fundo (cinza e preto) para as legendas",
+  "ja": "字幕用に複数の背景色（グレーと黒）を提供する",
+  "ko": "자막을 위한 여러 배경색(회색 및 검정) 제공",
+  "zh": "为字幕提供多种背景颜色（灰色和黑色）"
+ },
+ "Les sous-titres sourds et malentendants (STSM) doivent être colorés selon la norme française et être adaptés à la couleur de fond.": {
+  "en": "Subtitles for the deaf and hard of hearing (SDH) must be coloured according to the French standard and adapted to the background colour.",
+  "es": "Los subtítulos para sordos y personas con problemas de audición (STSM) deben estar coloreados según la norma francesa y adaptarse al color de fondo.",
+  "de": "Untertitel für Gehörlose und Schwerhörige (SDH) müssen gemäß der französischen Norm farbig sein und an die Hintergrundfarbe angepasst werden.",
+  "it": "I sottotitoli per sordi e ipoudenti (STSM) devono essere colorati secondo la norma francese e adattati al colore di sfondo.",
+  "pl": "Napisy dla niesłyszących i niedosłyszących (STSM) muszą być kolorowane zgodnie z francuską normą i dostosowane do koloru tła.",
+  "ga": "Ní mór fotheidil do dhaoine bodhra agus lagéisteachta (STSM) a bheith daite de réir an chaighdeáin Fhrancach agus a oiriúnú do dhath an chúlra.",
+  "pt-BR": "As legendas para surdos e ensurdecidos (STSM) devem ser coloridas de acordo com a norma francesa e adaptadas à cor de fundo.",
+  "ja": "聴覚障害者および難聴者向け字幕（SDH）は、フランスの基準に従って色付けされ、背景色に適合させる必要があります。",
+  "ko": "청각 장애인 및 난청인용 자막(STSM)은 프랑스 표준에 따라 색상을 지정하고 배경색에 맞게 조정해야 합니다.",
+  "zh": "聋哑和听障人士字幕（STSM）必须根据法国标准进行着色，并适应背景颜色。"
+ },
+ "Proposer 5 tailles de police pour les sous-titres.": {
+  "en": "Offer 5 font sizes for subtitles.",
+  "es": "Ofrecer 5 tamaños de fuente para los subtítulos.",
+  "de": "5 Schriftgrößen für Untertitel anbieten.",
+  "it": "Offrire 5 dimensioni di carattere per i sottotitoli.",
+  "pl": "Oferuj 5 rozmiarów czcionek dla napisów.",
+  "ga": "Tairiscint 5 mhéid cló le haghaidh fotheidil.",
+  "pt-BR": "Oferecer 5 tamanhos de fonte para as legendas.",
+  "ja": "字幕用に5種類のフォントサイズを提供する。",
+  "ko": "자막을 위한 5가지 글꼴 크기 제공.",
+  "zh": "为字幕提供5种字体大小。"
+ },
+ "Les sous-titres ne doivent pas être incrustés dans la vidéo mais gérés via un fichier texte indépendant (de façon à être paramétrables).": {
+  "en": "Subtitles must not be embedded in the video but managed via an independent text file (so that they can be configured).",
+  "es": "Los subtítulos no deben incrustarse en el video, sino gestionarse mediante un archivo de texto independiente (para que puedan ser configurables).",
+  "de": "Untertitel dürfen nicht in das Video eingebettet, sondern müssen über eine unabhängige Textdatei verwaltet werden (damit sie konfigurierbar sind).",
+  "it": "I sottotitoli non devono essere incorporati nel video ma gestiti tramite un file di testo indipendente (in modo da essere configurabili).",
+  "pl": "Napisy nie powinny być osadzone w filmie, lecz zarządzane za pomocą niezależnego pliku tekstowego (tak aby można je było konfigurować).",
+  "ga": "Níor cheart fotheidil a leabú san fhíseán ach iad a bhainistiú trí chomhad téacs neamhspleách (ionas gur féidir iad a chumrú).",
+  "pt-BR": "As legendas não devem ser incorporadas ao vídeo, mas gerenciadas por meio de um arquivo de texto independente (para que possam ser configuradas).",
+  "ja": "字幕はビデオに埋め込むのではなく、独立したテキストファイルを介して管理する必要があります（設定可能にするため）。",
+  "ko": "자막은 비디오에 내장되어서는 안 되며, 독립적인 텍스트 파일을 통해 관리되어야 합니다(구성 가능하도록).",
+  "zh": "字幕不得嵌入视频中，而应通过独立的文本文件进行管理（以便可配置）。"
+ }
 }

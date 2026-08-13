@@ -2087,7 +2087,18 @@
   "ko": "장난스러운 톤, 인터페이스의 감정적 과장을 피하세요.",
   "zh": "避免使用俏皮的语气和过度情绪化的界面。"
  },
- "Le sous-titrage en texte temps réel (TTR)  proposé par exemple par un Centre Relai Téléphonique, est nécessaire en situation de communication.": {},
+ "Le sous-titrage en texte temps réel (TTR)  proposé par exemple par un Centre Relai Téléphonique, est nécessaire en situation de communication.": {
+  "en": "Real-time text captioning (RTT), offered for example by a Telephone Relay Center, is necessary in communication situations.",
+  "es": "El subtitulado en texto en tiempo real (TTR), ofrecido por ejemplo por un Centro de Retransmisión Telefónica, es necesario en situaciones de comunicación.",
+  "de": "Die Echtzeit-Textuntertitelung (RTT), die beispielsweise von einer Telefonrelaiszentrale angeboten wird, ist in Kommunikationssituationen notwendig.",
+  "it": "La sottotitolazione in testo in tempo reale (TTR), offerta ad esempio da un Centro di Trasmissione Telefonica, è necessaria in situazioni di comunicazione.",
+  "pl": "Napisy tekstowe w czasie rzeczywistym (TTR), oferowane na przykład przez Centrum Przekazu Telefonicznego, są niezbędne w sytuacjach komunikacyjnych.",
+  "ga": "Tá an fhotheidealú téacs fíor-ama (TTR), a chuireann Ionad Athsheolta Teileafóin ar fáil mar shampla, riachtanach i gcásanna cumarsáide.",
+  "pt-BR": "A legendagem de texto em tempo real (TTR), oferecida, por exemplo, por um Centro de Retransmissão Telefônica, é necessária em situações de comunicação.",
+  "ja": "電話リレーセンターなどが提供するリアルタイムテキストキャプション（TTR）は、コミュニケーションの状況において必要です。",
+  "ko": "예를 들어 전화 중계 센터에서 제공하는 실시간 텍스트 자막(TTR)은 통신 상황에서 필요합니다.",
+  "zh": "例如由电话转接中心提供的实时文本字幕（TTR），在通信情境中是必要的。"
+ },
  "Les communications en direct doivent proposer une visio pour la lecture labiale.": {
   "en": "Live communications must offer video for lip-reading.",
   "es": "Las comunicaciones en directo deben ofrecer video para la lectura labial.",

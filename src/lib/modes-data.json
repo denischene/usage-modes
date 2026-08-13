@@ -1661,6 +1661,17 @@
     "label": "Audio+",
     "slug": "audio-p",
     "picto": "/pictos/audio-p.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes ayant de fortes contraintes auditives, à l'aise en langue française écrite et orale, mais pas toujours en mesure de se faire comprendre à l'oral.",
+      "users": [
+        "Personne malentendante ou sourde, appareillée ou pas.",
+        "A besoin d'interfaces proposant des équivalences visuelles (texte, flash lumineux…) et vibratoires en complément des éléments sonores.",
+        "A besoin de sous-titrages à destination des sourds et malentendants.",
+        "A besoin d'un son adaptable et de la possibilité de connecter ses appareils auditifs, sans interférences (boucles magnétiques).",
+        "A besoin de centre relai téléphonique avec sous-titrage en soutien de la communication orale directe."
+      ],
+      "pictos": ["/pictos-modes/audio-p-white.svg", "/pictos-modes/audio-p-black.svg"]
+    },
     "sections": {
       "perception": [
         "/illustrations/audio-p_perception_audio-p_perception-121bis.png",

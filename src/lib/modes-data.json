@@ -11,7 +11,10 @@
         "A besoin d'être formé, rassuré, a besoin de guidage",
         "A besoin d'une interaction sans erreurs et simplifiée basée sur de nombreux indices perceptifs"
       ],
-      "pictos": ["/pictos-modes/easy-p-white.svg", "/pictos-modes/easy-p-black.svg"]
+      "pictos": [
+        "/pictos-modes/easy-p-white.svg",
+        "/pictos-modes/easy-p-black.svg"
+      ]
     },
     "sections": {
       "perception": [
@@ -230,7 +233,10 @@
         "La lecture et le calcul sont difficiles.",
         "La fatigue arrive vite."
       ],
-      "pictos": ["/pictos-modes/easy-pp-white.svg", "/pictos-modes/easy-pp-black.svg"]
+      "pictos": [
+        "/pictos-modes/easy-pp-white.svg",
+        "/pictos-modes/easy-pp-black.svg"
+      ]
     },
     "sections": {
       "perception": [
@@ -531,7 +537,10 @@
         "Doit pouvoir interroger le système en audio pour savoir ce qui est en cours de focus.",
         "A besoin d'une navigation sécure sans risque de déclencher des actions par inadvertance."
       ],
-      "pictos": ["/pictos-modes/vocal-p-white.svg", "/pictos-modes/vocal-p-black.png"]
+      "pictos": [
+        "/pictos-modes/vocal-p-white.svg",
+        "/pictos-modes/vocal-p-black.png"
+      ]
     },
     "sections": {
       "perception": [
@@ -670,7 +679,10 @@
         "A besoin d'un affichage contrasté, de zoomer ou tout au moins d'avoir de gros caractères.",
         "A besoin de personnaliser les couleurs"
       ],
-      "pictos": ["/pictos-modes/vision-p-white.svg", "/pictos-modes/vision-p-black.svg"]
+      "pictos": [
+        "/pictos-modes/vision-p-white.svg",
+        "/pictos-modes/vision-p-black.svg"
+      ]
     },
     "sections": {
       "perception": [
@@ -803,7 +815,10 @@
         "A besoin d'un zoom de façon permanente (très gros caractères) et de pouvoir facilement passer de la vue globale (totalité de l'écran non zoomé, sans grands caractères) aux vues locales (vues partielles zoomées, avec grands caractères).",
         "A besoin d'un rendu visuel « augmenté », de rendus tactiles (braille, picots), de rendus audios (synthèse vocale)"
       ],
-      "pictos": ["/pictos-modes/vision-pp-white.svg", "/pictos-modes/vision-pp-black.svg"]
+      "pictos": [
+        "/pictos-modes/vision-pp-white.svg",
+        "/pictos-modes/vision-pp-black.svg"
+      ]
     },
     "sections": {
       "perception": [
@@ -969,7 +984,10 @@
         "L'association phonème-morphème est compliquée",
         "La fatigue vient vite"
       ],
-      "pictos": ["/pictos-modes/reading-p-white.svg", "/pictos-modes/reading-p-black.svg"]
+      "pictos": [
+        "/pictos-modes/reading-p-white.svg",
+        "/pictos-modes/reading-p-black.svg"
+      ]
     },
     "sections": {
       "perception": [
@@ -1074,7 +1092,10 @@
         "La fatigue vient vite.",
         "La coordination motrice, dont le pointage, peut être compliquée."
       ],
-      "pictos": ["/pictos-modes/reading-pp-white.svg", "/pictos-modes/reading-pp-black.svg"]
+      "pictos": [
+        "/pictos-modes/reading-pp-white.svg",
+        "/pictos-modes/reading-pp-black.svg"
+      ]
     },
     "sections": {
       "perception": [
@@ -1284,7 +1305,10 @@
         "Erreurs de saisie au clavier.",
         "Appuis répétés ou trop longs non volontaires."
       ],
-      "pictos": ["/pictos-modes/pointing-p-white.svg", "/pictos-modes/pointing-p-black.svg"]
+      "pictos": [
+        "/pictos-modes/pointing-p-white.svg",
+        "/pictos-modes/pointing-p-black.svg"
+      ]
     },
     "sections": {
       "perception": [
@@ -1329,7 +1353,10 @@
         "Navigation par tabulation, en mode séquentiel maîtrisé (proche du mode séquentiel des personnes non-voyantes).",
         "Voix souvent altérée et donc commande vocale pas systématique mais souhaitable quand c'est possible."
       ],
-      "pictos": ["/pictos-modes/motor-p-white.svg", "/pictos-modes/motor-p-black.svg"]
+      "pictos": [
+        "/pictos-modes/motor-p-white.svg",
+        "/pictos-modes/motor-p-black.svg"
+      ]
     },
     "sections": {
       "perception": [
@@ -1484,7 +1511,10 @@
         "Ce mode génère une forte fatigue.",
         "Voix souvent altérée et donc commande vocale pas systématique mais souhaitable quand c'est possible."
       ],
-      "pictos": ["/pictos-modes/motor-pp-white.svg", "/pictos-modes/motor-pp-black.png"]
+      "pictos": [
+        "/pictos-modes/motor-pp-white.svg",
+        "/pictos-modes/motor-pp-black.png"
+      ]
     },
     "sections": {
       "perception": [
@@ -1670,18 +1700,50 @@
         "A besoin d'un son adaptable et de la possibilité de connecter ses appareils auditifs, sans interférences (boucles magnétiques).",
         "A besoin de centre relai téléphonique avec sous-titrage en soutien de la communication orale directe."
       ],
-      "pictos": ["/pictos-modes/audio-p-white.svg", "/pictos-modes/audio-p-black.svg"]
+      "pictos": [
+        "/pictos-modes/audio-p-white.svg",
+        "/pictos-modes/audio-p-black.svg"
+      ]
     },
     "sections": {
       "perception": [
-        "/illustrations/audio-p_perception_audio-p_perception-121bis.png",
-        "/illustrations/audio-p_perception_audio-p_perception-122ter.png",
-        "/illustrations/audio-p_perception_audio-p_perception-123.png",
-        "/illustrations/audio-p_perception_audio-p_perception-124.png",
-        "/illustrations/audio-p_perception_audio-p_perception-125.png",
-        "/illustrations/audio-p_perception_audio-p_perception-126bis.png",
-        "/illustrations/audio-p_perception_audio-p_perception-127bis.png",
-        "/illustrations/audio-p_perception_audio-p_perception-128.png",
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-1.png",
+          "text": "Le sous-titrage en texte temps réel (TTR)  proposé par exemple par un Centre Relai Téléphonique, est nécessaire en situation de communication.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-2.png",
+          "text": "Les communications en direct doivent proposer une visio pour la lecture labiale.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-3.png",
+          "text": "Tous les contenus (audio, vidéo) doivent avoir une alternative textuelle.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-4.png",
+          "text": "Les sous-titres doivent être affichables en bicolores ou colorés selon la norme."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-5.png",
+          "text": "Proposer plusieurs couleurs de fonds (gris et noir) pour les sous-titres"
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-6.png",
+          "text": "Les sous-titres sourds et malentendants (STSM) doivent être colorés selon la norme française et être adaptés à la couleur de fond.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-7.png",
+          "text": "Proposer 5 tailles de police pour les sous-titres."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-8.png",
+          "text": "Les sous-titres ne doivent pas être incrustés dans la vidéo mais gérés via un fichier texte indépendant (de façon à être paramétrables).",
+          "wide": true
+        },
         "/illustrations/audio-p_perception_audio-p_perception-129.png",
         "/illustrations/audio-p_perception_audio-p_perception-130.png",
         "/illustrations/audio-p_perception_audio-p_perception-131.png",

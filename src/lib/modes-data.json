@@ -153,8 +153,8 @@
           "wide": true
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-2.png",
+          "text": "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.",
           "wide": true
         },
         {
@@ -428,8 +428,8 @@
           "wide": true
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-2.png",
+          "text": "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.",
           "wide": true
         },
         {
@@ -638,8 +638,8 @@
           "text": "Pour passer à l’élément suivant, le geste peut être continu ou séquentiel."
         },
         {
-          "src": "/illustrations/vocal-p-new/Vocal+-Commandes-règle6.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-2.png",
+          "text": "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.",
           "wide": true
         },
         {
@@ -791,8 +791,8 @@
           "text": "Prévoir des points d'ancrages visuels à partir desquels l'utilisateur peut se situer dans l'espace."
         },
         {
-          "src": "/illustrations/vision-p-new/Vision+-Commandes-règle8.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-2.png",
+          "text": "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.",
           "wide": true
         },
         {
@@ -945,8 +945,8 @@
           "text": "Prévoir des points d'ancrages visuels à partir desquels l'utilisateur peut se situer dans l'espace."
         },
         {
-          "src": "/illustrations/vision-pp-new/Vision++-Commandes-règle8.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-2.png",
+          "text": "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.",
           "wide": true
         },
         {
@@ -1067,8 +1067,8 @@
           "text": "Permettre le pointage direct : l'élément cliqué est sous le doigt (commandes tactiles colocalisées)."
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-2.png",
+          "text": "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.",
           "wide": true
         },
         {
@@ -1228,8 +1228,8 @@
           "wide": true
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-2.png",
+          "text": "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.",
           "wide": true
         },
         {
@@ -1333,7 +1333,11 @@
         "/illustrations/pointage-p_commandes_pointage-p_manipulation-157.png",
         "/illustrations/pointage-p_commandes_pointage-p_manipulation-158nn.png",
         "/illustrations/pointage-p_commandes_pointage-p_manipulation-345.png",
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation-413.png",
+        {
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-2.png",
+          "text": "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.",
+          "wide": true
+        },
         "/illustrations/pointage-p_commandes_pointage-p_manipulation_340.png",
         {
           "src": "/illustrations/serein-p-new/Serein+-Commandes-regle12.png",
@@ -1744,25 +1748,73 @@
           "text": "Les sous-titres ne doivent pas être incrustés dans la vidéo mais gérés via un fichier texte indépendant (de façon à être paramétrables).",
           "wide": true
         },
-        "/illustrations/audio-p_perception_audio-p_perception-129.png",
-        "/illustrations/audio-p_perception_audio-p_perception-130.png",
-        "/illustrations/audio-p_perception_audio-p_perception-131.png",
-        "/illustrations/audio-p_perception_audio-p_perception-132.png",
-        "/illustrations/audio-p_perception_audio-p_perception-133.png",
-        "/illustrations/audio-p_perception_audio-p_perception-134.png",
-        "/illustrations/audio-p_perception_audio-p_perception-135.png",
-        "/illustrations/audio-p_perception_audio-p_perception-136.png",
-        "/illustrations/audio-p_perception_audio-p_perception-137.png",
-        "/illustrations/audio-p_perception_audio-p_perception-138.png",
-        "/illustrations/audio-p_perception_audio-p_perception-139.png"
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-9.png",
+          "text": "Utiliser une police de caractères bien lisible et sans sérif pour les sous-titres (par ex. Accessible-DfA, Helvetica Neue)."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-10.png",
+          "text": "Bien mettre en évidence les fonctions permettant l'amplification du volume."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-11.png",
+          "text": "Positionner les sous-titres sous la personne qui parle."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-12.png",
+          "text": "Bien mettre en évidence les fonctions permettant de connecter en Bluetooth les aides auditives."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-13.png",
+          "text": "S'assurer de la compatibilité du système avec les Boucles à Induction Magnétique (BIM) et signaler cette compatibilité avec un de ces logos."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-14.png",
+          "text": "Donner le choix des voix de synthèse et permettre le réglage grave/aigu des sons."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-15.png",
+          "text": "Intégrer systématiquement un vue-mètre : pour savoir qui parle lors d'une situation de télécommunication et pour un retour sur sa propre voix lors d'une commande vocale."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-16.png",
+          "text": "Émettre des retours haptiques (vibrations) lors de la réalisation des actions utilisateur."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-17.png",
+          "text": "Augmenter les éléments sonores par une équivalence visuelle : créer des animations visuelles pour les retours d'actions."
+        }
       ],
-      "comprehension": [],
+      "comprehension": [
+        {
+          "src": "",
+          "text": "Aucune règle de compréhension spécifique n'est nécessaire pour ce mode d'usage.",
+          "noImage": true
+        }
+      ],
       "commandes": [
-        "/illustrations/audio-p_commandes_audio-p_manipulation-423.png",
-        "/illustrations/audio-p_commandes_audio-p_manipulation-427.png",
-        "/illustrations/audio-p_commandes_audio-p_manipulation-441.png",
-        "/illustrations/audio-p_commandes_audio-p_manipulation-140.png",
-        "/illustrations/audio-p_commandes_audio-p_manipulation-409.png"
+        {
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-1.png",
+          "text": "Permettre le pointage direct : l'élément cliqué est sous le doigt (commandes tactiles colocalisées)."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-2.png",
+          "text": "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-3.png",
+          "text": "Émettre des retours visuels (messages furtifs d'1s) suite aux actions importantes réalisées."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-4.png",
+          "text": "Émettre des retours visuels (boutons qui se remplissent, animations...) sur les actions de navigation."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-5.png",
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisée et les actions de navigation.",
+          "wide": true
+        }
       ]
     }
   },
@@ -2168,8 +2220,8 @@
           "text": "L'utilisateur doit pouvoir interroger les boutons avant de les valider."
         },
         {
-          "src": "/illustrations/facile-p-new/Facile+-Commandes-regle7.png",
-          "text": "Proposer 5 commandes de navigation suffisantes pour tout faire.",
+          "src": "/illustrations/audio-p-new/audio-p-commandes-regle-2.png",
+          "text": "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.",
           "wide": true
         },
         {

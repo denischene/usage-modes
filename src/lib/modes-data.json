@@ -1312,36 +1312,93 @@
     },
     "sections": {
       "perception": [
-        "/illustrations/pointage-p_perception_pointage-p_perception-152.png",
-        "/illustrations/pointage-p_perception_pointage-p_perception-326.png"
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-perception-regle-1.png",
+          "text": "Proposer un rendu visuel renforcé de la zone pointée.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-perception-regle-2.png",
+          "text": "Optimiser la visibilité du pointeur."
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-perception-regle-3.png",
+          "text": "Afficher la zone de pointage au-delà de l'objet."
+        }
       ],
       "comprehension": [
-        "/illustrations/pointage-p_comprehension_pointage-p_comprehension-328.png",
-        "/illustrations/pointage-p_comprehension_pointage-p_comprehension-360.png",
-        "/illustrations/pointage-p_comprehension_pointage-p_comprehension-366.png",
-        "/illustrations/pointage-p_comprehension_pointage-p_comprehension-398.png",
-        "/illustrations/pointage-p_comprehension_pointage-p_comprehension-403.png"
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-comprehension-regle-1.png",
+          "text": "Éviter les déclenchements automatiques de contenus sur pointage long (survol souris) car cette commande est réservée pour un autre usage. L'accès aux infobulles pourra se faire par commande vocale ou clic sur le bouton \"information\" (ou clavier).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-comprehension-regle-2.png",
+          "text": "Au début des longs documents, fournir l'information résumée."
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-comprehension-regle-3.png",
+          "text": "Au début des longs documents, fournir un sommaire de navigation."
+        }
       ],
       "commandes": [
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation-444.png",
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation-453.png",
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation-146.png",
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation-151.png",
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation-153nn.png",
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation-154n.png",
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation-156nn.png",
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation-157.png",
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation-158nn.png",
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation-345.png",
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-commandes-regle-1.png",
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation."
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-commandes-regle-2.png",
+          "text": "Émettre des retours sonores (bip, ding...) sur les actions de navigation."
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-commandes-regle-3.png",
+          "text": "Le pointage est colocalisé (le focus se déplace à l'endroit pointé)."
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-commandes-regle-4.png",
+          "text": "Proposer de gros boutons bien espacés."
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-commandes-regle-5.png",
+          "text": "L'appui lent permettant de valider doit être bien lent (2 ou 3s)."
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-commandes-regle-6.png",
+          "text": "La sélection d'un élément peut se faire de deux façons : soit en glissant son doigt sur l'écran par décolocalisation (le focus déplacé n'est pas forcément sous le doigt), soit en pointant directement l'élément avec un tap par colocalisation (le focus se déplace sous le doigt).",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-commandes-regle-7.png",
+          "text": "Sécuriser les pointage en autorisant le dérapage du doigt sur l'écran.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-commandes-regle-8.png",
+          "text": "Proposer une alternative au tirer-déposer : décomposer l'action en 4 temps.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-commandes-regle-9.png",
+          "text": "Étendre au maximum les zones d'activation."
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-commandes-regle-10.png",
+          "text": "Un geste de manipulation continue (tirer le focus trois cases plus loin) doit avoir son équivalent en manipulation séquentielle (appuyer trois fois sur la touche Suivant).",
+          "wide": true
+        },
         {
           "src": "/illustrations/audio-p-new/audio-p-commandes-regle-2.png",
           "text": "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.",
           "wide": true
         },
-        "/illustrations/pointage-p_commandes_pointage-p_manipulation_340.png",
         {
-          "src": "/illustrations/serein-p-new/Serein+-Commandes-regle12.png",
-          "text": "Prévoir une fonction Recherche."
+          "src": "/illustrations/pointage-p-new/pointage-p-commandes-regle-12.png",
+          "text": "Éviter les actions répétées involontaires : laisser son doigt sur l'écran ne doit pas déclencher d'actions répétées.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/pointage-p-new/pointage-p-commandes-regle-13.png",
+          "text": "Prévoir une fonction de \"Recherche\"."
         }
       ]
     }
@@ -1812,7 +1869,7 @@
         },
         {
           "src": "/illustrations/audio-p-new/audio-p-commandes-regle-5.png",
-          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisée et les actions de navigation.",
+          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
           "wide": true
         }
       ]

@@ -1835,11 +1835,15 @@
         },
         {
           "src": "/illustrations/audio-p-new/audio-p-perception-regle-16.png",
-          "text": "Émettre des retours haptiques (vibrations) lors de la réalisation des actions utilisateur."
+          "text": "Produire des informations haptiques (vibrations) pour remplacer le son."
         },
         {
           "src": "/illustrations/audio-p-new/audio-p-perception-regle-17.png",
-          "text": "Augmenter les éléments sonores par une équivalence visuelle : créer des animations visuelles pour les retours d'actions."
+          "text": "Produire des informations visuelles (animations, clignotements, couleurs) pour remplacer le son."
+        },
+        {
+          "src": "/illustrations/audio-p-new/audio-p-perception-regle-18.png",
+          "text": "Signaler la présence de sous-titres sourds et malentendants (STSM) par le logo Sous-titres SM."
         }
       ],
       "comprehension": [
@@ -1865,11 +1869,11 @@
         },
         {
           "src": "/illustrations/audio-p-new/audio-p-commandes-regle-4.png",
-          "text": "Émettre des retours visuels (boutons qui se remplissent, animations...) sur les actions de navigation."
+          "text": "Émettre des retours visuels (boutons qui se remplissent, animations...) pendant et/ou suite à la réalisation des actions."
         },
         {
           "src": "/illustrations/audio-p-new/audio-p-commandes-regle-5.png",
-          "text": "Émettre des retours haptiques (vibrations) sur les actions réalisées et les actions de navigation.",
+          "text": "Émettre des retours haptiques (vibrations) pendant et/ou suite à la réalisation des actions.",
           "wide": true
         }
       ]
@@ -1881,9 +1885,23 @@
     "picto": "/pictos/lsf-p.svg",
     "sections": {
       "perception": [
-        "/illustrations/lsf-p_perception_lsf_perception-186.png",
-        "/illustrations/lsf-p_perception_lsf_perception-187.png",
-        "/illustrations/lsf-p_perception_lsf_perception-188.png"
+        {
+          "src": "/illustrations/lsf-p-new/lsf-p-perception-regle-1.png",
+          "text": "Produire des informations haptiques (vibrations) pour remplacer le son.",
+          "wide": true
+        },
+        {
+          "src": "/illustrations/lsf-p-new/lsf-p-perception-regle-2.png",
+          "text": "Produire des informations visuelles (animations, clignotements, couleurs) pour remplacer le son."
+        },
+        {
+          "src": "/illustrations/lsf-p-new/lsf-p-perception-regle-3.png",
+          "text": "Augmenter les messages textuels d'un rendu graphique (icône, animation)."
+        },
+        {
+          "src": "/illustrations/lsf-p-new/lsf-p-perception-regle-4.png",
+          "text": "Signaler la présence de langue des signes par le logo LS."
+        }
       ],
       "comprehension": [
         "/illustrations/lsf-p_comprehension_lsf_compr-phension-193-essai-hj.png",

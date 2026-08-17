@@ -1900,6 +1900,20 @@
         "/illustrations/lsf-p_commandes_lsf_manipulation-410.png",
         "/illustrations/lsf-p_commandes_lsf_manipulation-443.png"
       ]
+    },
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes s'exprimant principalement en langue des signes (déclinaisons locales en fonction des pays). Interface proposant des vidéos signes, des pictosignes, l'accès au Centre Relai Téléphonique, des versions alternatives signées des textes et des audios.",
+      "users": [
+        "Personne malentendante ou sourde, peu à l'aise avec la langue orale, la langue des signes étant sa langue principale. La langue des signes est déclinée localement (LSF, ASL, ISL, PJM…).",
+        "A besoin d'interfaces proposant des équivalences visuelles (texte, flash lumineux …) et vibratoires en complément des éléments sonores.",
+        "A besoin d'interfaces intégrant la langue des signes (pictosignes, vidéosignes) et d'icônes en lien avec la culture langue des signes.",
+        "A besoin de centre relai téléphonique avec interprétation en langue des signes.",
+        "Utilise difficilement la commande vocale."
+      ],
+      "pictos": [
+        "/pictos-modes/sign-language-p-white.svg",
+        "/pictos-modes/sign-language-p-black.svg"
+      ]
     }
   },
   {

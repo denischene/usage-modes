@@ -14,7 +14,7 @@ export const Route = createFileRoute("/modes/")({
 });
 
 function ModesIndex() {
-  const { t, modeDescription } = useI18n();
+  const { t, modeDescription, modeLabel } = useI18n();
   return (
     <div className="mx-auto max-w-7xl px-6 py-16">
       <nav aria-label="Fil d'Ariane" className="mb-6 text-sm">
@@ -36,7 +36,7 @@ function ModesIndex() {
               >
                 <div className="flex items-center gap-4">
                   <ModePicto mode={m} />
-                  <span className="text-2xl font-bold group-hover:text-primary">{m.label}</span>
+                  <span className="text-2xl font-bold group-hover:text-primary">{modeLabel(m.label)}</span>
                 </div>
                 <p className="text-sm text-muted-foreground">{modeDescription(m.label)}</p>
                 <p className="mt-auto text-xs font-bold uppercase tracking-wider text-primary">

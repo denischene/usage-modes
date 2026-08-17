@@ -14,7 +14,7 @@ export const Route = createFileRoute("/")({
 });
 
 function HomePage() {
-  const { t, modeDescription } = useI18n();
+  const { t, modeDescription, modeLabel } = useI18n();
   return (
     <>
       {/* Hero */}
@@ -85,7 +85,7 @@ function HomePage() {
                 >
                   <ModePicto mode={m} />
                   <span className="flex flex-col">
-                    <span className="text-lg font-bold group-hover:text-primary">{m.label}</span>
+                    <span className="text-lg font-bold group-hover:text-primary">{modeLabel(m.label)}</span>
                     <span className="text-sm text-muted-foreground">{modeDescription(m.label)}</span>
                   </span>
                 </Link>

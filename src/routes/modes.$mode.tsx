@@ -193,8 +193,8 @@ function ModePage() {
                     const customText = typeof item === "string" ? undefined : item.text;
                     const wide = typeof item === "string" ? false : !!item.wide;
                     const noImage = typeof item !== "string" && !src;
-                    const caption = `${mode.label} · ${title} · ${t("mode.ruleCard")} ${i + 1}`;
-                    const alt = `${title} · ${t("mode.ruleCard")} ${i + 1} — ${mode.label}`;
+                    const caption = `${label} · ${title} · ${t("mode.ruleCard")} ${i + 1}`;
+                    const alt = `${title} · ${t("mode.ruleCard")} ${i + 1} — ${label}`;
                     return (
                       <li key={`${src || "no-img"}-${i}`} className={`border-2 border-border bg-background ${wide ? "sm:col-span-2" : ""}`}>
                         <article className="flex flex-col">

@@ -3,6 +3,7 @@ import { modes, SECTION_META, type Mode } from "@/lib/modes";
 import { RuleImage } from "@/components/RuleImage";
 import { useI18n } from "@/lib/i18n";
 import ruleTranslations from "@/lib/rule-translations.json";
+import descriptionTranslations from "@/lib/description-translations.json";
 
 function translateRule(text: string | undefined, lang: string): string | undefined {
   if (!text) return text;
@@ -50,7 +51,13 @@ export const Route = createFileRoute("/modes/$mode")({
 
 function ModePage() {
   const { mode } = Route.useLoaderData() as { mode: Mode };
-  const { t, modeDescription, lang } = useI18n();
+  const { t, modeDescription, modeLabel, descUi, lang } = useI18n();
+  const label = modeLabel(mode.label);
+  const tDesc = (text: string) => {
+    if (lang === "fr") return text;
+    const key = lang === "pt-BR" ? "pt" : lang;
+    return (descriptionTranslations as Record<string, Record<string, string>>)[text]?.[key] ?? text;
+  };
   const sectionTitle = (key: string) =>
     key === "perception" ? t("home.perception.title")
     : key === "comprehension" ? t("home.comprehension.title")
@@ -67,7 +74,7 @@ function ModePage() {
             <span aria-hidden="true" className="mx-2 opacity-50">/</span>
             <Link to="/modes" className="opacity-75 hover:opacity-100">{t("nav.all")}</Link>
             <span aria-hidden="true" className="mx-2 opacity-50">/</span>
-            <span aria-current="page" className="font-bold">{mode.label}</span>
+            <span aria-current="page" className="font-bold">{label}</span>
           </nav>
           <div className="flex flex-wrap items-center gap-6">
             <span className="grid h-24 w-24 shrink-0 place-items-center bg-background p-3">
@@ -75,7 +82,7 @@ function ModePage() {
             </span>
             <div>
               <p className="text-sm font-bold uppercase tracking-wider text-primary">{t("mode.label")}</p>
-              <h1 className="mt-1 text-4xl font-bold md:text-5xl">{mode.label}</h1>
+              <h1 className="mt-1 text-4xl font-bold md:text-5xl">{label}</h1>
               <p className="mt-2 max-w-2xl opacity-90">{modeDescription(mode.label)}</p>
             </div>
           </div>
@@ -88,7 +95,7 @@ function ModePage() {
                   href="#description"
                   className="inline-block border-2 border-background px-4 py-2 text-sm font-bold no-underline hover:underline"
                 >
-                  Description
+                  {descUi("desc.title")}
                 </a>
               </li>
             )}
@@ -120,31 +127,31 @@ function ModePage() {
             <div className="mb-10 flex items-baseline gap-4">
               <span className="text-5xl font-bold text-primary">00</span>
               <div>
-                <h2 id="description-titre" className="text-3xl font-bold md:text-4xl">Description</h2>
-                <p className="mt-1 text-muted-foreground">Présentation du mode, utilisateurs cibles et pictogrammes.</p>
+                <h2 id="description-titre" className="text-3xl font-bold md:text-4xl">{descUi("desc.title")}</h2>
+                <p className="mt-1 text-muted-foreground">{descUi("desc.sub")}</p>
               </div>
             </div>
 
-            <p className="max-w-4xl text-lg leading-relaxed text-foreground">{mode.description.intro}</p>
+            <p className="max-w-4xl text-lg leading-relaxed text-foreground">{tDesc(mode.description.intro)}</p>
 
             <div className="mt-10 grid gap-8 lg:grid-cols-2">
               <div className="border-2 border-border bg-background p-6">
-                <h3 className="mb-4 text-xl font-bold">Utilisateurs cibles et contraintes</h3>
+                <h3 className="mb-4 text-xl font-bold">{descUi("desc.users")}</h3>
                 <ul className="space-y-3">
                   {mode.description.users.map((u, i) => (
                     <li key={i} className="flex gap-3 text-foreground">
                       <span aria-hidden="true" className="mt-2 h-1.5 w-1.5 shrink-0 bg-primary" />
-                      <span>{u}</span>
+                      <span>{tDesc(u)}</span>
                     </li>
                   ))}
                 </ul>
               </div>
               <div className="border-2 border-border bg-background p-6">
-                <h3 className="mb-4 text-xl font-bold">Pictogrammes du mode d'usage {mode.label}</h3>
+                <h3 className="mb-4 text-xl font-bold">{descUi("desc.pictos")} {label}</h3>
                 <ul className="flex flex-wrap gap-4">
                   {mode.description.pictos.map((p, i) => (
                     <li key={p} className={`grid h-32 w-32 place-items-center border border-border p-3 ${i === 0 ? "bg-white" : "bg-black"}`}>
-                      <img src={p} alt={`Pictogramme ${mode.label} ${i === 0 ? "fond clair" : "fond noir"}`} className="h-full w-full object-contain" />
+                      <img src={p} alt={`${descUi("desc.pictos")} ${label} — ${i === 0 ? descUi("desc.altLight") : descUi("desc.altDark")}`} className="h-full w-full object-contain" />
                     </li>
                   ))}
                 </ul>

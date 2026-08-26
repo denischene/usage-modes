@@ -779,18 +779,18 @@
     "ko": "인지 또는 지적 장애가 있는 사람(추론, 학습, 기억력의 제한뿐만 아니라 멀티태스킹 및 스트레스 상황).",
     "zh": "认知或智力残疾人士（在推理、学习、记忆以及多任务处理和压力情况下的受限者）。"
   },
- "Personnes peu habituées aux NTIC, ne maîtrisent pas les interfaces vocales ni tactiles, novices, cumulant les contraintes (visuel, audio, manip, compréhension, mémorisation), concerne par ex. les séniors": {
-  "en": "Persons unfamiliar with NICTs, who do not master voice or touch interfaces, novices, facing cumulative constraints (visual, audio, motor, comprehension, memory), concerning for example seniors.",
-  "es": "Personas poco familiarizadas con las NTIC, que no dominan las interfaces vocales ni táctiles, novatos que acumulan limitaciones (visuales, auditivas, de manipulación, comprensión, memoria), afecta por ejemplo a las personas mayores.",
-  "de": "Personen, die wenig an IKT gewöhnt sind, weder Sprach- noch Touch-Schnittstellen beherrschen, Anfänger sind und mehrere Einschränkungen kombinieren (Sehen, Hören, Handhabung, Verständnis, Gedächtnis), betrifft z. B. Senioren.",
-  "it": "Persone poco abituate alle NTIC, che non padroneggiano le interfacce vocali né tattili, novizi che accumulano più vincoli (visivi, audio, manipolazione, comprensione, memorizzazione), riguarda ad es. gli anziani.",
-  "pl": "Osoby nieprzyzwyczajone do nowych technologii, nieobsługujące interfejsów głosowych ani dotykowych, nowicjusze, zmagający się z wieloma ograniczeniami (wzrok, słuch, obsługa, rozumienie, zapamiętywanie), dotyczy np. seniorów.",
-  "ga": "Daoine nach bhfuil taithí acu ar an teicneolaíocht faisnéise agus cumarsáide (TFC), nach bhfuil máistreacht acu ar chomhéadain ghutha ná tadhaill, tosaitheoirí, a bhfuil srianta iomadúla acu (amhairc, fuaime, láimhseála, tuisceana, cuimhne), mar shampla seandaoine.",
-  "pt": "Pessoas pouco habituadas às NTIC, que não dominam interfaces de voz ou táteis, novatos, acumulando limitações (visuais, auditivas, manipulação, compreensão, memorização), como, por exemplo, idosos.",
-  "ja": "情報通信技術（ICT）に不慣れで、音声やタッチインターフェースを使いこなせず、視覚、聴覚、操作、理解、記憶などの複数の制約を併せ持つ初心者（例：高齢者など）。",
-  "ko": "신기술(ICT)에 익숙하지 않고 음성이나 터치 인터페이스 조작이 서툴며, 시각·청각·조작·이해·기억력 등 여러 제약이 복합적으로 나타나는 초보자(예: 고령자 등)",
-  "zh": "对信息通信技术不熟悉，不掌握语音或触控界面，且同时面临多种限制（视觉、听觉、操作、理解、记忆）的初学者，例如老年人。"
- },
+  "Personnes peu habituées aux NTIC, ne maîtrisent pas les interfaces vocales, ni tactiles, novices, cumulant les contraintes (visuel, audio, manip, compréhension, mémorisation) comme par exemple chez les séniors. Situations nouvelles, désintéressement, impatience peuvent également engendrer ces difficultés.": {
+    "en": "People unfamiliar with new technologies, who do not master voice or touch interfaces, novices, facing multiple constraints (visual, audio, manipulation, comprehension, memory) such as some seniors. New situations, lack of interest, and impatience can also lead to these difficulties.",
+    "es": "Personas poco familiarizadas con las NTIC, que no dominan las interfaces vocales ni táctiles, novatos que acumulan limitaciones (visuales, auditivas, de manipulación, comprensión, memoria) como ocurre con las personas mayores. Las situaciones nuevas, el desinterés y la impaciencia también pueden generar estas dificultades.",
+    "de": "Personen, die wenig an neue IKT gewöhnt sind, weder Sprach- noch Touch-Schnittstellen beherrschen, Anfänger, die mit mehreren Einschränkungen konfrontiert sind (visuell, auditiv, Handhabung, Verständnis, Gedächtnis), wie zum Beispiel Senioren. Neue Situationen, Desinteresse und Ungeduld können ebenfalls zu diesen Schwierigkeiten führen.",
+    "it": "Persone poco abituate alle nuove tecnologie, che non padroneggiano le interfacce vocali né tattili, novizi che accumulano vincoli (visivi, uditivi, manipolazione, comprensione, memoria) come ad esempio gli anziani. Situazioni nuove, disinteresse e impazienza possono ugualmente generare queste difficoltà.",
+    "pl": "Osoby mało obeznane z nowymi technologiami, nieopanowujące interfejsów głosowych ani dotykowych, nowicjusze, u których kumulują się ograniczenia (wzrokowe, słuchowe, manualne, poznawcze, pamięciowe), jak na przykład u seniorów. Nowe sytuacje, brak zainteresowania i niecierpliwość mogą również powodować te trudności.",
+    "ga": "Daoine nach bhfuil taithí acu ar theicneolaíochtaí nua, nach bhfuil máistreacht acu ar chomhéadain gutha ná tadhaill, tosaitheoirí, a bhfuil srianta carnacha acu (amhairc, clos, láimhseáil, tuiscint, meabhrú) mar shampla i measc daoine scothaosta. Is féidir le cásanna nua, easpa suime agus mífhoighne na deacrachtaí seo a chruthú freisin.",
+    "pt": "Pessoas pouco familiarizadas com as novas tecnologias, que não dominam as interfaces vocais nem táteis, novatos, acumulando limitações (visuais, auditivas, de manipulação, compreensão, memória) como por exemplo os idosos. Situações novas, desinteresse e impaciência também podem gerar essas dificuldades.",
+    "ja": "新技術に不慣れな人々、音声やタッチインターフェースを使いこなせない人々、初心者、高齢者のように複数の制約（視覚、聴覚、操作、理解、記憶）を抱える人々。また、新しい状況、無関心、焦りなどもこれらの困難を引き起こす可能性があります。",
+    "ko": "신기술에 익숙하지 않고, 음성이나 터치 인터페이스에 능숙하지 않은 사람들, 초보자, 고령자처럼 여러 제약(시각, 청각, 조작, 이해, 기억)을 겪는 사람들. 새로운 상황, 무관심, 조바심 또한 이러한 어려움을 유발할 수 있습니다.",
+    "zh": "不熟悉新技术、不掌握语音或触摸界面的人群、新手，以及面临多重限制（视觉、听觉、操作、理解、记忆）的人群，例如老年人。新情境、缺乏兴趣和缺乏耐心也可能导致这些困难。"
+  },
  "Peut effectuer deux ou trois actions, pas plus : Suivant/Précédent/Valider/Retour/Prise d'info.": {
   "en": "Can perform two or three actions, no more: Next/Previous/Validate/Back/Information intake.",
   "es": "Puede realizar dos o tres acciones, no más: Siguiente/Anterior/Validar/Volver/Obtener información.",

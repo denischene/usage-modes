@@ -683,18 +683,18 @@
   "ko": "조작에 심한 운동 제약이 있어 직접 조작이 불가능하고 단일 스위치를 통해 조작하는 사람. 포커스의 자동 스크롤이 필요함.",
   "zh": "动作操作受限严重，无法直接操作，需通过单一切换器进行操作。需要自动焦点滚动功能。"
  },
- "Personne ayant des contraintes visuelles avancées.": {
-  "en": "Person with advanced visual impairments.",
-  "es": "Persona con limitaciones visuales avanzadas.",
-  "de": "Person mit fortgeschrittenen Seheinschränkungen.",
-  "it": "Persona con disabilità visive gravi.",
-  "pl": "Osoba ze znacznymi ograniczeniami wzrokowymi.",
-  "ga": "Duine a bhfuil srianta amhairc chun cinn aige/aici.",
-  "pt": "Pessoa com limitações visuais graves.",
-  "ja": "高度な視覚的制約がある人。",
-  "ko": "심각한 시각 제약이 있는 사람.",
-  "zh": "有重度视力障碍的人员。"
- },
+  "Personne ayant des contraintes visuelles avancées (vision très limitée, cataracte, nuit).": {
+    "en": "Person with advanced visual impairments (very limited vision, cataracts, night blindness).",
+    "es": "Persona con discapacidades visuales avanzadas (visión muy limitada, cataratas, ceguera nocturna).",
+    "de": "Person mit fortgeschrittenen Sehbehinderungen (stark eingeschränktes Sehvermögen, grauer Star, Nachtblindheit).",
+    "it": "Persona con disabilità visive avanzate (visione molto limitata, cataratta, cecità notturna).",
+    "pl": "Osoba z zaawansowanymi wadami wzroku (bardzo ograniczone widzenie, zaćma, kurza ślepota).",
+    "ga": "Duine a bhfuil srianta amhairc casta orthu (fís an-teoranta, cataracht, daille oíche).",
+    "pt": "Pessoa com deficiências visuais avançadas (visão muito limitada, catarata, cegueira noturna).",
+    "ja": "重度の視覚障害を持つ人（極めて限定的な視力、白内障、夜盲症）。",
+    "ko": "심각한 시각 장애가 있는 사람 (매우 제한된 시력, 백내장, 야맹증).",
+    "zh": "患有严重视力障碍的人（视力非常有限、白内障、夜盲症）。"
+  },
  "Personne ayant des contraintes visuelles légères.": {
   "en": "Person with mild visual impairments.",
   "es": "Persona con limitaciones visuales leves.",

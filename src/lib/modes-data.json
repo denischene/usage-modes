@@ -674,7 +674,7 @@
     "description": {
       "intro": "Mode d'usage destiné aux personnes ayant des contraintes visuelles (couleur, lisibilité). Les couleurs du texte et de la page sont très contrastés, la souris et le focus sont bien visibles, une loupe et une règle de lecture sont disponibles.",
       "users": [
-        "Personne ayant des contraintes visuelles légères.",
+        "Personne ayant des contraintes visuelles légères (vision limitée, lunettes oubliées, pénombre, en double tâche).",
         "Problème pour distinguer certaines couleurs, problèmes de lisibilité de texte, problèmes d'éblouissements, problème avec les couleurs (daltonisme, contraste)",
         "A besoin d'un affichage contrasté, de zoomer ou tout au moins d'avoir de gros caractères.",
         "A besoin de personnaliser les couleurs"

@@ -6,7 +6,7 @@
     "description": {
       "intro": "Mode d'usage destiné aux personnes peu habituées à internet. Le texte, les boutons, les liens, la souris et le focus sont bien visibles et un peu plus grands, les contrastes sont ajustés et une loupe est disponible.",
       "users": [
-        "Personnes peu habituées aux NTIC, ne maîtrisent pas les interfaces vocales ni tactiles, novices, cumulant les contraintes (visuel, audio, manip, compréhension, mémorisation), concerne par ex. les séniors",
+        "Personnes peu habituées aux NTIC, ne maîtrisent pas les interfaces vocales, ni tactiles, novices, cumulant les contraintes (visuel, audio, manip, compréhension, mémorisation) comme par exemple chez les séniors. Situations nouvelles, désintéressement, impatience peuvent également engendrer ces difficultés.",
         "Ne connaît pas les mots du monde numérique (illectronisme)",
         "A besoin d'être formé, rassuré, a besoin de guidage",
         "A besoin d'une interaction sans erreurs et simplifiée basée sur de nombreux indices perceptifs"
@@ -223,7 +223,7 @@
     "description": {
       "intro": "Mode d'usage destiné aux personnes fortement fatigables ayant de grandes difficultés cognitives et des lenteurs intellectuelles pouvant impacter les capacités d'apprentissage, de mémorisation, de compréhension, de conceptualisation et de prise de décision. Les éléments d'interface sont bien visibles, un peu plus grands, séquentiellement ordonnés (tunnels), les fonctions et raccourcis sont ajustés à l'utilisateur et un aidant peut gérer les réglages à distance.",
       "users": [
-        "Personnes en situation de handicap cognitif ou intellectuel.",
+        "Personnes en situation de handicap cognitif ou intellectuel (contraintes de raisonnement, d’apprentissage, de mémoire mais aussi situations multitâches, stress).",
         "Ne connaît pas les mots du monde numérique (illectronisme).",
         "A besoin d'être formé, rassuré, a besoin de guidage.",
         "A besoin d'une interaction sans erreurs et simplifiée basée sur de nombreux indices perceptifs.",
@@ -530,7 +530,7 @@
     "description": {
       "intro": "Mode d'usage destiné aux personnes n'utilisant pas la vision ni le pointage visuel. Le contenu est structuré séquentiellement et hiérarchiquement, les éléments sont tous vocalisés lorsqu'ils sont utiles, résumés lorsqu'ils sont nombreux ou complexes, la navigation au clavier est logique et les retours audios et vibratoires sont systématiques.",
       "users": [
-        "Personne dont les yeux ne sont pas disponibles (conducteurs de véhicules) ou aveugles.",
+        "Personne dont les yeux ne sont pas ou très peu disponibles comme les personnes aveugles, ou les conducteurs de véhicules.",
         "Ne peut pas pointer visuellement, et a donc besoin d'être informé par le biais du tactile et de l'audio.",
         "Navigue dans l'interface de façon séquentielle.",
         "A besoin d'avoir des résumés des éléments présents, surtout lorsqu'ils sont nombreux.",
@@ -674,7 +674,7 @@
     "description": {
       "intro": "Mode d'usage destiné aux personnes ayant des contraintes visuelles (couleur, lisibilité). Les couleurs du texte et de la page sont très contrastés, la souris et le focus sont bien visibles, une loupe et une règle de lecture sont disponibles.",
       "users": [
-        "Personne ayant des contraintes visuelles légères.",
+        "Personne ayant des contraintes visuelles légères (vision limitée, lunettes oubliées, pénombre, en double tâche).",
         "Problème pour distinguer certaines couleurs, problèmes de lisibilité de texte, problèmes d'éblouissements, problème avec les couleurs (daltonisme, contraste)",
         "A besoin d'un affichage contrasté, de zoomer ou tout au moins d'avoir de gros caractères.",
         "A besoin de personnaliser les couleurs"
@@ -810,7 +810,7 @@
     "description": {
       "intro": "Mode d'usage destiné aux personnes ayant de fortes contraintes visuelles. Les couleurs du texte et de la page sont modifiées, les éléments (focus, souris, texte, ascenseur) sont plus bien plus gros, une police optimisée, une loupe ×5 et une règle de lecture sont disponibles.",
       "users": [
-        "Personne ayant des contraintes visuelles avancées.",
+        "Personne ayant des contraintes visuelles avancées (vision très limitée, cataracte, nuit).",
         "A peu de retours visuels et a donc besoin de zoomer fortement tout l'écran",
         "A besoin d'un zoom de façon permanente (très gros caractères) et de pouvoir facilement passer de la vue globale (totalité de l'écran non zoomé, sans grands caractères) aux vues locales (vues partielles zoomées, avec grands caractères).",
         "A besoin d'un rendu visuel « augmenté », de rendus tactiles (braille, picots), de rendus audios (synthèse vocale)"
@@ -1410,7 +1410,7 @@
     "description": {
       "intro": "Mode d'usage destiné aux personnes privilégiant l'usage du clavier ou de boutons de navigation et de raccourcis. Une équivalence clavier pour toute action, un focus bien visible, une navigation du focus ordonnée logiquement, une fonction de recherche, de la commande vocale, des temps d'action suffisants, des touches rémanentes et touches filtres.",
       "users": [
-        "Personne ayant de fortes contraintes motrices de manipulation et en capacité d'utiliser un clavier ou une partie de clavier, ou un pointeur limité en directions.",
+        "Personne ayant de fortes contraintes motrices de manipulation (contrainte motrice, un seule main disponible, encombré, fracture temporaire, ganté...). Est en capacité d'utiliser un clavier ou une partie de clavier, ou un pointeur limité en directions.",
         "Navigation par tabulation, en mode séquentiel maîtrisé (proche du mode séquentiel des personnes non-voyantes).",
         "Voix souvent altérée et donc commande vocale pas systématique mais souhaitable quand c'est possible."
       ],
@@ -1755,7 +1755,7 @@
     "description": {
       "intro": "Mode d'usage destiné aux personnes ayant de fortes contraintes auditives, à l'aise en langue française écrite et orale, mais pas toujours en mesure de se faire comprendre à l'oral.",
       "users": [
-        "Personne malentendante ou sourde, appareillée ou pas.",
+        "Personne malentendante ou sourde, appareillée ou pas, qui ne peut s’appuyer sur les informations audio (contrainte auditive, infection auriculaire, environnement bruyant, environnement où il ne faut pas faire de bruit).",
         "A besoin d'interfaces proposant des équivalences visuelles (texte, flash lumineux…) et vibratoires en complément des éléments sonores.",
         "A besoin de sous-titrages à destination des sourds et malentendants.",
         "A besoin d'un son adaptable et de la possibilité de connecter ses appareils auditifs, sans interférences (boucles magnétiques).",

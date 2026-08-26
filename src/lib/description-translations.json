@@ -647,18 +647,18 @@
   "ko": "시각적으로 포인팅할 수 없으므로 촉각 및 음성을 통해 정보를 전달받아야 함.",
   "zh": "无法进行视觉定位，因此需要通过触觉和听觉获取信息。"
  },
- "Personne ayant de fortes contraintes motrices de manipulation et en capacité d'utiliser un clavier ou une partie de clavier, ou un pointeur limité en directions.": {
-  "en": "Person with severe motor manipulation constraints who is able to use a keyboard, part of a keyboard, or a pointer with limited directions.",
-  "es": "Persona con fuertes limitaciones motrices de manipulación y con capacidad para utilizar un teclado o parte de él, o un puntero con direcciones limitadas.",
-  "de": "Person mit starken motorischen Einschränkungen in der Bedienung, die in der Lage ist, eine Tastatur, Teile einer Tastatur oder einen in den Richtungen eingeschränkten Zeiger zu verwenden.",
-  "it": "Persona con forti limitazioni motorie di manipolazione in grado di utilizzare una tastiera, una parte di essa o un puntatore limitato nelle direzioni.",
-  "pl": "Osoba z silnymi ograniczeniami motorycznymi, zdolna do korzystania z klawiatury, jej części lub wskaźnika o ograniczonych kierunkach ruchu.",
-  "ga": "Duine a bhfuil srianta móra luaile aige/aici maidir le cúbláil agus atá in ann méarchlár nó cuid de mhéarchlár a úsáid, nó pointeoir a bhfuil treoracha teoranta aige.",
-  "pt": "Pessoa com fortes limitações motoras de manipulação e com capacidade de utilizar um teclado ou parte dele, ou um ponteiro com direções limitadas.",
-  "ja": "操作上の強い身体的制約があり、キーボード（またはその一部）や、方向が限定されたポインティングデバイスを使用できる人。",
-  "ko": "조작에 심한 운동 제약이 있어 키보드나 키보드 일부, 또는 방향이 제한된 포인터를 사용할 수 있는 사람.",
-  "zh": "动作操作受限严重，但能够使用键盘、部分键盘或受限方向指针的人员。"
- },
+  "Personne ayant de fortes contraintes motrices de manipulation (contrainte motrice, un seule main disponible, encombré, fracture temporaire, ganté...). Est en capacité d'utiliser un clavier ou une partie de clavier, ou un pointeur limité en directions.": {
+    "en": "A person with severe manual dexterity constraints (motor constraint, only one hand available, carrying items, temporary fracture, wearing gloves...). Is capable of using a keyboard or part of a keyboard, or a pointer with limited directions.",
+    "es": "Persona con fuertes limitaciones motrices de manipulación (limitación motriz, una sola mano disponible, carga de objetos, fractura temporal, uso de guantes...). Es capaz de utilizar un teclado o parte de un teclado, o un puntero limitado en direcciones.",
+    "de": "Person mit starken motorischen Einschränkungen bei der Handhabung (motorische Einschränkung, nur eine Hand verfügbar, behindert durch Gegenstände, vorübergehende Fraktur, Tragen von Handschuhen ...). Ist in der Lage, eine Tastatur oder einen Teil einer Tastatur oder einen Zeiger mit eingeschränkten Richtungen zu bedienen.",
+    "it": "Persona con forti limitazioni motorie di manipolazione (limitazione motoria, una sola mano disponibile, ingombro, frattura temporanea, uso di guanti...). È in grado di utilizzare una tastiera o parte di essa, o un puntatore limitato nelle direzioni.",
+    "pl": "Osoba z silnymi ograniczeniami motorycznymi w zakresie manipulacji (ograniczenie motoryczne, dostępna tylko jedna ręka, zajęte ręce, tymczasowe złamanie, praca w rękawiczkach...). Jest w stanie korzystać z klawiatury lub części klawiatury, bądź wskaźnika o ograniczonych kierunkach.",
+    "ga": "Duine a bhfuil srianta tromchúiseacha gluaisne de láimh orthu (srian mótair, gan ach lámh amháin ar fáil, ualach á iompar, briseadh sealadach, lámhainní orthu...). In ann méarchlár nó cuid de mhéarchlár a úsáid, nó pointeoir a bhfuil treoracha teoranta aige.",
+    "pt": "Pessoa com fortes restrições motoras de manipulação (restrição motora, apenas uma mão disponível, ocupada, fratura temporária, uso de luvas...). É capaz de utilizar um teclado ou parte de um teclado, ou um ponteiro limitado em direções.",
+    "ja": "操作上の強い運動制限がある人（運動制限、片手のみ使用可能、荷物で手が塞がっている、一時的な骨折、手袋の着用など）。キーボードやキーボードの一部、または方向が限定されたポインターを使用することができます。",
+    "ko": "조작에 있어 강한 운동 제약이 있는 사람(운동 제약, 한 손만 사용 가능, 짐을 들고 있음, 일시적 골절, 장갑 착용 등). 키보드나 키보드의 일부, 또는 방향이 제한된 포인터를 사용할 수 있습니다.",
+    "zh": "在操作上有严重运动限制的人（运动限制、只有一只手可用、携带物品、暂时性骨折、戴手套等）。能够使用键盘或键盘的一部分，或者方向受限的指针。"
+  },
  "Personne ayant de fortes contraintes motrices de manipulation, ayant une manipulation incertaine ou utilisant un contacteur voire deux ou trois.": {
   "en": "Person with severe motor manipulation constraints, having uncertain manipulation or using one, two, or three switches.",
   "es": "Persona con fuertes limitaciones motrices de manipulación, con una manipulación incierta o que utiliza uno, dos o incluso tres pulsadores.",
@@ -683,30 +683,30 @@
   "ko": "조작에 심한 운동 제약이 있어 직접 조작이 불가능하고 단일 스위치를 통해 조작하는 사람. 포커스의 자동 스크롤이 필요함.",
   "zh": "动作操作受限严重，无法直接操作，需通过单一切换器进行操作。需要自动焦点滚动功能。"
  },
- "Personne ayant des contraintes visuelles avancées.": {
-  "en": "Person with advanced visual impairments.",
-  "es": "Persona con limitaciones visuales avanzadas.",
-  "de": "Person mit fortgeschrittenen Seheinschränkungen.",
-  "it": "Persona con disabilità visive gravi.",
-  "pl": "Osoba ze znacznymi ograniczeniami wzrokowymi.",
-  "ga": "Duine a bhfuil srianta amhairc chun cinn aige/aici.",
-  "pt": "Pessoa com limitações visuais graves.",
-  "ja": "高度な視覚的制約がある人。",
-  "ko": "심각한 시각 제약이 있는 사람.",
-  "zh": "有重度视力障碍的人员。"
- },
- "Personne ayant des contraintes visuelles légères.": {
-  "en": "Person with mild visual impairments.",
-  "es": "Persona con limitaciones visuales leves.",
-  "de": "Person mit leichten Seheinschränkungen.",
-  "it": "Persona con lievi disabilità visive.",
-  "pl": "Osoba z lekkimi ograniczeniami wzrokowymi.",
-  "ga": "Duine a bhfuil srianta éadroma amhairc aige/aici.",
-  "pt": "Pessoa com limitações visuais leves.",
-  "ja": "軽度の視覚的制約がある人。",
-  "ko": "경미한 시각 제약이 있는 사람.",
-  "zh": "有轻度视力障碍的人员。"
- },
+  "Personne ayant des contraintes visuelles avancées (vision très limitée, cataracte, nuit).": {
+    "en": "Person with advanced visual impairments (very limited vision, cataracts, night blindness).",
+    "es": "Persona con discapacidades visuales avanzadas (visión muy limitada, cataratas, ceguera nocturna).",
+    "de": "Person mit fortgeschrittenen Sehbehinderungen (stark eingeschränktes Sehvermögen, grauer Star, Nachtblindheit).",
+    "it": "Persona con disabilità visive avanzate (visione molto limitata, cataratta, cecità notturna).",
+    "pl": "Osoba z zaawansowanymi wadami wzroku (bardzo ograniczone widzenie, zaćma, kurza ślepota).",
+    "ga": "Duine a bhfuil srianta amhairc casta orthu (fís an-teoranta, cataracht, daille oíche).",
+    "pt": "Pessoa com deficiências visuais avançadas (visão muito limitada, catarata, cegueira noturna).",
+    "ja": "重度の視覚障害を持つ人（極めて限定的な視力、白内障、夜盲症）。",
+    "ko": "심각한 시각 장애가 있는 사람 (매우 제한된 시력, 백내장, 야맹증).",
+    "zh": "患有严重视力障碍的人（视力非常有限、白内障、夜盲症）。"
+  },
+  "Personne ayant des contraintes visuelles légères (vision limitée, lunettes oubliées, pénombre, en double tâche).": {
+    "en": "Person with mild visual constraints (limited vision, forgotten glasses, low light, multi-tasking).",
+    "es": "Persona con limitaciones visuales leves (visión limitada, olvido de gafas, penumbra, multitarea).",
+    "de": "Person mit leichten Seheinschränkungen (eingeschränktes Sehvermögen, vergessene Brille, Dämmerlicht, Multitasking).",
+    "it": "Persona con lievi limitazioni visive (visione limitata, occhiali dimenticati, penombra, multitasking).",
+    "pl": "Osoba z lekkimi ograniczeniami wzrokowymi (ograniczone widzenie, zapomniane okulary, półmrok, wielozadaniowość).",
+    "ga": "Duine a bhfuil srianta éadroma radhairc orthu (amharc teoranta, dearmad déanta ar spéaclaí, fochéim an tsolais, iltascáil).",
+    "pt": "Pessoa com limitações visuais leves (visão limitada, óculos esquecidos, penumbra, multitarefa).",
+    "ja": "軽度の視覚的制約がある人（視力制限、眼鏡の忘れ、薄暗い場所、マルチタスク中）。",
+    "ko": "가벼운 시각적 제약이 있는 사람(제한된 시력, 안경을 잊음, 어두운 조명, 멀티태스킹 중).",
+    "zh": "有轻度视力障碍的人（视力受限、忘记佩戴眼镜、光线昏暗、多任务处理时）。"
+  },
  "Personne ayant des difficultés de lecture liées à la dyslexie": {
   "en": "Person with reading difficulties related to dyslexia.",
   "es": "Persona con dificultades de lectura relacionadas con la dislexia.",
@@ -731,30 +731,30 @@
   "ko": "독독 장애(난독증)와 관련된 심각한 읽기 어려움이 있으며, 잠재적으로 운동학습장애(dyspraxia), 언어장애(dysphasia) 등을 동반한 사람",
   "zh": "患有严重的阅读障碍，并可能伴有言语障碍、发育性协调障碍等的群体。"
  },
- "Personne dont les yeux ne sont pas disponibles (conducteurs de véhicules) ou aveugles.": {
-  "en": "Person whose eyes are not available (vehicle drivers) or blind.",
-  "es": "Persona cuyos ojos no están disponibles (conductores de vehículos) o ciega.",
-  "de": "Person, deren Augen nicht verfügbar sind (Fahrzeugführer) oder die blind ist.",
-  "it": "Persona i cui occhi non sono disponibili (conducenti di veicoli) o non vedente.",
-  "pl": "Osoba, której wzrok nie może być wykorzystany (kierowcy pojazdów) lub osoba niewidoma.",
-  "ga": "Duine nach bhfuil a chuid/a cuid súl ar fáil (tiománaithe feithiclí) nó duine atá dall.",
-  "pt": "Pessoa cujos olhos não estão disponíveis (condutores de veículos) ou cegos.",
-  "ja": "目が離せない状況にある人（車両の運転手など）、または視覚障害者（全盲）。",
-  "ko": "눈을 사용할 수 없는 상황에 있는 사람(운전자) 또는 시각장애인(맹인)",
-  "zh": "视线受阻（如驾驶员）或失明的群体。"
- },
- "Personne malentendante ou sourde, appareillée ou pas.": {
-  "en": "Hard of hearing or deaf person, with or without hearing aids.",
-  "es": "Persona con discapacidad auditiva o sorda, con o sin audífonos.",
-  "de": "Schwerhörige oder gehörlose Person, mit oder ohne Hörgerät.",
-  "it": "Persona con disabilità uditiva o sorda, con o senza apparecchio acustico.",
-  "pl": "Osoba niedosłysząca lub głucha, z aparatem słuchowym lub bez.",
-  "ga": "Duine atá bodhar nó lagéisteachta, a bhfuil cúnamh éisteachta aige/aici nó nach bhfuil.",
-  "pt": "Pessoa com deficiência auditiva ou surda, usando aparelhos ou não.",
-  "ja": "難聴者またはろう者で、補聴器などの機器を使用しているか否かを問わない人。",
-  "ko": "보청기 착용 여부와 관계없이 청각에 장애가 있는 사람 또는 농아인",
-  "zh": "听力受损或失聪，无论是否佩戴助听设备的群体。"
- },
+  "Personne dont les yeux ne sont pas ou très peu disponibles comme les personnes aveugles, ou les conducteurs de véhicules.": {
+    "en": "A person whose eyes are not or only very slightly available, such as blind people or vehicle drivers.",
+    "es": "Persona cuyos ojos no están o están muy poco disponibles, como las personas ciegas o los conductores de vehículos.",
+    "de": "Person, deren Augen nicht oder nur sehr wenig zur Verfügung stehen, wie blinde Menschen oder Fahrzeugführer.",
+    "it": "Persona i cui occhi non sono disponibili o lo sono pochissimo, come le persone cieche o i conducenti di veicoli.",
+    "pl": "Osoba, której oczy są niedostępne lub dostępne w bardzo niewielkim stopniu, jak osoby niewidome lub kierowcy pojazdów.",
+    "ga": "Duine nach mbíonn a shúile ar fáil nó nach mbíonn siad ar fáil ach go han-tearc, amhail daoine dalla nó tiománaithe feithiclí.",
+    "pt": "Pessoa cujos olhos não estão ou estão muito pouco disponíveis, como pessoas cegas ou condutores de veículos.",
+    "ja": "視覚が全く、あるいはほとんど利用できない人（盲目の人や車両の運転手など）。",
+    "ko": "시각을 전혀 사용할 수 없거나 거의 사용할 수 없는 사람(시각 장애인 또는 차량 운전자 등).",
+    "zh": "眼睛无法使用或极少能使用的人，例如盲人或车辆驾驶员。"
+  },
+  "Personne malentendante ou sourde, appareillée ou pas, qui ne peut s’appuyer sur les informations audio (contrainte auditive, infection auriculaire, environnement bruyant, environnement où il ne faut pas faire de bruit).": {
+    "en": "A person who is hard of hearing or deaf, with or without a hearing aid, who cannot rely on audio information (hearing impairment, ear infection, noisy environment, environment where silence is required).",
+    "es": "Persona con discapacidad auditiva o sorda, con o sin audífonos, que no puede confiar en la información de audio (limitación auditiva, infección de oído, entorno ruidoso, entorno donde no se debe hacer ruido).",
+    "de": "Schwerhörige oder gehörlose Person, mit oder ohne Hörgerät, die sich nicht auf Audioinformationen stützen kann (Hörbehinderung, Ohrenentzündung, laute Umgebung, Umgebung, in der kein Lärm gemacht werden darf).",
+    "it": "Persona con problemi di udito o sorda, con o senza apparecchio acustico, che non può fare affidamento su informazioni audio (limitazione dell'udito, infezione auricolare, ambiente rumoroso, ambiente in cui non si deve fare rumore).",
+    "pl": "Osoba słabosłysząca lub głucha, z aparatem słuchowym lub bez, która nie może polegać na informacjach dźwiękowych (ograniczenie słuchu, infekcja ucha, hałaśliwe otoczenie, otoczenie, w którym nie wolno hałasować).",
+    "ga": "Duine atá bodhar nó a bhfuil deacrachtaí éisteachta aige, a úsáideann nó nach n-úsáideann cúnamh éisteachta, nach féidir leis brath ar eolas fuaime (bac éisteachta, ionfhabhtú cluaise, timpeallacht challánach, timpeallacht ina gcaithfear a bheith ciúin).",
+    "pt": "Pessoa com deficiência auditiva ou surda, com ou sem aparelho auditivo, que não pode contar com informações de áudio (limitação auditiva, infecção de ouvido, ambiente ruidoso, ambiente onde não se deve fazer barulho).",
+    "ja": "補聴器の使用の有無にかかわらず、音声情報に頼ることができない難聴者またはろう者（聴覚障害、耳の感染症、騒がしい環境、音を立ててはいけない環境）。",
+    "ko": "보청기 착용 여부와 상관없이 청각 정보에 의존할 수 없는 청각 장애인 또는 농아인(청각 장애, 외이도염, 소음이 심한 환경, 소음을 내지 않아야 하는 환경).",
+    "zh": "听力障碍者或聋哑人，无论是否佩戴助听器，均无法依赖音频信息（听力限制、耳部感染、嘈杂环境、需要保持安静的环境）。"
+  },
  "Personne malentendante ou sourde, peu à l'aise avec la langue orale, la langue des signes étant sa langue principale. La langue des signes est déclinée localement (LSF, ASL, ISL, PJM…).": {
   "en": "Hard of hearing or deaf person, uncomfortable with oral language, with sign language being their primary language. Sign language varies locally (LSF, ASL, ISL, PJM...).",
   "es": "Persona con discapacidad auditiva o sorda, con dificultades con la lengua oral, siendo la lengua de signos su lengua principal. La lengua de signos varía localmente (LSE, ASL, ISL, PJM…).",
@@ -767,30 +767,30 @@
   "ko": "구어에 익숙하지 않고 수어를 주 언어로 사용하는 청각장애인 또는 농아인. 수어는 지역별로 다양함(LSF, ASL, ISL, PJM 등)",
   "zh": "听力受损或失聪，且不擅长口语，以手语为主要语言的群体。手语因地区而异（如法国手语 LSF、美国手语 ASL、爱尔兰手语 ISL、波兰手语 PJM 等）。"
  },
- "Personnes en situation de handicap cognitif ou intellectuel.": {
-  "en": "Persons with cognitive or intellectual disabilities.",
-  "es": "Personas con discapacidad cognitiva o intelectual.",
-  "de": "Personen mit kognitiven oder intellektuellen Beeinträchtigungen.",
-  "it": "Persone con disabilità cognitiva o intellettiva.",
-  "pl": "Osoby z niepełnosprawnością poznawczą lub intelektualną.",
-  "ga": "Daoine faoi mhíchumas cognaíoch nó intleachtúil.",
-  "pt": "Pessoas com deficiência cognitiva ou intelectual.",
-  "ja": "認知障害または知的障害のある人。",
-  "ko": "인지적 또는 지적 장애가 있는 사람",
-  "zh": "患有认知或智力障碍的群体。"
- },
- "Personnes peu habituées aux NTIC, ne maîtrisent pas les interfaces vocales ni tactiles, novices, cumulant les contraintes (visuel, audio, manip, compréhension, mémorisation), concerne par ex. les séniors": {
-  "en": "Persons unfamiliar with NICTs, who do not master voice or touch interfaces, novices, facing cumulative constraints (visual, audio, motor, comprehension, memory), concerning for example seniors.",
-  "es": "Personas poco familiarizadas con las NTIC, que no dominan las interfaces vocales ni táctiles, novatos que acumulan limitaciones (visuales, auditivas, de manipulación, comprensión, memoria), afecta por ejemplo a las personas mayores.",
-  "de": "Personen, die wenig an IKT gewöhnt sind, weder Sprach- noch Touch-Schnittstellen beherrschen, Anfänger sind und mehrere Einschränkungen kombinieren (Sehen, Hören, Handhabung, Verständnis, Gedächtnis), betrifft z. B. Senioren.",
-  "it": "Persone poco abituate alle NTIC, che non padroneggiano le interfacce vocali né tattili, novizi che accumulano più vincoli (visivi, audio, manipolazione, comprensione, memorizzazione), riguarda ad es. gli anziani.",
-  "pl": "Osoby nieprzyzwyczajone do nowych technologii, nieobsługujące interfejsów głosowych ani dotykowych, nowicjusze, zmagający się z wieloma ograniczeniami (wzrok, słuch, obsługa, rozumienie, zapamiętywanie), dotyczy np. seniorów.",
-  "ga": "Daoine nach bhfuil taithí acu ar an teicneolaíocht faisnéise agus cumarsáide (TFC), nach bhfuil máistreacht acu ar chomhéadain ghutha ná tadhaill, tosaitheoirí, a bhfuil srianta iomadúla acu (amhairc, fuaime, láimhseála, tuisceana, cuimhne), mar shampla seandaoine.",
-  "pt": "Pessoas pouco habituadas às NTIC, que não dominam interfaces de voz ou táteis, novatos, acumulando limitações (visuais, auditivas, manipulação, compreensão, memorização), como, por exemplo, idosos.",
-  "ja": "情報通信技術（ICT）に不慣れで、音声やタッチインターフェースを使いこなせず、視覚、聴覚、操作、理解、記憶などの複数の制約を併せ持つ初心者（例：高齢者など）。",
-  "ko": "신기술(ICT)에 익숙하지 않고 음성이나 터치 인터페이스 조작이 서툴며, 시각·청각·조작·이해·기억력 등 여러 제약이 복합적으로 나타나는 초보자(예: 고령자 등)",
-  "zh": "对信息通信技术不熟悉，不掌握语音或触控界面，且同时面临多种限制（视觉、听觉、操作、理解、记忆）的初学者，例如老年人。"
- },
+  "Personnes en situation de handicap cognitif ou intellectuel (contraintes de raisonnement, d’apprentissage, de mémoire mais aussi situations multitâches, stress).": {
+    "en": "People with cognitive or intellectual disabilities (limitations in reasoning, learning, and memory, as well as multitasking and stress-related situations).",
+    "es": "Personas con discapacidad cognitiva o intelectual (limitaciones de razonamiento, aprendizaje, memoria, así como situaciones multitarea y de estrés).",
+    "de": "Menschen mit kognitiven oder intellektuellen Beeinträchtigungen (Einschränkungen beim Denken, Lernen, Gedächtnis sowie bei Multitasking-Situationen und Stress).",
+    "it": "Persone con disabilità cognitiva o intellettiva (limitazioni nel ragionamento, nell'apprendimento, nella memoria, nonché in situazioni multitasking e di stress).",
+    "pl": "Osoby z niepełnosprawnością poznawczą lub intelektualną (ograniczenia w rozumowaniu, uczeniu się, pamięci, a także w sytuacjach wielozadaniowości i stresu).",
+    "ga": "Daoine a bhfuil míchumas cognaíoch nó intleachtúil acu (srianta maidir le réasúnaíocht, foghlaim, cuimhne, chomh maith le cásanna iltascála agus struis).",
+    "pt": "Pessoas com deficiência cognitiva ou intelectual (limitações de raciocínio, aprendizagem, memória, bem como situações multitarefa e de stress).",
+    "ja": "認知障害または知的障害のある人々（推理、学習、記憶の制限、およびマルチタスクやストレスの状況）。",
+    "ko": "인지 또는 지적 장애가 있는 사람(추론, 학습, 기억력의 제한뿐만 아니라 멀티태스킹 및 스트레스 상황).",
+    "zh": "认知或智力残疾人士（在推理、学习、记忆以及多任务处理和压力情况下的受限者）。"
+  },
+  "Personnes peu habituées aux NTIC, ne maîtrisent pas les interfaces vocales, ni tactiles, novices, cumulant les contraintes (visuel, audio, manip, compréhension, mémorisation) comme par exemple chez les séniors. Situations nouvelles, désintéressement, impatience peuvent également engendrer ces difficultés.": {
+    "en": "People unfamiliar with new technologies, who do not master voice or touch interfaces, novices, facing multiple constraints (visual, audio, manipulation, comprehension, memory) such as some seniors. New situations, lack of interest, and impatience can also lead to these difficulties.",
+    "es": "Personas poco familiarizadas con las NTIC, que no dominan las interfaces vocales ni táctiles, novatos que acumulan limitaciones (visuales, auditivas, de manipulación, comprensión, memoria) como ocurre con las personas mayores. Las situaciones nuevas, el desinterés y la impaciencia también pueden generar estas dificultades.",
+    "de": "Personen, die wenig an neue IKT gewöhnt sind, weder Sprach- noch Touch-Schnittstellen beherrschen, Anfänger, die mit mehreren Einschränkungen konfrontiert sind (visuell, auditiv, Handhabung, Verständnis, Gedächtnis), wie zum Beispiel Senioren. Neue Situationen, Desinteresse und Ungeduld können ebenfalls zu diesen Schwierigkeiten führen.",
+    "it": "Persone poco abituate alle nuove tecnologie, che non padroneggiano le interfacce vocali né tattili, novizi che accumulano vincoli (visivi, uditivi, manipolazione, comprensione, memoria) come ad esempio gli anziani. Situazioni nuove, disinteresse e impazienza possono ugualmente generare queste difficoltà.",
+    "pl": "Osoby mało obeznane z nowymi technologiami, nieopanowujące interfejsów głosowych ani dotykowych, nowicjusze, u których kumulują się ograniczenia (wzrokowe, słuchowe, manualne, poznawcze, pamięciowe), jak na przykład u seniorów. Nowe sytuacje, brak zainteresowania i niecierpliwość mogą również powodować te trudności.",
+    "ga": "Daoine nach bhfuil taithí acu ar theicneolaíochtaí nua, nach bhfuil máistreacht acu ar chomhéadain gutha ná tadhaill, tosaitheoirí, a bhfuil srianta carnacha acu (amhairc, clos, láimhseáil, tuiscint, meabhrú) mar shampla i measc daoine scothaosta. Is féidir le cásanna nua, easpa suime agus mífhoighne na deacrachtaí seo a chruthú freisin.",
+    "pt": "Pessoas pouco familiarizadas com as novas tecnologias, que não dominam as interfaces vocais nem táteis, novatos, acumulando limitações (visuais, auditivas, de manipulação, compreensão, memória) como por exemplo os idosos. Situações novas, desinteresse e impaciência também podem gerar essas dificuldades.",
+    "ja": "新技術に不慣れな人々、音声やタッチインターフェースを使いこなせない人々、初心者、高齢者のように複数の制約（視覚、聴覚、操作、理解、記憶）を抱える人々。また、新しい状況、無関心、焦りなどもこれらの困難を引き起こす可能性があります。",
+    "ko": "신기술에 익숙하지 않고, 음성이나 터치 인터페이스에 능숙하지 않은 사람들, 초보자, 고령자처럼 여러 제약(시각, 청각, 조작, 이해, 기억)을 겪는 사람들. 새로운 상황, 무관심, 조바심 또한 이러한 어려움을 유발할 수 있습니다.",
+    "zh": "不熟悉新技术、不掌握语音或触摸界面的人群、新手，以及面临多重限制（视觉、听觉、操作、理解、记忆）的人群，例如老年人。新情境、缺乏兴趣和缺乏耐心也可能导致这些困难。"
+  },
  "Peut effectuer deux ou trois actions, pas plus : Suivant/Précédent/Valider/Retour/Prise d'info.": {
   "en": "Can perform two or three actions, no more: Next/Previous/Validate/Back/Information intake.",
   "es": "Puede realizar dos o tres acciones, no más: Siguiente/Anterior/Validar/Volver/Obtener información.",

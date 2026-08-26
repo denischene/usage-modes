@@ -695,18 +695,18 @@
     "ko": "심각한 시각 장애가 있는 사람 (매우 제한된 시력, 백내장, 야맹증).",
     "zh": "患有严重视力障碍的人（视力非常有限、白内障、夜盲症）。"
   },
- "Personne ayant des contraintes visuelles légères.": {
-  "en": "Person with mild visual impairments.",
-  "es": "Persona con limitaciones visuales leves.",
-  "de": "Person mit leichten Seheinschränkungen.",
-  "it": "Persona con lievi disabilità visive.",
-  "pl": "Osoba z lekkimi ograniczeniami wzrokowymi.",
-  "ga": "Duine a bhfuil srianta éadroma amhairc aige/aici.",
-  "pt": "Pessoa com limitações visuais leves.",
-  "ja": "軽度の視覚的制約がある人。",
-  "ko": "경미한 시각 제약이 있는 사람.",
-  "zh": "有轻度视力障碍的人员。"
- },
+  "Personne ayant des contraintes visuelles légères (vision limitée, lunettes oubliées, pénombre, en double tâche).": {
+    "en": "Person with mild visual constraints (limited vision, forgotten glasses, low light, multi-tasking).",
+    "es": "Persona con limitaciones visuales leves (visión limitada, olvido de gafas, penumbra, multitarea).",
+    "de": "Person mit leichten Seheinschränkungen (eingeschränktes Sehvermögen, vergessene Brille, Dämmerlicht, Multitasking).",
+    "it": "Persona con lievi limitazioni visive (visione limitata, occhiali dimenticati, penombra, multitasking).",
+    "pl": "Osoba z lekkimi ograniczeniami wzrokowymi (ograniczone widzenie, zapomniane okulary, półmrok, wielozadaniowość).",
+    "ga": "Duine a bhfuil srianta éadroma radhairc orthu (amharc teoranta, dearmad déanta ar spéaclaí, fochéim an tsolais, iltascáil).",
+    "pt": "Pessoa com limitações visuais leves (visão limitada, óculos esquecidos, penumbra, multitarefa).",
+    "ja": "軽度の視覚的制約がある人（視力制限、眼鏡の忘れ、薄暗い場所、マルチタスク中）。",
+    "ko": "가벼운 시각적 제약이 있는 사람(제한된 시력, 안경을 잊음, 어두운 조명, 멀티태스킹 중).",
+    "zh": "有轻度视力障碍的人（视力受限、忘记佩戴眼镜、光线昏暗、多任务处理时）。"
+  },
  "Personne ayant des difficultés de lecture liées à la dyslexie": {
   "en": "Person with reading difficulties related to dyslexia.",
   "es": "Persona con dificultades de lectura relacionadas con la dislexia.",

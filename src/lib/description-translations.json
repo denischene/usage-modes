@@ -743,18 +743,18 @@
     "ko": "시각을 전혀 사용할 수 없거나 거의 사용할 수 없는 사람(시각 장애인 또는 차량 운전자 등).",
     "zh": "眼睛无法使用或极少能使用的人，例如盲人或车辆驾驶员。"
   },
- "Personne malentendante ou sourde, appareillée ou pas.": {
-  "en": "Hard of hearing or deaf person, with or without hearing aids.",
-  "es": "Persona con discapacidad auditiva o sorda, con o sin audífonos.",
-  "de": "Schwerhörige oder gehörlose Person, mit oder ohne Hörgerät.",
-  "it": "Persona con disabilità uditiva o sorda, con o senza apparecchio acustico.",
-  "pl": "Osoba niedosłysząca lub głucha, z aparatem słuchowym lub bez.",
-  "ga": "Duine atá bodhar nó lagéisteachta, a bhfuil cúnamh éisteachta aige/aici nó nach bhfuil.",
-  "pt": "Pessoa com deficiência auditiva ou surda, usando aparelhos ou não.",
-  "ja": "難聴者またはろう者で、補聴器などの機器を使用しているか否かを問わない人。",
-  "ko": "보청기 착용 여부와 관계없이 청각에 장애가 있는 사람 또는 농아인",
-  "zh": "听力受损或失聪，无论是否佩戴助听设备的群体。"
- },
+  "Personne malentendante ou sourde, appareillée ou pas, qui ne peut s’appuyer sur les informations audio (contrainte auditive, infection auriculaire, environnement bruyant, environnement où il ne faut pas faire de bruit).": {
+    "en": "A person who is hard of hearing or deaf, with or without a hearing aid, who cannot rely on audio information (hearing impairment, ear infection, noisy environment, environment where silence is required).",
+    "es": "Persona con discapacidad auditiva o sorda, con o sin audífonos, que no puede confiar en la información de audio (limitación auditiva, infección de oído, entorno ruidoso, entorno donde no se debe hacer ruido).",
+    "de": "Schwerhörige oder gehörlose Person, mit oder ohne Hörgerät, die sich nicht auf Audioinformationen stützen kann (Hörbehinderung, Ohrenentzündung, laute Umgebung, Umgebung, in der kein Lärm gemacht werden darf).",
+    "it": "Persona con problemi di udito o sorda, con o senza apparecchio acustico, che non può fare affidamento su informazioni audio (limitazione dell'udito, infezione auricolare, ambiente rumoroso, ambiente in cui non si deve fare rumore).",
+    "pl": "Osoba słabosłysząca lub głucha, z aparatem słuchowym lub bez, która nie może polegać na informacjach dźwiękowych (ograniczenie słuchu, infekcja ucha, hałaśliwe otoczenie, otoczenie, w którym nie wolno hałasować).",
+    "ga": "Duine atá bodhar nó a bhfuil deacrachtaí éisteachta aige, a úsáideann nó nach n-úsáideann cúnamh éisteachta, nach féidir leis brath ar eolas fuaime (bac éisteachta, ionfhabhtú cluaise, timpeallacht challánach, timpeallacht ina gcaithfear a bheith ciúin).",
+    "pt": "Pessoa com deficiência auditiva ou surda, com ou sem aparelho auditivo, que não pode contar com informações de áudio (limitação auditiva, infecção de ouvido, ambiente ruidoso, ambiente onde não se deve fazer barulho).",
+    "ja": "補聴器の使用の有無にかかわらず、音声情報に頼ることができない難聴者またはろう者（聴覚障害、耳の感染症、騒がしい環境、音を立ててはいけない環境）。",
+    "ko": "보청기 착용 여부와 상관없이 청각 정보에 의존할 수 없는 청각 장애인 또는 농아인(청각 장애, 외이도염, 소음이 심한 환경, 소음을 내지 않아야 하는 환경).",
+    "zh": "听力障碍者或聋哑人，无论是否佩戴助听器，均无法依赖音频信息（听力限制、耳部感染、嘈杂环境、需要保持安静的环境）。"
+  },
  "Personne malentendante ou sourde, peu à l'aise avec la langue orale, la langue des signes étant sa langue principale. La langue des signes est déclinée localement (LSF, ASL, ISL, PJM…).": {
   "en": "Hard of hearing or deaf person, uncomfortable with oral language, with sign language being their primary language. Sign language varies locally (LSF, ASL, ISL, PJM...).",
   "es": "Persona con discapacidad auditiva o sorda, con dificultades con la lengua oral, siendo la lengua de signos su lengua principal. La lengua de signos varía localmente (LSE, ASL, ISL, PJM…).",

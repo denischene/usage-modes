@@ -1755,7 +1755,7 @@
     "description": {
       "intro": "Mode d'usage destiné aux personnes ayant de fortes contraintes auditives, à l'aise en langue française écrite et orale, mais pas toujours en mesure de se faire comprendre à l'oral.",
       "users": [
-        "Personne malentendante ou sourde, appareillée ou pas.",
+        "Personne malentendante ou sourde, appareillée ou pas, qui ne peut s’appuyer sur les informations audio (contrainte auditive, infection auriculaire, environnement bruyant, environnement où il ne faut pas faire de bruit).",
         "A besoin d'interfaces proposant des équivalences visuelles (texte, flash lumineux…) et vibratoires en complément des éléments sonores.",
         "A besoin de sous-titrages à destination des sourds et malentendants.",
         "A besoin d'un son adaptable et de la possibilité de connecter ses appareils auditifs, sans interférences (boucles magnétiques).",

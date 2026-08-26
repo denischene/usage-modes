@@ -731,18 +731,18 @@
   "ko": "독독 장애(난독증)와 관련된 심각한 읽기 어려움이 있으며, 잠재적으로 운동학습장애(dyspraxia), 언어장애(dysphasia) 등을 동반한 사람",
   "zh": "患有严重的阅读障碍，并可能伴有言语障碍、发育性协调障碍等的群体。"
  },
- "Personne dont les yeux ne sont pas disponibles (conducteurs de véhicules) ou aveugles.": {
-  "en": "Person whose eyes are not available (vehicle drivers) or blind.",
-  "es": "Persona cuyos ojos no están disponibles (conductores de vehículos) o ciega.",
-  "de": "Person, deren Augen nicht verfügbar sind (Fahrzeugführer) oder die blind ist.",
-  "it": "Persona i cui occhi non sono disponibili (conducenti di veicoli) o non vedente.",
-  "pl": "Osoba, której wzrok nie może być wykorzystany (kierowcy pojazdów) lub osoba niewidoma.",
-  "ga": "Duine nach bhfuil a chuid/a cuid súl ar fáil (tiománaithe feithiclí) nó duine atá dall.",
-  "pt": "Pessoa cujos olhos não estão disponíveis (condutores de veículos) ou cegos.",
-  "ja": "目が離せない状況にある人（車両の運転手など）、または視覚障害者（全盲）。",
-  "ko": "눈을 사용할 수 없는 상황에 있는 사람(운전자) 또는 시각장애인(맹인)",
-  "zh": "视线受阻（如驾驶员）或失明的群体。"
- },
+  "Personne dont les yeux ne sont pas ou très peu disponibles comme les personnes aveugles, ou les conducteurs de véhicules.": {
+    "en": "A person whose eyes are not or only very slightly available, such as blind people or vehicle drivers.",
+    "es": "Persona cuyos ojos no están o están muy poco disponibles, como las personas ciegas o los conductores de vehículos.",
+    "de": "Person, deren Augen nicht oder nur sehr wenig zur Verfügung stehen, wie blinde Menschen oder Fahrzeugführer.",
+    "it": "Persona i cui occhi non sono disponibili o lo sono pochissimo, come le persone cieche o i conducenti di veicoli.",
+    "pl": "Osoba, której oczy są niedostępne lub dostępne w bardzo niewielkim stopniu, jak osoby niewidome lub kierowcy pojazdów.",
+    "ga": "Duine nach mbíonn a shúile ar fáil nó nach mbíonn siad ar fáil ach go han-tearc, amhail daoine dalla nó tiománaithe feithiclí.",
+    "pt": "Pessoa cujos olhos não estão ou estão muito pouco disponíveis, como pessoas cegas ou condutores de veículos.",
+    "ja": "視覚が全く、あるいはほとんど利用できない人（盲目の人や車両の運転手など）。",
+    "ko": "시각을 전혀 사용할 수 없거나 거의 사용할 수 없는 사람(시각 장애인 또는 차량 운전자 등).",
+    "zh": "眼睛无法使用或极少能使用的人，例如盲人或车辆驾驶员。"
+  },
  "Personne malentendante ou sourde, appareillée ou pas.": {
   "en": "Hard of hearing or deaf person, with or without hearing aids.",
   "es": "Persona con discapacidad auditiva o sorda, con o sin audífonos.",

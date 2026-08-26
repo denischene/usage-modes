@@ -810,7 +810,7 @@
     "description": {
       "intro": "Mode d'usage destiné aux personnes ayant de fortes contraintes visuelles. Les couleurs du texte et de la page sont modifiées, les éléments (focus, souris, texte, ascenseur) sont plus bien plus gros, une police optimisée, une loupe ×5 et une règle de lecture sont disponibles.",
       "users": [
-        "Personne ayant des contraintes visuelles avancées.",
+        "Personne ayant des contraintes visuelles avancées (vision très limitée, cataracte, nuit).",
         "A peu de retours visuels et a donc besoin de zoomer fortement tout l'écran",
         "A besoin d'un zoom de façon permanente (très gros caractères) et de pouvoir facilement passer de la vue globale (totalité de l'écran non zoomé, sans grands caractères) aux vues locales (vues partielles zoomées, avec grands caractères).",
         "A besoin d'un rendu visuel « augmenté », de rendus tactiles (braille, picots), de rendus audios (synthèse vocale)"

@@ -647,18 +647,18 @@
   "ko": "시각적으로 포인팅할 수 없으므로 촉각 및 음성을 통해 정보를 전달받아야 함.",
   "zh": "无法进行视觉定位，因此需要通过触觉和听觉获取信息。"
  },
- "Personne ayant de fortes contraintes motrices de manipulation et en capacité d'utiliser un clavier ou une partie de clavier, ou un pointeur limité en directions.": {
-  "en": "Person with severe motor manipulation constraints who is able to use a keyboard, part of a keyboard, or a pointer with limited directions.",
-  "es": "Persona con fuertes limitaciones motrices de manipulación y con capacidad para utilizar un teclado o parte de él, o un puntero con direcciones limitadas.",
-  "de": "Person mit starken motorischen Einschränkungen in der Bedienung, die in der Lage ist, eine Tastatur, Teile einer Tastatur oder einen in den Richtungen eingeschränkten Zeiger zu verwenden.",
-  "it": "Persona con forti limitazioni motorie di manipolazione in grado di utilizzare una tastiera, una parte di essa o un puntatore limitato nelle direzioni.",
-  "pl": "Osoba z silnymi ograniczeniami motorycznymi, zdolna do korzystania z klawiatury, jej części lub wskaźnika o ograniczonych kierunkach ruchu.",
-  "ga": "Duine a bhfuil srianta móra luaile aige/aici maidir le cúbláil agus atá in ann méarchlár nó cuid de mhéarchlár a úsáid, nó pointeoir a bhfuil treoracha teoranta aige.",
-  "pt": "Pessoa com fortes limitações motoras de manipulação e com capacidade de utilizar um teclado ou parte dele, ou um ponteiro com direções limitadas.",
-  "ja": "操作上の強い身体的制約があり、キーボード（またはその一部）や、方向が限定されたポインティングデバイスを使用できる人。",
-  "ko": "조작에 심한 운동 제약이 있어 키보드나 키보드 일부, 또는 방향이 제한된 포인터를 사용할 수 있는 사람.",
-  "zh": "动作操作受限严重，但能够使用键盘、部分键盘或受限方向指针的人员。"
- },
+  "Personne ayant de fortes contraintes motrices de manipulation (contrainte motrice, un seule main disponible, encombré, fracture temporaire, ganté...). Est en capacité d'utiliser un clavier ou une partie de clavier, ou un pointeur limité en directions.": {
+    "en": "A person with severe manual dexterity constraints (motor constraint, only one hand available, carrying items, temporary fracture, wearing gloves...). Is capable of using a keyboard or part of a keyboard, or a pointer with limited directions.",
+    "es": "Persona con fuertes limitaciones motrices de manipulación (limitación motriz, una sola mano disponible, carga de objetos, fractura temporal, uso de guantes...). Es capaz de utilizar un teclado o parte de un teclado, o un puntero limitado en direcciones.",
+    "de": "Person mit starken motorischen Einschränkungen bei der Handhabung (motorische Einschränkung, nur eine Hand verfügbar, behindert durch Gegenstände, vorübergehende Fraktur, Tragen von Handschuhen ...). Ist in der Lage, eine Tastatur oder einen Teil einer Tastatur oder einen Zeiger mit eingeschränkten Richtungen zu bedienen.",
+    "it": "Persona con forti limitazioni motorie di manipolazione (limitazione motoria, una sola mano disponibile, ingombro, frattura temporanea, uso di guanti...). È in grado di utilizzare una tastiera o parte di essa, o un puntatore limitato nelle direzioni.",
+    "pl": "Osoba z silnymi ograniczeniami motorycznymi w zakresie manipulacji (ograniczenie motoryczne, dostępna tylko jedna ręka, zajęte ręce, tymczasowe złamanie, praca w rękawiczkach...). Jest w stanie korzystać z klawiatury lub części klawiatury, bądź wskaźnika o ograniczonych kierunkach.",
+    "ga": "Duine a bhfuil srianta tromchúiseacha gluaisne de láimh orthu (srian mótair, gan ach lámh amháin ar fáil, ualach á iompar, briseadh sealadach, lámhainní orthu...). In ann méarchlár nó cuid de mhéarchlár a úsáid, nó pointeoir a bhfuil treoracha teoranta aige.",
+    "pt": "Pessoa com fortes restrições motoras de manipulação (restrição motora, apenas uma mão disponível, ocupada, fratura temporária, uso de luvas...). É capaz de utilizar um teclado ou parte de um teclado, ou um ponteiro limitado em direções.",
+    "ja": "操作上の強い運動制限がある人（運動制限、片手のみ使用可能、荷物で手が塞がっている、一時的な骨折、手袋の着用など）。キーボードやキーボードの一部、または方向が限定されたポインターを使用することができます。",
+    "ko": "조작에 있어 강한 운동 제약이 있는 사람(운동 제약, 한 손만 사용 가능, 짐을 들고 있음, 일시적 골절, 장갑 착용 등). 키보드나 키보드의 일부, 또는 방향이 제한된 포인터를 사용할 수 있습니다.",
+    "zh": "在操作上有严重运动限制的人（运动限制、只有一只手可用、携带物品、暂时性骨折、戴手套等）。能够使用键盘或键盘的一部分，或者方向受限的指针。"
+  },
  "Personne ayant de fortes contraintes motrices de manipulation, ayant une manipulation incertaine ou utilisant un contacteur voire deux ou trois.": {
   "en": "Person with severe motor manipulation constraints, having uncertain manipulation or using one, two, or three switches.",
   "es": "Persona con fuertes limitaciones motrices de manipulación, con una manipulación incierta o que utiliza uno, dos o incluso tres pulsadores.",

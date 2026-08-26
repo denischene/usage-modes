@@ -767,18 +767,18 @@
   "ko": "구어에 익숙하지 않고 수어를 주 언어로 사용하는 청각장애인 또는 농아인. 수어는 지역별로 다양함(LSF, ASL, ISL, PJM 등)",
   "zh": "听力受损或失聪，且不擅长口语，以手语为主要语言的群体。手语因地区而异（如法国手语 LSF、美国手语 ASL、爱尔兰手语 ISL、波兰手语 PJM 等）。"
  },
- "Personnes en situation de handicap cognitif ou intellectuel.": {
-  "en": "Persons with cognitive or intellectual disabilities.",
-  "es": "Personas con discapacidad cognitiva o intelectual.",
-  "de": "Personen mit kognitiven oder intellektuellen Beeinträchtigungen.",
-  "it": "Persone con disabilità cognitiva o intellettiva.",
-  "pl": "Osoby z niepełnosprawnością poznawczą lub intelektualną.",
-  "ga": "Daoine faoi mhíchumas cognaíoch nó intleachtúil.",
-  "pt": "Pessoas com deficiência cognitiva ou intelectual.",
-  "ja": "認知障害または知的障害のある人。",
-  "ko": "인지적 또는 지적 장애가 있는 사람",
-  "zh": "患有认知或智力障碍的群体。"
- },
+  "Personnes en situation de handicap cognitif ou intellectuel (contraintes de raisonnement, d’apprentissage, de mémoire mais aussi situations multitâches, stress).": {
+    "en": "People with cognitive or intellectual disabilities (limitations in reasoning, learning, and memory, as well as multitasking and stress-related situations).",
+    "es": "Personas con discapacidad cognitiva o intelectual (limitaciones de razonamiento, aprendizaje, memoria, así como situaciones multitarea y de estrés).",
+    "de": "Menschen mit kognitiven oder intellektuellen Beeinträchtigungen (Einschränkungen beim Denken, Lernen, Gedächtnis sowie bei Multitasking-Situationen und Stress).",
+    "it": "Persone con disabilità cognitiva o intellettiva (limitazioni nel ragionamento, nell'apprendimento, nella memoria, nonché in situazioni multitasking e di stress).",
+    "pl": "Osoby z niepełnosprawnością poznawczą lub intelektualną (ograniczenia w rozumowaniu, uczeniu się, pamięci, a także w sytuacjach wielozadaniowości i stresu).",
+    "ga": "Daoine a bhfuil míchumas cognaíoch nó intleachtúil acu (srianta maidir le réasúnaíocht, foghlaim, cuimhne, chomh maith le cásanna iltascála agus struis).",
+    "pt": "Pessoas com deficiência cognitiva ou intelectual (limitações de raciocínio, aprendizagem, memória, bem como situações multitarefa e de stress).",
+    "ja": "認知障害または知的障害のある人々（推理、学習、記憶の制限、およびマルチタスクやストレスの状況）。",
+    "ko": "인지 또는 지적 장애가 있는 사람(추론, 학습, 기억력의 제한뿐만 아니라 멀티태스킹 및 스트레스 상황).",
+    "zh": "认知或智力残疾人士（在推理、学习、记忆以及多任务处理和压力情况下的受限者）。"
+  },
  "Personnes peu habituées aux NTIC, ne maîtrisent pas les interfaces vocales ni tactiles, novices, cumulant les contraintes (visuel, audio, manip, compréhension, mémorisation), concerne par ex. les séniors": {
   "en": "Persons unfamiliar with NICTs, who do not master voice or touch interfaces, novices, facing cumulative constraints (visual, audio, motor, comprehension, memory), concerning for example seniors.",
   "es": "Personas poco familiarizadas con las NTIC, que no dominan las interfaces vocales ni táctiles, novatos que acumulan limitaciones (visuales, auditivas, de manipulación, comprensión, memoria), afecta por ejemplo a las personas mayores.",

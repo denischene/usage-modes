@@ -1410,7 +1410,7 @@
     "description": {
       "intro": "Mode d'usage destiné aux personnes privilégiant l'usage du clavier ou de boutons de navigation et de raccourcis. Une équivalence clavier pour toute action, un focus bien visible, une navigation du focus ordonnée logiquement, une fonction de recherche, de la commande vocale, des temps d'action suffisants, des touches rémanentes et touches filtres.",
       "users": [
-        "Personne ayant de fortes contraintes motrices de manipulation (contrainte motrice, un seule main disponible, encombré, fracture temporaire, ganté...). Est en capacité d'utiliser un clavier ou une partie de clavier, ou un pointeur limité en directions.",
+        "Personne ayant de fortes contraintes motrices de manipulation (contrainte motrice, une seule main disponible, encombré, fracture temporaire, ganté...). Est en capacité d'utiliser un clavier ou une partie de clavier, ou un pointeur limité en directions.",
         "Navigation par tabulation, en mode séquentiel maîtrisé (proche du mode séquentiel des personnes non-voyantes).",
         "Voix souvent altérée et donc commande vocale pas systématique mais souhaitable quand c'est possible."
       ],

@@ -647,7 +647,7 @@
   "ko": "시각적으로 포인팅할 수 없으므로 촉각 및 음성을 통해 정보를 전달받아야 함.",
   "zh": "无法进行视觉定位，因此需要通过触觉和听觉获取信息。"
  },
-  "Personne ayant de fortes contraintes motrices de manipulation (contrainte motrice, un seule main disponible, encombré, fracture temporaire, ganté...). Est en capacité d'utiliser un clavier ou une partie de clavier, ou un pointeur limité en directions.": {
+  "Personne ayant de fortes contraintes motrices de manipulation (contrainte motrice, une seule main disponible, encombré, fracture temporaire, ganté...). Est en capacité d'utiliser un clavier ou une partie de clavier, ou un pointeur limité en directions.": {
     "en": "A person with severe manual dexterity constraints (motor constraint, only one hand available, carrying items, temporary fracture, wearing gloves...). Is capable of using a keyboard or part of a keyboard, or a pointer with limited directions.",
     "es": "Persona con fuertes limitaciones motrices de manipulación (limitación motriz, una sola mano disponible, carga de objetos, fractura temporal, uso de guantes...). Es capaz de utilizar un teclado o parte de un teclado, o un puntero limitado en direcciones.",
     "de": "Person mit starken motorischen Einschränkungen bei der Handhabung (motorische Einschränkung, nur eine Hand verfügbar, behindert durch Gegenstände, vorübergehende Fraktur, Tragen von Handschuhen ...). Ist in der Lage, eine Tastatur oder einen Teil einer Tastatur oder einen Zeiger mit eingeschränkten Richtungen zu bedienen.",

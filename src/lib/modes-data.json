@@ -1985,6 +1985,21 @@
     "label": "Serein+",
     "slug": "serein-p",
     "picto": "/pictos/serein-p.svg",
+    "description": {
+      "intro": "Mode d’usage destiné aux personnes ayant des troubles de l’attention et de la concentration, facilement perturbées par une hypersensorialité aux stimuli (visuels, auditifs, olfactifs, tactiles) et sujettes au stress. Le texte, les boutons sont bien lisibles et visibles et dans des couleurs et transitions apaisantes.",
+      "users": [
+        "A besoin d’une interface bien lisible.",
+        "A besoin d’aide pour stabiliser sa concentration.",
+        "A besoin d’une interface simple avec peu d’éléments distracteurs (ex : clignotement, animation), la plus épurée possible.",
+        "A besoin d’une interaction sans déclencheur de stress, ni perturbateur dans la navigation (ex : compteurs, images et textes défilants, notifications…).",
+        "A besoin d’accompagnement progressif aux changements de l’interface du service (ex : en cas de mise à jour logicielle).",
+        "A besoin d’indicateurs structurant les contenus et la tâche pour aider à la concentration et à l’attention (accueil, titres, puces, numérotation, successions de sous-tâches uniques dans un ordre imposé…)."
+      ],
+      "pictos": [
+        "/pictos-modes/serene-p-black.svg",
+        "/pictos-modes/serene-p-white.svg"
+      ]
+    },
     "sections": {
       "perception": [
         {

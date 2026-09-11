@@ -18,7 +18,7 @@ function NotFoundComponent() {
       <div className="max-w-md text-center">
         <h1 className="text-7xl font-bold">404</h1>
         <p className="mt-4 text-lg">Cette page n'existe pas.</p>
-        <Link to="/" className="mt-6 inline-block bg-foreground px-4 py-2 font-bold text-background">
+        <Link to="/" className="mt-6 inline-block bg-secondary px-4 py-2 font-bold text-secondary-foreground">
           Retour à l'accueil
         </Link>
       </div>
@@ -90,7 +90,7 @@ function RootShell({ children }: { children: React.ReactNode }) {
 function SiteHeader() {
   const { t } = useI18n();
   return (
-    <header className="border-b border-border bg-foreground text-background">
+    <header className="border-b border-border bg-secondary text-secondary-foreground">
       <div className="orange-bar" aria-hidden="true" />
       <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-6 py-5">
         <Link to="/" className="flex items-center gap-3 no-underline bg-primary px-3 py-2" aria-label={`${t("nav.home")} — ${t("site.title")}`}>
@@ -116,7 +116,7 @@ function SiteHeader() {
 function SiteFooter() {
   const { t } = useI18n();
   return (
-    <footer className="mt-24 border-t border-border bg-foreground text-background">
+    <footer className="mt-24 border-t border-border bg-secondary text-secondary-foreground">
       <div className="orange-bar" aria-hidden="true" />
       <div className="mx-auto max-w-7xl px-6 py-10 grid gap-8 md:grid-cols-3">
         <div>
@@ -136,7 +136,7 @@ function SiteFooter() {
           <p className="text-sm opacity-80">{t("footer.compliance")}</p>
         </div>
       </div>
-      <div className="border-t border-background/20">
+      <div className="border-t border-secondary-foreground/20">
         <p className="mx-auto max-w-7xl px-6 py-4 text-xs opacity-70">© {new Date().getFullYear()} Orange — {t("footer.rights")}</p>
       </div>
     </footer>

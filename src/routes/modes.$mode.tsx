@@ -67,7 +67,7 @@ function ModePage() {
   return (
     <>
       {/* Header */}
-      <section className="border-b border-border bg-secondary text-secondary-foreground">
+      <section className="border-b border-border bg-secondary text-secondary-foreground dark:border-b-4 dark:border-white">
         <div className="mx-auto max-w-7xl px-6 py-12">
           <nav aria-label="Fil d'Ariane" className="mb-6 text-sm">
             <Link to="/" className="opacity-75 hover:opacity-100">{t("nav.home")}</Link>
@@ -77,7 +77,7 @@ function ModePage() {
             <span aria-current="page" className="font-bold">{label}</span>
           </nav>
           <div className="flex flex-wrap items-center gap-6">
-            <span className="grid h-24 w-24 shrink-0 place-items-center bg-background p-3">
+            <span className="grid h-24 w-24 shrink-0 place-items-center bg-white p-3">
               <img src={mode.picto} alt="" className="h-full w-full object-contain" />
             </span>
             <div>
@@ -224,7 +224,7 @@ function ModePage() {
 
 
       {/* Other modes */}
-      <section aria-labelledby="autres-titre" className="border-t border-border bg-secondary text-secondary-foreground">
+      <section aria-labelledby="autres-titre" className="border-t border-border bg-secondary text-secondary-foreground dark:border-t-4 dark:border-white">
         <div className="mx-auto max-w-7xl px-6 py-12">
           <h2 id="autres-titre" className="mb-6 text-2xl font-bold">{t("mode.others")}</h2>
           <ul className="flex flex-wrap gap-2">
@@ -237,7 +237,7 @@ function ModePage() {
                     params={{ mode: m.slug }}
                     className="inline-flex items-center gap-2 border-2 border-secondary-foreground px-3 py-2 text-sm font-bold no-underline hover:border-primary hover:bg-primary hover:text-primary-foreground"
                   >
-                    <img src={m.picto} alt="" className="h-5 w-5 bg-background p-0.5" />
+                    <img src={m.picto} alt="" className="h-5 w-5 bg-white p-0.5" />
                     {m.label}
                   </Link>
                 </li>

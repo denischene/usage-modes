@@ -9,7 +9,7 @@ export function ModePicto({ mode, size = "h-16 w-16" }: { mode: Mode; size?: str
   return (
     <span className={`${size} shrink-0 inline-block`} aria-hidden="true">
       {needsBg ? (
-        <span className="grid h-full w-full place-items-center rounded-full bg-background p-1">
+        <span className="grid h-full w-full place-items-center rounded-full bg-white p-1">
           <img src={mode.picto} alt="" className="h-full w-full object-contain" />
         </span>
       ) : (

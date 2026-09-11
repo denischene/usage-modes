@@ -11,7 +11,14 @@
   font-display: swap;
 }
 
-@custom-variant dark (&:is(.dark *));
+@custom-variant dark {
+  @media (prefers-color-scheme: dark) {
+    &;
+  }
+  &:is(.dark *) {
+    &;
+  }
+}
 
 @theme inline {
   --radius-sm: calc(var(--radius) - 4px);

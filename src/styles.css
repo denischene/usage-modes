@@ -13,10 +13,10 @@
 
 @custom-variant dark {
   @media (prefers-color-scheme: dark) {
-    &;
+    @slot;
   }
   &:is(.dark *) {
-    &;
+    @slot;
   }
 }
 

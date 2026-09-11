@@ -18,7 +18,7 @@ function HomePage() {
   return (
     <>
       {/* Hero */}
-      <section className="border-b border-border bg-foreground text-background">
+      <section className="border-b border-border bg-secondary text-secondary-foreground">
         <div className="mx-auto grid max-w-7xl gap-10 px-6 py-16 md:grid-cols-[1fr_auto] md:py-24">
           <div className="max-w-2xl">
             <THtml as="p" k="home.hero.lead" className="mt-6 text-lg opacity-90 md:text-xl" />
@@ -31,7 +31,7 @@ function HomePage() {
               </Link>
               <Link
                 to="/a-propos"
-                className="border-2 border-background px-6 py-3 font-bold no-underline hover:underline"
+                className="border-2 border-secondary-foreground px-6 py-3 font-bold no-underline hover:underline"
               >
                 {t("home.hero.cta2")}
               </Link>

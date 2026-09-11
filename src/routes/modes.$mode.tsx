@@ -67,7 +67,7 @@ function ModePage() {
   return (
     <>
       {/* Header */}
-      <section className="border-b border-border bg-foreground text-background">
+      <section className="border-b border-border bg-secondary text-secondary-foreground">
         <div className="mx-auto max-w-7xl px-6 py-12">
           <nav aria-label="Fil d'Ariane" className="mb-6 text-sm">
             <Link to="/" className="opacity-75 hover:opacity-100">{t("nav.home")}</Link>
@@ -93,7 +93,7 @@ function ModePage() {
               <li>
                 <a
                   href="#description"
-                  className="inline-block border-2 border-background px-4 py-2 text-sm font-bold no-underline hover:underline"
+                  className="inline-block border-2 border-secondary-foreground px-4 py-2 text-sm font-bold no-underline hover:underline"
                 >
                   {descUi("desc.title")}
                 </a>
@@ -107,7 +107,7 @@ function ModePage() {
                   <a
                     href={`#${s.key}`}
                     className={`inline-block border-2 px-4 py-2 text-sm font-bold no-underline hover:underline ${
-                      count === 0 ? "border-background/30 opacity-50" : "border-background"
+                      count === 0 ? "border-secondary-foreground/30 opacity-50" : "border-secondary-foreground"
                     }`}
                     aria-label={`${t("mode.gotoSection")} ${title} (${count} ${t("mode.rules")})`}
                   >
@@ -200,11 +200,13 @@ function ModePage() {
                         <article className="flex flex-col">
                           <header className="border-b border-border px-4 py-3">
                             {!noImage && (
-                              <p className="text-xs font-bold uppercase tracking-wider text-primary">
-                                {title} · {t("mode.ruleCard")} {i + 1}
-                              </p>
+                              <h3 className="flex items-center gap-3 text-lg font-bold uppercase leading-6 text-foreground">
+                                <span aria-hidden="true" className="h-5 w-5 shrink-0 bg-primary" />
+                                <span>{title} · {t("mode.ruleCard")} {i + 1}</span>
+                                <span aria-hidden="true" className="h-5 w-5 shrink-0 bg-primary" />
+                              </h3>
                             )}
-                            <p className="mt-1 text-sm text-foreground">
+                            <p className={`${noImage ? "" : "mt-2"} text-sm text-foreground`}>
                               {translateRule(customText, lang) ?? t("mode.defaultText")}
                             </p>
                           </header>
@@ -222,7 +224,7 @@ function ModePage() {
 
 
       {/* Other modes */}
-      <section aria-labelledby="autres-titre" className="border-t border-border bg-foreground text-background">
+      <section aria-labelledby="autres-titre" className="border-t border-border bg-secondary text-secondary-foreground">
         <div className="mx-auto max-w-7xl px-6 py-12">
           <h2 id="autres-titre" className="mb-6 text-2xl font-bold">{t("mode.others")}</h2>
           <ul className="flex flex-wrap gap-2">
@@ -233,7 +235,7 @@ function ModePage() {
                   <Link
                     to="/modes/$mode"
                     params={{ mode: m.slug }}
-                    className="inline-flex items-center gap-2 border-2 border-background px-3 py-2 text-sm font-bold no-underline hover:bg-primary hover:border-primary"
+                    className="inline-flex items-center gap-2 border-2 border-secondary-foreground px-3 py-2 text-sm font-bold no-underline hover:border-primary hover:bg-primary hover:text-primary-foreground"
                   >
                     <img src={m.picto} alt="" className="h-5 w-5 bg-background p-0.5" />
                     {m.label}

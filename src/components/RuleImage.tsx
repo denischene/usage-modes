@@ -51,7 +51,7 @@ export function RuleImage({ src, alt: _alt, caption }: { src: string; alt?: stri
           role="dialog"
           aria-modal="true"
           aria-label={`Illustration agrandie : ${caption}`}
-          className="fixed inset-0 z-50 flex items-center justify-center bg-foreground/90 p-4"
+          className="fixed inset-0 z-50 flex items-center justify-center bg-secondary/95 p-4"
           onClick={() => setOpen(false)}
         >
           <button

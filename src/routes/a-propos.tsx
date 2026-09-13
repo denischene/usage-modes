@@ -25,6 +25,8 @@ function AboutPage() {
 
       <h2 className="mt-12 text-2xl font-bold">{t("about.h2.why")}</h2>
       <THtml as="p" k="about.why" className="mt-3" />
+      <p className="mt-3">{t("about.whyModes")}</p>
+      <p className="mt-3">{t("about.settings")}</p>
 
       <h2 className="mt-12 text-2xl font-bold">{t("about.h2.wcag")}</h2>
       <p className="mt-3">{t("about.wcag")}</p>

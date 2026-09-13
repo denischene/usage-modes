@@ -1,8 +1,10 @@
 import type { Mode } from "@/lib/modes";
 import graphicDarkAsset from "@/assets/graphic-p-black.png.asset.json";
+import graphicLightAsset from "@/assets/graphic-p-light.svg.asset.json";
 import microgesteDarkAsset from "@/assets/microgeste-p-black.png.asset.json";
-import visionLightAsset from "@/assets/vision-p.svg.asset.json";
-import visionPpLightAsset from "@/assets/vision-pp.svg.asset.json";
+import motorPpLightAsset from "@/assets/motor-pp-light.svg.asset.json";
+import visionLightAsset from "@/assets/vision-p-light.svg.asset.json";
+import visionPpLightAsset from "@/assets/vision-pp-light.svg.asset.json";
 import vocalLightAsset from "@/assets/vocal-p.svg.asset.json";
 
 /** Modes whose pictos are entirely black (no light/orange detail).
@@ -31,6 +33,8 @@ const LIGHT_MODE_PICTOS: Record<string, string> = {
   "vocal-p": vocalLightAsset.url,
   "vision-p": visionLightAsset.url,
   "vision-pp": visionPpLightAsset.url,
+  "moteur-pp": motorPpLightAsset.url,
+  "graphique-p": graphicLightAsset.url,
 };
 
 export function ModePicto({ mode, size = "h-16 w-16" }: { mode: Mode; size?: string }) {

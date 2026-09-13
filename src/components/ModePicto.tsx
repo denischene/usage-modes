@@ -1,5 +1,9 @@
 import type { Mode } from "@/lib/modes";
+import graphicDarkAsset from "@/assets/graphic-p-black.png.asset.json";
 import microgesteDarkAsset from "@/assets/microgeste-p-black.png.asset.json";
+import visionLightAsset from "@/assets/vision-p.svg.asset.json";
+import visionPpLightAsset from "@/assets/vision-pp.svg.asset.json";
+import vocalLightAsset from "@/assets/vocal-p.svg.asset.json";
 
 /** Modes whose pictos are entirely black (no light/orange detail).
  *  In small card contexts they need a white circular backdrop to stay visible. */
@@ -20,14 +24,22 @@ const DARK_MODE_PICTOS: Record<string, string> = {
   "lsf-p": "/pictos-modes/sign-language-p-black.svg",
   "serein-p": "/pictos-modes/serene-p-black.svg",
   "microgeste-p": microgesteDarkAsset.url,
+  "graphique-p": graphicDarkAsset.url,
+};
+
+const LIGHT_MODE_PICTOS: Record<string, string> = {
+  "vocal-p": vocalLightAsset.url,
+  "vision-p": visionLightAsset.url,
+  "vision-pp": visionPpLightAsset.url,
 };
 
 export function ModePicto({ mode, size = "h-16 w-16" }: { mode: Mode; size?: string }) {
   const needsBg = NEEDS_WHITE_BG.has(mode.slug);
+  const lightPicto = LIGHT_MODE_PICTOS[mode.slug] ?? mode.picto;
   const image = (
-    <picture>
+    <picture className="block h-full w-full">
       {DARK_MODE_PICTOS[mode.slug] && <source media="(prefers-color-scheme: dark)" srcSet={DARK_MODE_PICTOS[mode.slug]} />}
-      <img src={mode.picto} alt="" className="h-full w-full object-contain" />
+      <img src={lightPicto} alt="" className="block h-full w-full object-contain" />
     </picture>
   );
   return (

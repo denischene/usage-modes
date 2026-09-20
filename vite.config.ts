@@ -11,5 +11,26 @@ import { defineConfig } from "@lovable.dev/vite-tanstack-config";
 export default defineConfig({
   tanstackStart: {
     server: { entry: "server" },
+    pages: [
+      { path: "/" },
+      { path: "/a-propos" },
+      { path: "/modes" },
+      { path: "/modes/facile-p" },
+      { path: "/modes/facile-pp" },
+      { path: "/modes/vocal-p" },
+      { path: "/modes/vision-p" },
+      { path: "/modes/vision-pp" },
+      { path: "/modes/lecture-p" },
+      { path: "/modes/lecture-pp" },
+      { path: "/modes/pointage-p" },
+      { path: "/modes/moteur-p" },
+      { path: "/modes/moteur-pp" },
+      { path: "/modes/audio-p" },
+      { path: "/modes/lsf-p" },
+      { path: "/modes/serein-p" },
+      { path: "/modes/microgeste-p" },
+      { path: "/modes/graphique-p" },
+    ],
+    prerender: { enabled: true, autoStaticPathsDiscovery: false },
   },
 });

@@ -1,11 +1,4 @@
 import type { Mode } from "@/lib/modes";
-import graphicDarkAsset from "@/assets/graphic-p-black.png.asset.json";
-import graphicLightAsset from "@/assets/graphic-p-light.svg.asset.json";
-import microgesteDarkAsset from "@/assets/microgeste-p-black.png.asset.json";
-import motorPpLightAsset from "@/assets/motor-pp-light.svg.asset.json";
-import visionLightAsset from "@/assets/vision-p-light.svg.asset.json";
-import visionPpLightAsset from "@/assets/vision-pp-light.svg.asset.json";
-import vocalLightAsset from "@/assets/vocal-p.svg.asset.json";
 
 /** Modes whose pictos are entirely black (no light/orange detail).
  *  In small card contexts they need a white circular backdrop to stay visible. */
@@ -25,16 +18,16 @@ const DARK_MODE_PICTOS: Record<string, string> = {
   "audio-p": "/pictos-modes/audio-p-black.svg",
   "lsf-p": "/pictos-modes/sign-language-p-black.svg",
   "serein-p": "/pictos-modes/serene-p-black.svg",
-  "microgeste-p": microgesteDarkAsset.url,
-  "graphique-p": graphicDarkAsset.url,
+  "microgeste-p": "/pictos-modes/microgeste-p-black.png",
+  "graphique-p": "/pictos-modes/graphic-p-black.png",
 };
 
 const LIGHT_MODE_PICTOS: Record<string, string> = {
-  "vocal-p": vocalLightAsset.url,
-  "vision-p": visionLightAsset.url,
-  "vision-pp": visionPpLightAsset.url,
-  "moteur-pp": motorPpLightAsset.url,
-  "graphique-p": graphicLightAsset.url,
+  "vocal-p": "/pictos-modes/vocal-p-white.svg",
+  "vision-p": "/pictos-modes/vision-p-light.svg",
+  "vision-pp": "/pictos-modes/vision-pp-light.svg",
+  "moteur-pp": "/pictos-modes/motor-pp-light.svg",
+  "graphique-p": "/pictos-modes/graphic-p-light.svg",
 };
 
 export function ModePicto({ mode, size = "h-16 w-16" }: { mode: Mode; size?: string }) {

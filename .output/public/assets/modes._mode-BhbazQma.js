@@ -1,0 +1,1 @@
+import{j as e}from"./index-Y4TFTjCm.js";const s=({error:r})=>e.jsxs("div",{className:"mx-auto max-w-3xl px-6 py-20 text-center",children:[e.jsx("h1",{className:"text-2xl font-bold",children:"Erreur de chargement"}),e.jsx("p",{className:"mt-2 text-muted-foreground",children:r.message})]});export{s as errorComponent};

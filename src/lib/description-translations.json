@@ -934,5 +934,101 @@
   "ja": "集中力と注意力を助けるために、コンテンツとタスクを構造化するインジケーター（ホーム、タイトル、箇条書き、番号付け、強制された順序でのユニークなサブタスクの連続など）が必要です。",
   "ko": "집중력과 주의력을 돕기 위해 콘텐츠와 작업을 구조화하는 지표(홈, 제목, 글머리 기호, 번호 매기기, 정해진 순서로의 고유한 하위 작업 순서 등)가 필요합니다.",
   "zh": "需要有结构化内容和任务的指标，以帮助提高注意力和专注力（例如：主页、标题、项目符号、编号、按规定顺序进行的独特子任务序列等）。"
+ },
+ "Mode d'usage destiné aux personnes ayant des capacités de pointage à la souris mais de fortes contraintes de mouvement et de clics. Un pointeur bien visible, des zones de clics agrandies, des éléments regroupés et la possibilité de cliquer au survol.": {
+  "en": "User mode designed for people who can point with a mouse but have severe movement and clicking constraints. It provides a clearly visible pointer, enlarged click areas, grouped elements, and the option to click by hovering.",
+  "es": "Modo de uso destinado a personas que pueden apuntar con el ratón pero tienen fuertes limitaciones de movimiento y clic. Ofrece un puntero bien visible, zonas de clic ampliadas, elementos agrupados y la posibilidad de hacer clic al pasar el cursor.",
+  "de": "Nutzungsmodus für Personen, die mit der Maus zeigen können, aber starke Einschränkungen bei Bewegung und Klicken haben. Ein gut sichtbarer Zeiger, vergrößerte Klickbereiche, gruppierte Elemente und die Möglichkeit, durch Verweilen zu klicken.",
+  "it": "Modalità d'uso destinata a persone in grado di puntare con il mouse ma con forti limitazioni di movimento e clic. Offre un puntatore ben visibile, aree di clic ingrandite, elementi raggruppati e la possibilità di fare clic al passaggio del puntatore.",
+  "pl": "Tryb użytkowania przeznaczony dla osób, które mogą wskazywać myszą, ale mają znaczne ograniczenia ruchu i klikania. Zapewnia dobrze widoczny wskaźnik, powiększone obszary klikania, pogrupowane elementy oraz możliwość klikania przez najechanie.",
+  "ga": "Mód úsáide do dhaoine atá in ann pointeáil le luchóg ach a bhfuil srianta móra gluaiseachta agus cliceála acu. Soláthraítear pointeoir atá le feiceáil go soiléir, limistéir chliceála mhéadaithe, eilimintí grúpáilte agus an rogha cliceáil trí ainliú.",
+  "pt": "Modo de uso destinado a pessoas capazes de apontar com o mouse, mas com fortes limitações de movimento e cliques. Oferece um ponteiro bem visível, áreas de clique ampliadas, elementos agrupados e a possibilidade de clicar ao passar o ponteiro.",
+  "ja": "マウスでポインティングできるものの、動作やクリックに大きな制約がある方向けの使用モードです。見やすいポインター、拡大されたクリック領域、グループ化された要素、ホバーによるクリック機能を提供します。",
+  "ko": "마우스로 포인팅할 수 있지만 움직임과 클릭에 큰 제약이 있는 사용자를 위한 모드입니다. 잘 보이는 포인터, 확대된 클릭 영역, 그룹화된 요소, 가리킨 상태로 클릭하는 기능을 제공합니다.",
+  "zh": "此模式适用于能够使用鼠标指向，但在移动和点击方面受到严重限制的人群。它提供清晰可见的指针、扩大的点击区域、分组元素以及悬停点击功能。"
+ },
+ "Personne utilisant le pointage, mais ayant de fortes contraintes motrices.": {
+  "en": "Person who uses pointing but has severe motor constraints.",
+  "es": "Persona que utiliza el apuntado, pero tiene fuertes limitaciones motrices.",
+  "de": "Person, die eine Zeigesteuerung nutzt, aber starke motorische Einschränkungen hat.",
+  "it": "Persona che utilizza il puntamento, ma presenta forti limitazioni motorie.",
+  "pl": "Osoba korzystająca ze wskazywania, ale mająca znaczne ograniczenia motoryczne.",
+  "ga": "Duine a úsáideann pointeáil ach a bhfuil srianta móra luaile aige/aici.",
+  "pt": "Pessoa que usa apontamento, mas tem fortes limitações motoras.",
+  "ja": "ポインティングを使用するものの、重い運動制約がある人。",
+  "ko": "포인팅을 사용하지만 운동 제약이 심한 사람.",
+  "zh": "使用指点操作但存在严重运动障碍的人。"
+ },
+ "Atteinte difficile des cibles, erreurs d’appuis.": {
+  "en": "Difficulty reaching targets and pressing errors.",
+  "es": "Dificultad para alcanzar los objetivos y errores de pulsación.",
+  "de": "Ziele sind schwer zu erreichen und es kommt zu Fehleingaben.",
+  "it": "Difficoltà nel raggiungere i bersagli ed errori di pressione.",
+  "pl": "Trudności z trafianiem w cele i błędy naciskania.",
+  "ga": "Deacracht spriocanna a bhaint amach agus earráidí brúite.",
+  "pt": "Dificuldade para alcançar os alvos e erros de acionamento.",
+  "ja": "対象に届きにくく、押し間違いが発生する。",
+  "ko": "대상에 도달하기 어렵고 누르기 오류가 발생합니다.",
+  "zh": "难以触及目标，容易误按。"
+ },
+ "Lenteur et fatigue rapidement.": {
+  "en": "Moves slowly and tires quickly.",
+  "es": "Lentitud y fatiga rápida.",
+  "de": "Langsame Bedienung und schnelle Ermüdung.",
+  "it": "Lentezza e rapido affaticamento.",
+  "pl": "Wolne działanie i szybkie zmęczenie.",
+  "ga": "Moille agus tuirse thapa.",
+  "pt": "Lentidão e fadiga rápida.",
+  "ja": "動作が遅く、すぐに疲れる。",
+  "ko": "동작이 느리고 빨리 피로해집니다.",
+  "zh": "操作缓慢且容易疲劳。"
+ },
+ "Usage d’un clavier sur écran par pointage.": {
+  "en": "Uses an on-screen keyboard by pointing.",
+  "es": "Utiliza un teclado en pantalla mediante apuntado.",
+  "de": "Nutzt eine Bildschirmtastatur per Zeigesteuerung.",
+  "it": "Utilizza una tastiera su schermo tramite puntamento.",
+  "pl": "Korzysta z klawiatury ekranowej za pomocą wskazywania.",
+  "ga": "Úsáideann méarchlár ar an scáileán trí phointeáil.",
+  "pt": "Usa um teclado na tela por apontamento.",
+  "ja": "ポインティングでスクリーンキーボードを使用する。",
+  "ko": "포인팅으로 화면 키보드를 사용합니다.",
+  "zh": "通过指点操作使用屏幕键盘。"
+ },
+ "A besoin que les éléments d’action soient regroupés.": {
+  "en": "Needs action elements to be grouped together.",
+  "es": "Necesita que los elementos de acción estén agrupados.",
+  "de": "Benötigt gruppierte Aktionselemente.",
+  "it": "Ha bisogno che gli elementi di azione siano raggruppati.",
+  "pl": "Potrzebuje pogrupowanych elementów działania.",
+  "ga": "Ní mór eilimintí gníomhaíochta a bheith grúpáilte.",
+  "pt": "Precisa que os elementos de ação sejam agrupados.",
+  "ja": "操作要素をまとめて配置する必要がある。",
+  "ko": "동작 요소를 그룹화해야 합니다.",
+  "zh": "需要将操作元素集中分组。"
+ },
+ "A besoin d’une bonne visibilité des éléments.": {
+  "en": "Needs elements to be clearly visible.",
+  "es": "Necesita una buena visibilidad de los elementos.",
+  "de": "Benötigt eine gute Sichtbarkeit der Elemente.",
+  "it": "Ha bisogno di una buona visibilità degli elementi.",
+  "pl": "Potrzebuje dobrej widoczności elementów.",
+  "ga": "Ní mór na heilimintí a bheith le feiceáil go soiléir.",
+  "pt": "Precisa de boa visibilidade dos elementos.",
+  "ja": "要素が見やすいことを必要としている。",
+  "ko": "요소가 잘 보여야 합니다.",
+  "zh": "需要元素清晰可见。"
+ },
+ "En tactile, doit pouvoir laisser son doigt posé sur l’écran (valide par « Tirer à droite »).": {
+  "en": "On a touchscreen, must be able to keep a finger resting on the screen (confirm by “swiping right”).",
+  "es": "En pantalla táctil, debe poder mantener el dedo apoyado en la pantalla (validación mediante «deslizar a la derecha»).",
+  "de": "Auf einem Touchscreen muss der Finger auf dem Bildschirm liegen bleiben können (Bestätigung durch „Nach rechts ziehen“).",
+  "it": "Su touchscreen, deve poter lasciare il dito appoggiato sullo schermo (conferma tramite «trascina a destra»).",
+  "pl": "Na ekranie dotykowym musi mieć możliwość pozostawienia palca na ekranie (zatwierdzanie przez „przeciągnięcie w prawo”).",
+  "ga": "Ar scáileán tadhaill, ní mór a bheith in ann méar a fhágáil ar an scáileán (deimhniú trí ‘tharraingt ar dheis’).",
+  "pt": "Em tela sensível ao toque, deve poder manter o dedo apoiado na tela (confirmação por “arrastar para a direita”).",
+  "ja": "タッチ操作では、画面に指を置いたままにできる必要がある（「右にスライド」で確定）。",
+  "ko": "터치 화면에서는 손가락을 화면에 댄 채로 둘 수 있어야 합니다(‘오른쪽으로 밀기’로 확인).",
+  "zh": "在触摸屏上，应能让手指保持放在屏幕上（通过“向右拖动”确认）。"
  }
 }

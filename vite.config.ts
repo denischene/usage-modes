@@ -28,7 +28,7 @@ export default defineConfig({
       { path: "/modes/audio-p" },
       { path: "/modes/lsf-p" },
       { path: "/modes/serein-p" },
-      { path: "/modes/microgeste-p" },
+      { path: "/modes/pointage-pp" },
       { path: "/modes/graphique-p" },
     ],
     prerender: { enabled: true, autoStaticPathsDiscovery: false },

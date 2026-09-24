@@ -18,7 +18,7 @@ const DARK_MODE_PICTOS: Record<string, string> = {
   "audio-p": "/pictos-modes/audio-p-black.svg",
   "lsf-p": "/pictos-modes/sign-language-p-black.svg",
   "serein-p": "/pictos-modes/serene-p-black.svg",
-  "microgeste-p": "/pictos-modes/microgeste-p-black.png",
+  "pointage-pp": "/pictos-modes/pointage-pp-black.png",
   "graphique-p": "/pictos-modes/graphic-p-black.png",
 };
 

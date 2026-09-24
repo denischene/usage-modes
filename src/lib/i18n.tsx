@@ -665,7 +665,7 @@ const MODE_DESCRIPTIONS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Adaptations pour l'audition : sous-titres, transcriptions, volumes.",
     "LSF+": "Langue des signes française (LSF) : interprétation, vidéos signées.",
     "Serein+": "Apaisement de l'expérience : focus, absence de pression temporelle.",
-    "Microgeste+": "Interaction par micro-gestes : contrôle subtil et précis.",
+    "Pointage++": "Pointage adapté aux fortes contraintes de mouvement et de clics.",
     "Graphique+": "Graphisme inclusif : codes visuels, cohérence, signalétique.",
   },
   en: {
@@ -682,7 +682,7 @@ const MODE_DESCRIPTIONS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Hearing adaptations: captions, transcripts, volume.",
     "LSF+": "American Sign Language (ASL): interpretation, signed videos.",
     "Serein+": "Calming the experience: focus, no time pressure.",
-    "Microgeste+": "Micro-gesture interaction: subtle and precise control.",
+    "Pointage++": "Pointing adapted to severe movement and clicking constraints.",
     "Graphique+": "Inclusive graphic design: visual codes, consistency, signage.",
   },
   es: {
@@ -699,7 +699,7 @@ const MODE_DESCRIPTIONS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Adaptaciones para la audición: subtítulos, transcripciones, volumen.",
     "LSF+": "Lengua de Signos Española (LSE) : interpretación, vídeos en lengua de signos.",
     "Serein+": "Calmar la experiencia: foco, ausencia de presión temporal.",
-    "Microgeste+": "Interacción por microgestos: control sutil y preciso.",
+    "Pointage++": "Apuntado adaptado a fuertes limitaciones de movimiento y clic.",
     "Graphique+": "Grafismo inclusivo: códigos visuales, coherencia, señalización.",
   },
   de: {
@@ -716,7 +716,7 @@ const MODE_DESCRIPTIONS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Anpassungen für das Hören: Untertitel, Transkripte, Lautstärke.",
     "LSF+": "Deutsche Gebärdensprache (DGS) : Dolmetschen, Gebärdensprachvideos.",
     "Serein+": "Beruhigung des Erlebnisses: Fokus, kein Zeitdruck.",
-    "Microgeste+": "Interaktion durch Mikrogesten: feinfühlige und präzise Steuerung.",
+    "Pointage++": "Zeigen bei starken Einschränkungen von Bewegung und Klicken.",
     "Graphique+": "Inklusives Grafikdesign: visuelle Codes, Konsistenz, Beschilderung.",
   },
   it: {
@@ -733,7 +733,7 @@ const MODE_DESCRIPTIONS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Adattamenti per l'udito: sottotitoli, trascrizioni, volume.",
     "LSF+": "Lingua Italiana dei Segni (LIS) : interpretariato, video in lingua dei segni.",
     "Serein+": "Esperienza più serena: focus, nessuna pressione temporale.",
-    "Microgeste+": "Interazione tramite micro-gesti: controllo sottile e preciso.",
+    "Pointage++": "Puntamento adattato a forti limitazioni di movimento e clic.",
     "Graphique+": "Grafica inclusiva: codici visivi, coerenza, segnaletica.",
   },
   pl: {
@@ -750,7 +750,7 @@ const MODE_DESCRIPTIONS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Adaptacje słuchowe: napisy, transkrypcje, głośność.",
     "LSF+": "Polski Język Migowy (PJM) : interpretacja, wideo w języku migowym.",
     "Serein+": "Uspokojenie doświadczenia: skupienie, brak presji czasu.",
-    "Microgeste+": "Interakcja mikrogestami: subtelna i precyzyjna kontrola.",
+    "Pointage++": "Wskazywanie dostosowane do znacznych ograniczeń ruchu i klikania.",
     "Graphique+": "Inkluzywna grafika: kody wizualne, spójność, oznakowanie.",
   },
   ga: {
@@ -767,7 +767,7 @@ const MODE_DESCRIPTIONS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Oiriúnuithe éisteachta: fotheidil, tras-scríbhinní, airde.",
     "LSF+": "Irish Sign Language (ISL): léiriú, físeáin sínithe.",
     "Serein+": "Suaimhneas an taithí: fócas, gan brú ama.",
-    "Microgeste+": "Idirghníomhú trí mhicrigheáis: rialú íogair agus beacht.",
+    "Pointage++": "Pointeáil oiriúnaithe do shrianta móra gluaiseachta agus cliceála.",
     "Graphique+": "Dearadh grafach uilechuimsitheach: cóid amhairc, comhsheasmhacht, comharthaíocht.",
   },
   "pt-BR": {
@@ -784,7 +784,7 @@ const MODE_DESCRIPTIONS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Adaptações para audição: legendas, transcrições, volume.",
     "LSF+": "Língua Brasileira de Sinais (Libras): interpretação, vídeos sinalizados.",
     "Serein+": "Acalmar a experiência: foco, ausência de pressão temporal.",
-    "Microgeste+": "Interação por microgestos: controle sutil e preciso.",
+    "Pointage++": "Apontamento adaptado a fortes limitações de movimento e cliques.",
     "Graphique+": "Grafismo inclusivo: códigos visuais, coerência, sinalização.",
   },
   ja: {
@@ -801,7 +801,7 @@ const MODE_DESCRIPTIONS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "聴覚の適応:字幕、トランスクリプト、音量。",
     "LSF+": "日本手話: 通訳、手話動画.",
     "Serein+": "体験を落ち着かせる:集中、時間的圧迫なし。",
-    "Microgeste+": "マイクロジェスチャによる対話:繊細で正確な操作。",
+    "Pointage++": "動作やクリックに大きな制約がある方向けのポインティング調整。",
     "Graphique+": "包摂的なグラフィックデザイン:視覚コード、一貫性、サイン。",
   },
   ko: {
@@ -818,7 +818,7 @@ const MODE_DESCRIPTIONS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "청각 적응: 자막, 텍스트, 볼륨.",
     "LSF+": "한국수어 : 통역, 수어 영상.",
     "Serein+": "경험의 진정: 집중, 시간 압박 없음.",
-    "Microgeste+": "마이크로 제스처 상호작용: 섬세하고 정밀한 제어.",
+    "Pointage++": "움직임과 클릭에 큰 제약이 있는 사용자를 위한 포인팅 조정.",
     "Graphique+": "포용적 그래픽 디자인: 시각 코드, 일관성, 사이니지.",
   },
   zh: {
@@ -835,7 +835,7 @@ const MODE_DESCRIPTIONS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "听觉适配:字幕、转录、音量。",
     "LSF+": "中国手语: 翻译，手语视频.",
     "Serein+": "让体验更舒缓:专注、无时间压力。",
-    "Microgeste+": "微手势交互:细腻精确的控制。",
+    "Pointage++": "面向移动和点击严重受限用户的指点适配。",
     "Graphique+": "包容性视觉设计:视觉编码、一致性、标识。",
   },
 };
@@ -857,7 +857,7 @@ const MODE_LABELS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Audio+",
     "LSF+": "LSF+",
     "Serein+": "Serein+",
-    "Microgeste+": "Microgeste+",
+    "Pointage++": "Pointage++",
     "Graphique+": "Graphique+",
   },
   "en": {
@@ -874,7 +874,7 @@ const MODE_LABELS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Audio+",
     "LSF+": "ASL+",
     "Serein+": "Calm+",
-    "Microgeste+": "Microgesture+",
+    "Pointage++": "Pointing++",
     "Graphique+": "Graphic+",
   },
   "es": {
@@ -891,7 +891,7 @@ const MODE_LABELS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Audio+",
     "LSF+": "LSE+",
     "Serein+": "Sereno+",
-    "Microgeste+": "Microgesto+",
+    "Pointage++": "Apuntado++",
     "Graphique+": "Gráfico+",
   },
   "de": {
@@ -908,7 +908,7 @@ const MODE_LABELS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Audio+",
     "LSF+": "DGS+",
     "Serein+": "Ruhe+",
-    "Microgeste+": "Mikrogeste+",
+    "Pointage++": "Zeigen++",
     "Graphique+": "Grafik+",
   },
   "it": {
@@ -925,7 +925,7 @@ const MODE_LABELS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Audio+",
     "LSF+": "LIS+",
     "Serein+": "Sereno+",
-    "Microgeste+": "Microgesto+",
+    "Pointage++": "Puntamento++",
     "Graphique+": "Grafico+",
   },
   "pl": {
@@ -942,7 +942,7 @@ const MODE_LABELS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Audio+",
     "LSF+": "PJM+",
     "Serein+": "Spokój+",
-    "Microgeste+": "Mikrogest+",
+    "Pointage++": "Wskazywanie++",
     "Graphique+": "Grafika+",
   },
   "ga": {
@@ -959,7 +959,7 @@ const MODE_LABELS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Fuaim+",
     "LSF+": "ISL+",
     "Serein+": "Suaimhneas+",
-    "Microgeste+": "Micrighotha+",
+    "Pointage++": "Pointeáil++",
     "Graphique+": "Grafaic+",
   },
   "pt-BR": {
@@ -976,7 +976,7 @@ const MODE_LABELS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "Áudio+",
     "LSF+": "Libras+",
     "Serein+": "Sereno+",
-    "Microgeste+": "Microgesto+",
+    "Pointage++": "Apontamento++",
     "Graphique+": "Gráfico+",
   },
   "ja": {
@@ -993,7 +993,7 @@ const MODE_LABELS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "オーディオ+",
     "LSF+": "日本手話+",
     "Serein+": "安心+",
-    "Microgeste+": "マイクロジェスチャー+",
+    "Pointage++": "ポインティング++",
     "Graphique+": "グラフィック+",
   },
   "ko": {
@@ -1010,7 +1010,7 @@ const MODE_LABELS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "오디오+",
     "LSF+": "한국수어+",
     "Serein+": "편안함+",
-    "Microgeste+": "마이크로제스처+",
+    "Pointage++": "포인팅++",
     "Graphique+": "그래픽+",
   },
   "zh": {
@@ -1027,7 +1027,7 @@ const MODE_LABELS_I18N: Record<LangCode, Record<string, string>> = {
     "Audio+": "音频+",
     "LSF+": "中国手语+",
     "Serein+": "安宁+",
-    "Microgeste+": "微手势+",
+    "Pointage++": "指点++",
     "Graphique+": "图形+",
   },
 };

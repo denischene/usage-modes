@@ -4,6 +4,7 @@ import {
   Link,
   createRootRouteWithContext,
   useRouter,
+  useLocation,
   HeadContent,
   Scripts,
 } from "@tanstack/react-router";
@@ -89,8 +90,10 @@ function RootShell({ children }: { children: React.ReactNode }) {
 
 function SiteHeader() {
   const { t } = useI18n();
+  const pathname = useLocation({ select: (location) => location.pathname });
+  const hasDarkSeparator = pathname === "/" || pathname === "/modes" || pathname.startsWith("/modes/");
   return (
-    <header className="border-b border-border bg-secondary text-secondary-foreground">
+    <header className={`border-b border-border bg-secondary text-secondary-foreground ${hasDarkSeparator ? "dark:border-b-4 dark:border-white" : ""}`}>
       <div className="orange-bar" aria-hidden="true" />
       <div className="mx-auto flex max-w-7xl flex-wrap items-center justify-between gap-4 px-6 py-5">
         <Link to="/" className="flex items-center gap-3 no-underline bg-primary px-3 py-2" aria-label={`${t("nav.home")} — ${t("site.title")}`}>

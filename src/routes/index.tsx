@@ -23,9 +23,9 @@ function HomePage() {
     <>
       {/* Hero */}
       <section className="border-b border-border bg-secondary text-secondary-foreground">
-        <div className="mx-auto grid max-w-7xl gap-10 px-6 py-16 md:grid-cols-[1fr_auto] md:py-24">
+        <div className="mx-auto grid max-w-7xl gap-10 px-6 py-8 md:grid-cols-[1fr_auto] md:py-12">
           <div className="max-w-2xl">
-            <THtml as="p" k="home.hero.lead" className="mt-6 text-lg opacity-90 md:text-xl" />
+            <THtml as="p" k="home.hero.lead" className="mt-3 text-lg opacity-90 md:text-xl" />
             <div className="mt-8 flex flex-wrap gap-3">
               <Link
                 to="/modes"

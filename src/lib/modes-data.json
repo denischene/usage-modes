@@ -2166,9 +2166,25 @@
     }
   },
   {
-    "label": "Microgeste+",
-    "slug": "microgeste-p",
-    "picto": "/pictos/microgeste-p.svg",
+    "label": "Pointage++",
+    "slug": "pointage-pp",
+    "picto": "/pictos/pointage-pp.svg",
+    "description": {
+      "intro": "Mode d'usage destiné aux personnes ayant des capacités de pointage à la souris mais de fortes contraintes de mouvement et de clics. Un pointeur bien visible, des zones de clics agrandies, des éléments regroupés et la possibilité de cliquer au survol.",
+      "users": [
+        "Personne utilisant le pointage, mais ayant de fortes contraintes motrices.",
+        "Atteinte difficile des cibles, erreurs d’appuis.",
+        "Lenteur et fatigue rapidement.",
+        "Usage d’un clavier sur écran par pointage.",
+        "A besoin que les éléments d’action soient regroupés.",
+        "A besoin d’une bonne visibilité des éléments.",
+        "En tactile, doit pouvoir laisser son doigt posé sur l’écran (valide par « Tirer à droite »)."
+      ],
+      "pictos": [
+        "/pictos/pointage-pp.svg",
+        "/pictos-modes/pointage-pp-black.png"
+      ]
+    },
     "sections": {
       "perception": [
         {

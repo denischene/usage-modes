@@ -46,6 +46,6 @@ export const MODE_DESCRIPTIONS: Record<string, string> = {
   "Audio+": "Adaptations pour l'audition : sous-titres, transcriptions, volumes.",
   "LSF+": "Langue des signes française : interprétation, vidéos signées.",
   "Serein+": "Apaisement de l'expérience : focus, absence de pression temporelle.",
-  "Microgeste+": "Interaction par micro-gestes : contrôle subtil et précis.",
+  "Pointage++": "Pointage adapté aux fortes contraintes de mouvement et de clics.",
   "Graphique+": "Graphisme inclusif : codes visuels, cohérence, signalétique.",
 };

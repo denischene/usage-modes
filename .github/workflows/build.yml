@@ -39,7 +39,7 @@ jobs:
       - name: Vérifier que toutes les pages statiques existent
         run: |
           missing=0
-          for p in "" a-propos modes modes/facile-p modes/facile-pp modes/vocal-p modes/vision-p modes/vision-pp modes/lecture-p modes/lecture-pp modes/pointage-p modes/moteur-p modes/moteur-pp modes/audio-p modes/lsf-p modes/serein-p modes/microgeste-p modes/graphique-p; do
+          for p in "" a-propos modes modes/facile-p modes/facile-pp modes/vocal-p modes/vision-p modes/vision-pp modes/lecture-p modes/lecture-pp modes/pointage-p modes/moteur-p modes/moteur-pp modes/audio-p modes/lsf-p modes/serein-p modes/pointage-pp modes/graphique-p; do
             f=".output/public/${p:+$p/}index.html"
             if [ ! -f "$f" ]; then echo "Page manquante : $f"; missing=1; fi
           done

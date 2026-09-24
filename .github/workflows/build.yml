@@ -3,6 +3,7 @@ name: Compilation
 on:
   push:
   pull_request:
+  workflow_dispatch:
 
 jobs:
   build:
@@ -23,3 +24,24 @@ jobs:
 
       - name: Compiler le projet
         run: npm run build
+
+      - name: Copier les fichiers statiques dans .output/public
+        run: |
+          rm -rf .output/public
+          mkdir -p .output
+          cp -r dist/client .output/public
+
+      - name: Vérifier que toutes les pages statiques existent
+        run: |
+          missing=0
+          for p in "" a-propos modes modes/facile-p modes/facile-pp modes/vocal-p modes/vision-p modes/vision-pp modes/lecture-p modes/lecture-pp modes/pointage-p modes/moteur-p modes/moteur-pp modes/audio-p modes/lsf-p modes/serein-p modes/microgeste-p modes/graphique-p; do
+            f=".output/public/${p:+$p/}index.html"
+            if [ ! -f "$f" ]; then echo "Page manquante : $f"; missing=1; fi
+          done
+          exit $missing
+
+      - name: Mettre à disposition le site statique
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-statique
+          path: .output/public

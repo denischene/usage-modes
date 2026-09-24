@@ -8,6 +8,10 @@ export const Route = createFileRoute("/")({
     meta: [
       { title: "Modes d'usages — Règles illustrées d'accessibilité ergonomique" },
       { name: "description", content: "15 modes d'usages pour concevoir des interfaces accessibles. Règles illustrées Perception, Compréhension, Commandes." },
+      { property: "og:title", content: "Modes d'usages — Règles illustrées d'accessibilité ergonomique" },
+      { property: "og:description", content: "15 modes d'usages pour concevoir des interfaces accessibles. Règles illustrées Perception, Compréhension, Commandes." },
+      { property: "og:type", content: "website" },
+      { name: "twitter:card", content: "summary" },
     ],
   }),
   component: HomePage,

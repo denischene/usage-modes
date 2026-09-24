@@ -27,7 +27,9 @@ export const Route = createFileRoute("/modes/$mode")({
         { title: `${label} — Modes d'usages` },
         { name: "description", content: `Règles illustrées d'accessibilité pour le mode ${label}. Perception, Compréhension, Commandes.` },
         { property: "og:title", content: `${label} — Modes d'usages` },
-        ...(m ? [{ property: "og:image", content: m.picto }] : []),
+        { property: "og:description", content: `Règles illustrées d'accessibilité pour le mode ${label}. Perception, Compréhension, Commandes.` },
+        { property: "og:type", content: "website" },
+        { name: "twitter:card", content: "summary" },
       ],
     };
   },

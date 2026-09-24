@@ -8,6 +8,10 @@ export const Route = createFileRoute("/modes/")({
     meta: [
       { title: "Tous les modes d'usages — Catalogue" },
       { name: "description", content: "Catalogue complet des 15 modes d'usages d'accessibilité ergonomique." },
+      { property: "og:title", content: "Tous les modes d'usages — Catalogue" },
+      { property: "og:description", content: "Catalogue complet des 15 modes d'usages d'accessibilité ergonomique." },
+      { property: "og:type", content: "website" },
+      { name: "twitter:card", content: "summary" },
     ],
   }),
   component: ModesIndex,

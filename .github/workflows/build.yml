@@ -25,11 +25,16 @@ jobs:
       - name: Compiler le projet
         run: npm run build
 
-      - name: Copier les fichiers statiques dans .output/public
+      - name: Regrouper les fichiers statiques dans .output/public
         run: |
-          rm -rf .output/public
-          mkdir -p .output
-          cp -r dist/client .output/public
+          # Sur GitHub, la compilation écrit directement dans .output/public.
+          # Dans d'autres environnements, elle écrit dans dist/client : on le copie alors.
+          if [ -d dist/client ]; then
+            rm -rf .output/public
+            mkdir -p .output
+            cp -r dist/client .output/public
+          fi
+          ls .output/public
 
       - name: Vérifier que toutes les pages statiques existent
         run: |

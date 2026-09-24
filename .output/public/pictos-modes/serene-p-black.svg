@@ -9,7 +9,7 @@
    viewBox="0 0 512 512"
    style="enable-background:new 0 0 512 512;"
    xml:space="preserve"
-   sodipodi:docname="Usage mode Serene+6_fond noir.svg"
+   sodipodi:docname="serene-p-black.svg"
    inkscape:export-filename="Usage mode Serene+6_fond noir.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
@@ -22,10 +22,10 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/"><title
-   id="title855">Usage mode Serene+6_fond noir</title><metadata
+   id="title855">serene-p-black</title><metadata
    id="metadata21"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Usage mode Serene+6_fond noir</dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>serene-p-black</dc:title></cc:Work></rdf:RDF></metadata><defs
    id="defs19"><linearGradient
      id="swatch1"
      inkscape:swatch="solid"><stop
@@ -91,9 +91,9 @@
    showgrid="false"
    inkscape:zoom="0.92187498"
    inkscape:cx="309.69492"
-   inkscape:cy="350.91526"
+   inkscape:cy="264.1356"
    inkscape:window-x="2869"
-   inkscape:window-y="139"
+   inkscape:window-y="759"
    inkscape:window-maximized="1"
    inkscape:current-layer="g8"
    inkscape:showpageshadow="2"

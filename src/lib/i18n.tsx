@@ -64,7 +64,7 @@ const TRANSLATIONS: Record<LangCode, Dict> = {
     "about.title": "À propos",
     "about.lead": "<strong>Modes d'usages</strong> est un catalogue de règles illustrées d'accessibilité ergonomique destiné aux conceptrices et concepteurs d'interfaces numériques.",
     "about.h2.why": "Pourquoi des modes d'usages ?",
-    "about.why": "Chaque mode représente une manière spécifique d'utiliser une interface — par la voix, par la vue, en simplifiant, en réduisant l'effort moteur, etc. Les règles sont organisées en trois familles : <strong>Perception</strong>, <strong>Compréhension</strong> et <strong>Commandes</strong>.",
+    "about.why": "Chaque mode représente une manière spécifique d'utiliser une interface — par la voix, par la vue, en simplifiant, en réduisant l'effort moteur, etc. Les règles sont organisées en trois familles : <strong>Perception</strong>, <strong>Compréhension</strong> et <strong>Commandes</strong>.",
     "about.whyModes": "Les modes d’usages ne sont pas des profils utilisateurs, ce sont des façons d’utiliser les interfaces. Ainsi, par exemple, le mode Vocal+ est optimisé pour l’interaction vocale sans contrôle visuel, ce qui convient aussi bien aux personnes non-voyantes qu’aux conducteurs de véhicules.",
     "about.settings": "Les modes d’usages sont un ensemble de réglages pré-établis qui doivent cependant rester personnalisables, chaque utilisateur ayant des besoins différents.",
     "about.h2.wcag": "Conformité WCAG 2.2",

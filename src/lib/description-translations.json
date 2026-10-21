@@ -791,7 +791,7 @@
   "ko": "신기술에 익숙하지 않고, 음성이나 터치 인터페이스에 능숙하지 않은 사람들, 초보자, 고령자처럼 여러 제약(시각, 청각, 조작, 이해, 기억)을 겪는 사람들. 새로운 상황, 무관심, 조바심 또한 이러한 어려움을 유발할 수 있습니다.",
   "zh": "不熟悉新技术、不掌握语音或触摸界面的人群、新手，以及面临多重限制（视觉、听觉、操作、理解、记忆）的人群，例如老年人。新情境、缺乏兴趣和缺乏耐心也可能导致这些困难。"
  },
- "Peut effectuer deux ou trois actions, pas plus : Suivant/Précédent/Valider/Retour/Prise d'info.": {
+ "Peut effectuer deux ou trois actions, pas plus : Suivant/Précédent/Valider/Retour/Prise d'info.": {
   "en": "Can perform two or three actions, no more: Next/Previous/Validate/Back/Information intake.",
   "es": "Puede realizar dos o tres acciones, no más: Siguiente/Anterior/Validar/Volver/Obtener información.",
   "de": "Kann zwei oder drei Aktionen ausführen, nicht mehr: Weiter/Zurück/Bestätigen/Home/Informationsaufnahme.",
@@ -887,7 +887,7 @@
   "ko": "집중력을 안정시키는 데 도움이 필요합니다.",
   "zh": "需要帮助稳定注意力。"
  },
- "A besoin d’une interface simple avec peu d’éléments distracteurs (ex : clignotement, animation), la plus épurée possible.": {
+ "A besoin d’une interface simple avec peu d’éléments distracteurs (ex : clignotement, animation), la plus épurée possible.": {
   "en": "Needs a simple interface with few distracting elements (e.g., blinking, animation), as clean as possible.",
   "es": "Necesita una interfaz simple con pocos elementos distractores (ej: parpadeo, animación), lo más depurada posible.",
   "de": "Benötigt eine einfache Benutzeroberfläche mit wenigen ablenkenden Elementen (z. B. Blinken, Animation), so übersichtlich wie möglich.",
@@ -899,7 +899,7 @@
   "ko": "깜빡임, 애니메이션 등 산만한 요소가 거의 없는 가능한 한 가장 단순하고 깔끔한 인터페이스가 필요합니다.",
   "zh": "需要一个简单的界面，少有分散注意力的元素（例如：闪烁、动画），尽可能简洁。"
  },
- "A besoin d’une interaction sans déclencheur de stress, ni perturbateur dans la navigation (ex : compteurs, images et textes défilants, notifications…).": {
+ "A besoin d’une interaction sans déclencheur de stress, ni perturbateur dans la navigation (ex : compteurs, images et textes défilants, notifications…).": {
   "en": "Needs an interaction without stress triggers or navigation disruptions (e.g., counters, scrolling images and text, notifications…).",
   "es": "Necesita una interacción sin desencadenantes de estrés ni elementos perturbadores en la navegación (ej: contadores, imágenes y textos deslizantes, notificaciones…).",
   "de": "Benötigt eine Interaktion ohne Stressauslöser oder Navigationsstörungen (z. B. Zähler, scrollende Bilder und Texte, Benachrichtigungen…).",
@@ -911,7 +911,7 @@
   "ko": "스트레스 유발 요인이나 탐색 방해 요소(예: 카운터, 스크롤되는 이미지 및 텍스트, 알림 등)가 없는 상호 작용이 필요합니다.",
   "zh": "需要一种没有压力触发因素或导航干扰（例如：计数器、滚动图像和文本、通知等）的交互方式。"
  },
- "A besoin d’accompagnement progressif aux changements de l’interface du service (ex : en cas de mise à jour logicielle).": {
+ "A besoin d’accompagnement progressif aux changements de l’interface du service (ex : en cas de mise à jour logicielle).": {
   "en": "Needs progressive support for changes to the service interface (e.g., in case of a software update).",
   "es": "Necesita un acompañamiento progresivo para los cambios en la interfaz del servicio (ej: en caso de actualización de software).",
   "de": "Benötigt progressive Unterstützung bei Änderungen an der Dienstschnittstelle (z. B. bei Software-Updates).",

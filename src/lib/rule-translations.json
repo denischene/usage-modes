@@ -131,7 +131,7 @@
     "zh": "这种使用模式不需要特定的理解规则。",
     "pt": "Nenhuma regra específica de compreensão é necessária para este modo de uso."
   },
-  "Commande tactile : le doigt peut rester posé longtemps sur l’écran sans déclencher d’action involontaire.": {
+  "Commande tactile : le doigt peut rester posé longtemps sur l’écran sans déclencher d’action involontaire.": {
     "en": "Touch control: the finger can remain placed on the screen for a long time without triggering any involuntary action.",
     "es": "Control táctil: el dedo puede permanecer colocado en la pantalla durante mucho tiempo sin desencadenar ninguna acción involuntaria.",
     "de": "Touch-Steuerung: Der Finger kann längere Zeit auf dem Bildschirm bleiben, ohne dass eine unfreiwillige Aktion ausgelöst wird.",
@@ -143,7 +143,7 @@
     "zh": "触摸控制：手指可以长时间停留在屏幕上，而不会触发任何不自觉的动作。",
     "pt": "Controle de toque: o dedo pode permanecer na tela por muito tempo sem desencadear nenhuma ação involuntária."
   },
-  "Commande tactile continue : le doigt peut rester posé longtemps sur l'écran.": {
+  "Commande tactile continue : le doigt peut rester posé longtemps sur l'écran.": {
     "en": "Continuous touch control: the finger can remain on the screen for a long time.",
     "es": "Control táctil continuo: el dedo puede permanecer en la pantalla durante mucho tiempo.",
     "de": "Kontinuierliche Touch-Steuerung: Der Finger kann lange auf dem Bildschirm bleiben.",
@@ -155,7 +155,7 @@
     "zh": "连续触控：手指可长时间停留在屏幕上。",
     "pt": "Controle de toque contínuo: o dedo pode permanecer na tela por muito tempo."
   },
-  "Commande tactile sécurisée : l'utilisateur doit pouvoir interroger les commandes avant de les valider.": {
+  "Commande tactile sécurisée : l'utilisateur doit pouvoir interroger les commandes avant de les valider.": {
     "en": "Secure touch control: the user must be able to query commands before validating them.",
     "es": "Control táctil seguro: el usuario debe poder consultar comandos antes de validarlos.",
     "de": "Sichere Touch-Steuerung: Der Benutzer muss in der Lage sein, Befehle abzufragen, bevor er sie validiert.",
@@ -167,7 +167,7 @@
     "zh": "安全触摸控制：用户必须能够在验证命令之前查询命令。",
     "pt": "Controle de toque seguro: o usuário deve ser capaz de consultar comandos antes de validá-los."
   },
-  "Commande tactile sécurisée : l’utilisateur doit pouvoir interroger les commandes avant de les valider.": {
+  "Commande tactile sécurisée : l’utilisateur doit pouvoir interroger les commandes avant de les valider.": {
     "en": "Secure touch control: the user must be able to query the commands before validating them.",
     "es": "Control táctil seguro: el usuario debe poder consultar los comandos antes de validarlos.",
     "de": "Sichere Touch-Steuerung: Der Benutzer muss in der Lage sein, die Befehle abzufragen, bevor er sie validiert.",
@@ -179,7 +179,7 @@
     "zh": "安全触摸控制：用户必须能够在验证命令之前查询命令。",
     "pt": "Controle de toque seguro: o usuário deve ser capaz de consultar os comandos antes de validá-los."
   },
-  "Commande vocale sécurisée : l'utilisateur doit pouvoir interroger les commandes avant de les valider.": {
+  "Commande vocale sécurisée : l'utilisateur doit pouvoir interroger les commandes avant de les valider.": {
     "en": "Secure voice command: the user must be able to query commands before validating them.",
     "es": "Comando de voz seguro: el usuario debe poder consultar comandos antes de validarlos.",
     "de": "Sicherer Sprachbefehl: Der Benutzer muss in der Lage sein, Befehle abzufragen, bevor er sie validiert.",
@@ -863,7 +863,7 @@
     "zh": "页面帮助显示页面标题、内容和/或可用命令。",
     "pt": "A ajuda da página apresenta o título da página, conteúdo e/ou comandos disponíveis."
   },
-  "L’aide pour novice doit vocaliser :  [1] Le nom de la page, [2] la synthèse de la page, [3] les commandes génériques de manipulation, [4] les informations relatives à l’élément sélectionné.": {
+  "L’aide pour novice doit vocaliser :  [1] Le nom de la page, [2] la synthèse de la page, [3] les commandes génériques de manipulation, [4] les informations relatives à l’élément sélectionné.": {
     "en": "The help for novices must vocalize: [1] The name of the page, [2] the summary of the page, [3] the generic manipulation commands, [4] the information relating to the selected element.",
     "es": "La ayuda para principiantes debe vocalizar: [1] el nombre de la página, [2] el resumen de la página, [3] los comandos de manipulación genéricos, [4] la información relativa al elemento seleccionado.",
     "de": "Die Hilfe für Anfänger muss lauten: [1] den Namen der Seite, [2] die Zusammenfassung der Seite, [3] die allgemeinen Manipulationsbefehle, [4] die Informationen zum ausgewählten Element.",
@@ -923,7 +923,7 @@
     "zh": "优化指针可见性。",
     "pt": "Otimize a visibilidade do ponteiro."
   },
-  "Pas d'image seule ni de texte seul : toujours associer l'un avec l'autre.": {
+  "Pas d'image seule ni de texte seul : toujours associer l'un avec l'autre.": {
     "en": "No single image or single text: always associate one with the other.",
     "es": "Nada de una sola imagen o un solo texto: asocia siempre una con la otra.",
     "de": "Kein einzelnes Bild oder einzelner Text: Verknüpfen Sie immer das eine mit dem anderen.",
@@ -1067,7 +1067,7 @@
     "zh": "允许手动滚动焦点（触摸中“Tap”，键盘上“Tab”）并通过第二个命令进行验证（触摸中“长按”，键盘上“Enter”）。",
     "pt": "Permitir rolagem manual do foco (“Tap” no toque, “Tab” no teclado) e validação por um segundo comando (“Pressão longa” no toque, “Enter” no teclado)."
   },
-  "Permettre le pointage direct : l'élément cliqué est sous le doigt (commandes tactiles colocalisées).": {
+  "Permettre le pointage direct : l'élément cliqué est sous le doigt (commandes tactiles colocalisées).": {
     "en": "Allow direct pointing: the clicked element is under the finger (collocated touch controls).",
     "es": "Permitir señalar directamente: el elemento en el que se hace clic está debajo del dedo (controles táctiles colocados).",
     "de": "Direktes Zeigen zulassen: Das angeklickte Element befindet sich unter dem Finger (zusammengefasste Touch-Steuerelemente).",
@@ -1079,7 +1079,7 @@
     "zh": "允许直接指向：单击的元素位于手指下方（并置的触摸控件）。",
     "pt": "Permitir apontar direto: o elemento clicado fica sob o dedo (controles de toque colocados)."
   },
-  "Permettre le pointage directe : l'élément cliqué est sous le doigt (commandes tactiles colocalisées).": {
+  "Permettre le pointage directe : l'élément cliqué est sous le doigt (commandes tactiles colocalisées).": {
     "en": "Allow direct pointing: the clicked element is under the finger (co-located touch controls).",
     "es": "Permitir señalar directamente: el elemento en el que se hace clic está debajo del dedo (controles táctiles ubicados conjuntamente).",
     "de": "Direktes Zeigen zulassen: Das angeklickte Element befindet sich unter dem Finger (zusammen angeordnete Touch-Steuerelemente).",
@@ -1175,7 +1175,7 @@
     "zh": "应提供多层次的便利。",
     "pt": "Vários níveis de facilitação devem estar disponíveis."
   },
-  "Pour informer l'utilisateur que d'autres éléments sont disponibles même s'ils ne sont pas affichés à l'écran : rendre le dernier élément de la page à moitié visible et mettre un ascenseur incitant à visualiser le reste de la page.": {
+  "Pour informer l'utilisateur que d'autres éléments sont disponibles même s'ils ne sont pas affichés à l'écran : rendre le dernier élément de la page à moitié visible et mettre un ascenseur incitant à visualiser le reste de la page.": {
     "en": "To inform the user that other elements are available even if they are not displayed on the screen: make the last element of the page half visible and put a scrollbar encouraging them to view the rest of the page.",
     "es": "Para informar al usuario que hay otros elementos disponibles incluso si no se muestran en la pantalla: haga que el último elemento de la página sea medio visible y coloque una barra de desplazamiento que lo anime a ver el resto de la página.",
     "de": "Um den Benutzer darüber zu informieren, dass andere Elemente verfügbar sind, auch wenn sie nicht auf dem Bildschirm angezeigt werden: Machen Sie das letzte Element der Seite zur Hälfte sichtbar und fügen Sie eine Bildlaufleiste ein, die ihn dazu ermutigt, den Rest der Seite anzuzeigen.",
@@ -1199,7 +1199,7 @@
     "zh": "要输入信息，用户必须在顺序导航键盘或语音命令之间进行选择。",
     "pt": "Para inserir informações, o usuário deve poder escolher entre um teclado de navegação sequencial ou um comando de voz."
   },
-  "Pour la saisie d'informations, l'utilisateur doit avoir le choix entre : la saisie par clavier, par pictogrammes ou par commande vocale.": {
+  "Pour la saisie d'informations, l'utilisateur doit avoir le choix entre : la saisie par clavier, par pictogrammes ou par commande vocale.": {
     "en": "For entering information, the user must have the choice between: entry by keyboard, by pictograms or by voice command.",
     "es": "Para ingresar información, el usuario debe poder elegir entre: ingreso por teclado, por pictogramas o por comando de voz.",
     "de": "Für die Eingabe von Informationen muss der Benutzer die Wahl haben zwischen: Eingabe per Tastatur, per Piktogramm oder per Sprachbefehl.",
@@ -1547,7 +1547,7 @@
     "zh": "建议对所有类型的行动项目和信息进行发声。",
     "pt": "Sugira vocalização para todos os tipos de itens de ação e informações."
   },
-  "Proposer, en plus du zoom qui réorganise en vertical les éléments, un agrandisseur : forte loupe sur tout l'écran avec navigation par pointage souris/doigt ou clavier (flèches).": {
+  "Proposer, en plus du zoom qui réorganise en vertical les éléments, un agrandisseur : forte loupe sur tout l'écran avec navigation par pointage souris/doigt ou clavier (flèches).": {
     "en": "Offer, in addition to the zoom which reorganizes the elements vertically, an enlarger: strong magnifying glass over the entire screen with navigation by mouse/finger pointing or keyboard (arrows).",
     "es": "Ofrece, además del zoom que reorganiza los elementos verticalmente, una ampliadora: potente lupa sobre toda la pantalla con navegación mediante el ratón/señalando con el dedo o el teclado (flechas).",
     "de": "Bieten Sie zusätzlich zum Zoom, der die Elemente vertikal neu anordnet, einen Vergrößerer an: starke Lupe über den gesamten Bildschirm mit Navigation per Maus/Fingerzeig oder Tastatur (Pfeile).",
@@ -1727,7 +1727,7 @@
     "zh": "确保整个屏幕充当一个大按钮（触发页面上的焦点元素）。",
     "pt": "Certifique-se de que toda a tela funcione como um grande botão (que aciona o elemento em foco na página)."
   },
-  "Séquentialiser l’interaction : décomposer la tâche principale en sous-tâches progressives.": {
+  "Séquentialiser l’interaction : décomposer la tâche principale en sous-tâches progressives.": {
     "en": "Sequentialize the interaction: break down the main task into progressive subtasks.",
     "es": "Secuencializar la interacción: dividir la tarea principal en subtareas progresivas.",
     "de": "Sequenzialisieren Sie die Interaktion: Teilen Sie die Hauptaufgabe in progressive Unteraufgaben auf.",
@@ -1739,7 +1739,7 @@
     "zh": "交互顺序化：将主要任务分解为渐进的子任务。",
     "pt": "Sequencialize a interação: divida a tarefa principal em subtarefas progressivas."
   },
-  "Tactile décolocalisé : les gestes de commandes (navigation haut/bas, validation, information) peuvent se faire n'importe où sur l'écran : l'action se passe au niveau du focus et non pas là où l'on pointe.": {
+  "Tactile décolocalisé : les gestes de commandes (navigation haut/bas, validation, information) peuvent se faire n'importe où sur l'écran : l'action se passe au niveau du focus et non pas là où l'on pointe.": {
     "en": "Delocalized touch: control gestures (up/down navigation, validation, information) can be done anywhere on the screen: the action happens at the focus level and not where you point.",
     "es": "Toque deslocalizado: los gestos de control (navegación arriba/abajo, validación, información) se pueden realizar en cualquier lugar de la pantalla: la acción ocurre en el nivel de enfoque y no donde apuntas.",
     "de": "Delokalisierte Berührung: Steuergesten (Auf-/Ab-Navigation, Validierung, Informationen) können überall auf dem Bildschirm ausgeführt werden: Die Aktion findet auf der Fokusebene statt und nicht auf die Stelle, auf die Sie zeigen.",
@@ -1751,7 +1751,7 @@
     "zh": "离域触摸：控制手势（向上/向下导航、验证、信息）可以在屏幕上的任何位置完成：操作发生在焦点级别，而不是您指向的位置。",
     "pt": "Toque deslocalizado: gestos de controle (navegação para cima/para baixo, validação, informação) podem ser feitos em qualquer lugar da tela: a ação acontece no nível do foco e não para onde você aponta."
   },
-  "Tactile décolocalisé : les gestes de commandes (navigation haut/bas, validation, information) peuvent se faire n’importe où sur l’écran : l’action se passe au niveau du focus et non pas là où l’on pointe.": {
+  "Tactile décolocalisé : les gestes de commandes (navigation haut/bas, validation, information) peuvent se faire n’importe où sur l’écran : l’action se passe au niveau du focus et non pas là où l’on pointe.": {
     "en": "Delocalized touch: control gestures (up/down navigation, validation, information) can be done anywhere on the screen: the action happens at the focus level and not where you point.",
     "es": "Toque deslocalizado: los gestos de control (navegación arriba/abajo, validación, información) se pueden realizar en cualquier lugar de la pantalla: la acción ocurre en el nivel de enfoque y no donde apuntas.",
     "de": "Delokalisierte Berührung: Steuergesten (Auf-/Ab-Navigation, Validierung, Informationen) können überall auf dem Bildschirm ausgeführt werden: Die Aktion findet auf der Fokusebene statt und nicht auf die Stelle, auf die Sie zeigen.",
@@ -1811,7 +1811,7 @@
     "zh": "将界面转换为图像。",
     "pt": "Traduza a interface em imagens."
   },
-  "Un geste de manipulation continue (par ex. : permettant d’aller 2 éléments plus loin) doit avoir son équivalent en 2 actions séquentielles (par ex. : suivant, suivant).": {
+  "Un geste de manipulation continue (par ex. : permettant d’aller 2 éléments plus loin) doit avoir son équivalent en 2 actions séquentielles (par ex. : suivant, suivant).": {
     "en": "A continuous manipulation gesture (e.g.: allowing you to go 2 elements further) must have its equivalent in 2 sequential actions (e.g.: next, next).",
     "es": "Un gesto de manipulación continua (ej.: permitir avanzar 2 elementos más) debe tener su equivalente en 2 acciones secuenciales (ej.: siguiente, siguiente).",
     "de": "Eine kontinuierliche Manipulationsgeste (z. B.: Ermöglichen, zwei Elemente weiter zu gehen) muss ihr Äquivalent in zwei aufeinanderfolgenden Aktionen haben (z. B.: Weiter, Weiter).",
@@ -2003,7 +2003,7 @@
     "zh": "发送有关所执行的重要操作的视觉反馈（隐形消息）。",
     "pt": "Envie feedback visual (mensagem furtiva) sobre ações importantes realizadas."
   },
-  "Éviter les actions répétées involontaires : laisser son doigt sur l'écran ou sur le clavier ne doit pas déclencher d'actions répétées.": {
+  "Éviter les actions répétées involontaires : laisser son doigt sur l'écran ou sur le clavier ne doit pas déclencher d'actions répétées.": {
     "en": "Avoid involuntary repeated actions: leaving your finger on the screen or keyboard should not trigger repeated actions.",
     "es": "Evite acciones repetidas involuntarias: dejar el dedo en la pantalla o el teclado no debería desencadenar acciones repetidas.",
     "de": "Vermeiden Sie unfreiwillig wiederholte Aktionen: Wenn Sie Ihren Finger auf dem Bildschirm oder der Tastatur belassen, sollten keine wiederholten Aktionen ausgelöst werden.",
@@ -2039,7 +2039,7 @@
     "zh": "避免系统状态发生太突然的变化，最好采用交叉淡入淡出。",
     "pt": "Evite mudanças muito bruscas nos estados do sistema, prefira crossfades."
   },
-  "Éviter les combinaisons simultanées de touches : permettre les touches rémanentes.": {
+  "Éviter les combinaisons simultanées de touches : permettre les touches rémanentes.": {
     "en": "Avoid simultaneous key combinations: allow sticky keys.",
     "es": "Evite combinaciones de teclas simultáneas: permita teclas adhesivas.",
     "de": "Vermeiden Sie gleichzeitige Tastenkombinationen: Erlauben Sie klebrige Tasten.",
@@ -2207,7 +2207,7 @@
     "ko": "볼륨 증폭을 허용하는 기능을 명확하게 강조 표시하십시오.",
     "zh": "明确突出显示允许音量放大的功能。"
   },
-  "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.": {
+  "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné / Valider l'élément / Retourner en arrière.": {
     "en": "Offer 5 navigation commands to do everything: Next-Previous / Query selected item / Validate item / Go back.",
     "es": "Ofrecer 5 comandos de navegación para hacerlo todo: Siguiente-Anterior / Consultar elemento seleccionado / Validar elemento / Volver atrás.",
     "de": "Bieten Sie 5 Navigationsbefehle an, um alles zu tun: Weiter-Zurück / Ausgewähltes Element abfragen / Element bestätigen / Zurück.",
@@ -2219,7 +2219,7 @@
     "ko": "모든 작업을 수행할 수 있는 5가지 탐색 명령을 제공합니다: 다음-이전 / 선택한 항목 쿼리 / 항목 확인 / 뒤로 가기.",
     "zh": "提供5个导航命令来完成所有操作：下一页-上一页/查询选定项/验证项/返回。"
   },
-  "Augmenter les éléments sonores par une équivalence visuelle : créer des animations visuelles pour les retours d'actions.": {
+  "Augmenter les éléments sonores par une équivalence visuelle : créer des animations visuelles pour les retours d'actions.": {
     "en": "Augment sound elements with visual equivalents: create visual animations for action feedback.",
     "es": "Aumentar los elementos sonoros con una equivalencia visual: crear animaciones visuales para la retroalimentación de acciones.",
     "de": "Audioelemente durch visuelle Äquivalente ergänzen: Visuelle Animationen für Aktions-Feedback erstellen.",
@@ -2255,7 +2255,7 @@
     "ko": "사용자 작업이 수행될 때 햅틱 피드백(진동)을 제공합니다.",
     "zh": "在执行用户操作时发出触觉反馈（振动）。"
   },
-  "Intégrer systématiquement un vue-mètre : pour savoir qui parle lors d'une situation de télécommunication et pour un retour sur sa propre voix lors d'une commande vocale.": {
+  "Intégrer systématiquement un vue-mètre : pour savoir qui parle lors d'une situation de télécommunication et pour un retour sur sa propre voix lors d'une commande vocale.": {
     "en": "Systematically integrate a VU meter: to know who is speaking during a telecommunication situation and for feedback on one's own voice during a voice command.",
     "es": "Integrar sistemáticamente un vúmetro: para saber quién habla en una situación de telecomunicación y para obtener retroalimentación sobre la propia voz durante un comando de voz.",
     "de": "Systematisch ein VU-Meter integrieren: um zu wissen, wer während einer Telekommunikationssituation spricht, und um Feedback zur eigenen Stimme während eines Sprachbefehls zu erhalten.",
@@ -2375,7 +2375,7 @@
     "ko": "객체 너머에 포인팅 영역을 표시합니다.",
     "zh": "在对象之外显示指向区域。"
   },
-  "Proposer une alternative au tirer-déposer : décomposer l'action en 4 temps.": {
+  "Proposer une alternative au tirer-déposer : décomposer l'action en 4 temps.": {
     "en": "Propose an alternative to drag-and-drop: break down the action into 4 steps.",
     "es": "Proponer una alternativa al arrastrar y soltar: descomponer la acción en 4 tiempos.",
     "de": "Eine Alternative zum Ziehen und Ablegen vorschlagen: die Aktion in 4 Schritte unterteilen.",
@@ -2411,7 +2411,7 @@
     "ko": "화면에서 손가락이 미끄러지는 것을 허용하여 포인팅을 안전하게 합니다.",
     "zh": "通过允许手指在屏幕上滑动来确保指向的安全性。"
   },
-  "Éviter les actions répétées involontaires : laisser son doigt sur l'écran ne doit pas déclencher d'actions répétées.": {
+  "Éviter les actions répétées involontaires : laisser son doigt sur l'écran ne doit pas déclencher d'actions répétées.": {
     "en": "Avoid involuntary repeated actions: leaving your finger on the screen should not trigger repeated actions.",
     "es": "Evitar acciones repetidas involuntarias: dejar el dedo en la pantalla no debe activar acciones repetidas.",
     "de": "Unbeabsichtigte wiederholte Aktionen vermeiden: Das Belassen des Fingers auf dem Bildschirm sollte keine wiederholten Aktionen auslösen.",
@@ -2459,7 +2459,7 @@
     "ko": "포인팅은 공동 배치됩니다 (포커스는 가리킨 위치로 이동합니다).",
     "zh": "指向是同位放置的（焦点移动到指向的位置）。"
   },
-  "La sélection d'un élément peut se faire de deux façons : soit en glissant son doigt sur l'écran par décolocalisation (le focus déplacé n'est pas forcément sous le doigt), soit en pointant directement l'élément avec un tap par colocalisation (le focus se déplace sous le doigt).": {
+  "La sélection d'un élément peut se faire de deux façons : soit en glissant son doigt sur l'écran par décolocalisation (le focus déplacé n'est pas forcément sous le doigt), soit en pointant directement l'élément avec un tap par colocalisation (le focus se déplace sous le doigt).": {
     "en": "An element can be selected in two ways: either by sliding your finger across the screen by de-collocation (the moved focus is not necessarily under the finger), or by pointing directly at the element with a tap by co-location (the focus moves under the finger).",
     "es": "La selección de un elemento se puede realizar de dos maneras: deslizando el dedo por la pantalla por deslocalización (el foco desplazado no está necesariamente debajo del dedo), o apuntando directamente al elemento con un toque por colocalización (el foco se mueve debajo del dedo).",
     "de": "Die Auswahl eines Elements kann auf zwei Arten erfolgen: entweder durch Verschieben des Fingers über den Bildschirm durch Dekolokalisation (der verschobene Fokus ist nicht unbedingt unter dem Finger), oder durch direktes Zeigen auf das Element mit einem Tippen durch Kolokalisation (der Fokus bewegt sich unter den Finger).",
@@ -2675,7 +2675,7 @@
     "ko": "복잡한 용어에 대해 수어 툴팁을 제공합니다.",
     "zh": "为复杂术语提供手语工具提示。"
   },
-  "Mettre à disposition deux modes linguistiques : l’un bilingue (texte et langue des signes) et l’autre uniquement langue des signes.": {
+  "Mettre à disposition deux modes linguistiques : l’un bilingue (texte et langue des signes) et l’autre uniquement langue des signes.": {
     "en": "Provide two linguistic modes: one bilingual (text and sign language) and the other sign language only.",
     "es": "Poner a disposición dos modos lingüísticos: uno bilingüe (texto y lengua de signos) y el otro solo en lengua de signos.",
     "de": "Zwei Sprachmodi zur Verfügung stellen: einen zweisprachigen (Text und Gebärdensprache) und den anderen ausschließlich in Gebärdensprache.",
@@ -2687,7 +2687,7 @@
     "ko": "두 가지 언어 모드를 제공합니다: 하나는 이중 언어(텍스트 및 수어), 다른 하나는 수어 전용.",
     "zh": "提供两种语言模式：一种是双语（文本和手语），另一种是纯手语。"
   },
-  "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné en langue des signes / Valider l'élément / Retourner en arrière.": {
+  "Proposer 5 commandes de navigation pour tout faire : Suivant-Précédent / Interroger l'élément sélectionné en langue des signes / Valider l'élément / Retourner en arrière.": {
     "en": "Offer 5 navigation commands to do everything: Next-Previous / Query the selected item in sign language / Validate the item / Go back.",
     "es": "Proponer 5 comandos de navegación para hacer todo: Siguiente-Anterior / Consultar el elemento seleccionado en lengua de signos / Validar el elemento / Volver atrás.",
     "de": "5 Navigationsbefehle für alles anbieten: Weiter-Zurück / Ausgewähltes Element in Gebärdensprache abfragen / Element bestätigen / Zurückgehen.",

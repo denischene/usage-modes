@@ -27,13 +27,13 @@ function NotFoundComponent() {
   );
 }
 
-function ErrorComponent({ error, reset }: { error: Error; reset: () => void }) {
+function ErrorComponent({ error, reset }: { error: unknown; reset: () => void }) {
   const router = useRouter();
   return (
     <div className="flex min-h-dvh items-center justify-center px-4">
       <div className="max-w-md text-center">
         <h1 className="text-2xl font-bold">Une erreur est survenue</h1>
-        <p className="mt-2 text-muted-foreground">{error.message}</p>
+        <p className="mt-2 text-muted-foreground">{error instanceof Error ? error.message : String(error)}</p>
         <button
           onClick={() => { router.invalidate(); reset(); }}
           className="mt-6 bg-primary px-4 py-2 font-bold text-primary-foreground"
@@ -51,13 +51,13 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { title: "Modes d'usages — Règles illustrées d'accessibilité ergonomique" },
-      { name: "description", content: "Catalogue illustré des règles d'accessibilité ergonomique organisées par modes d'usages : Facile+, Vision+, Audio+, LSF+, Moteur+ et plus." },
+      { name: "description", content: "Catalogue illustré des règles d'accessibilité ergonomique organisées par modes d'usages : Facile+, Vision+, Audio+, LSF+, Moteur+ et plus." },
       { name: "author", content: "Orange" },
       { property: "og:title", content: "Modes d'usages — Règles illustrées d'accessibilité ergonomique" },
-      { property: "og:description", content: "Catalogue illustré des règles d'accessibilité ergonomique organisées par modes d'usages : Facile+, Vision+, Audio+, LSF+, Moteur+ et plus." },
+      { property: "og:description", content: "Catalogue illustré des règles d'accessibilité ergonomique organisées par modes d'usages : Facile+, Vision+, Audio+, LSF+, Moteur+ et plus." },
       { property: "og:type", content: "website" },
       { name: "twitter:title", content: "Modes d'usages — Règles illustrées d'accessibilité ergonomique" },
-      { name: "twitter:description", content: "Catalogue illustré des règles d'accessibilité ergonomique organisées par modes d'usages : Facile+, Vision+, Audio+, LSF+, Moteur+ et plus." },
+      { name: "twitter:description", content: "Catalogue illustré des règles d'accessibilité ergonomique organisées par modes d'usages : Facile+, Vision+, Audio+, LSF+, Moteur+ et plus." },
       { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4af37686-bcf3-4790-9aa3-7735a7a6e694/id-preview-333e4993--00271e2f-c13e-4017-9cd2-19ef010a6a57.lovable.app-1779347139411.png" },
       { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/4af37686-bcf3-4790-9aa3-7735a7a6e694/id-preview-333e4993--00271e2f-c13e-4017-9cd2-19ef010a6a57.lovable.app-1779347139411.png" },
       { name: "twitter:card", content: "summary_large_image" },

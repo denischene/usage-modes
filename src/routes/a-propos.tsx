@@ -5,9 +5,9 @@ export const Route = createFileRoute("/a-propos")({
   head: () => ({
     meta: [
       { title: "À propos — Modes d'usages d'accessibilité" },
-      { name: "description", content: "À propos du projet Modes d'usages : objectif, méthode et conformité WCAG 2.2." },
+      { name: "description", content: "À propos du projet Modes d'usages : objectif, méthode et conformité WCAG 2.2." },
       { property: "og:title", content: "À propos — Modes d'usages d'accessibilité" },
-      { property: "og:description", content: "À propos du projet Modes d'usages : objectif, méthode et conformité WCAG 2.2." },
+      { property: "og:description", content: "À propos du projet Modes d'usages : objectif, méthode et conformité WCAG 2.2." },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
     ],

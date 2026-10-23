@@ -4,6 +4,7 @@ import { RuleImage } from "@/components/RuleImage";
 import { useI18n } from "@/lib/i18n";
 import ruleTranslations from "@/lib/rule-translations.json";
 import descriptionTranslations from "@/lib/description-translations.json";
+import { shareImageMeta } from "@/lib/share-image";
 
 function translateRule(text: string | undefined, lang: string): string | undefined {
   if (!text) return text;
@@ -29,7 +30,8 @@ export const Route = createFileRoute("/modes/$mode")({
         { property: "og:title", content: `${label} — Modes d'usages` },
         { property: "og:description", content: `Règles illustrées d'accessibilité pour le mode ${label}. Perception, Compréhension, Commandes.` },
         { property: "og:type", content: "website" },
-        { name: "twitter:card", content: "summary" },
+        ...shareImageMeta,
+        { name: "twitter:card", content: "summary_large_image" },
       ],
     };
   },

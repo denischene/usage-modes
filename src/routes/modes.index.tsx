@@ -2,6 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { modes } from "@/lib/modes";
 import { ModePicto } from "@/components/ModePicto";
 import { useI18n, THtml } from "@/lib/i18n";
+import { shareImageMeta } from "@/lib/share-image";
 
 export const Route = createFileRoute("/modes/")({
   head: () => ({
@@ -11,7 +12,8 @@ export const Route = createFileRoute("/modes/")({
       { property: "og:title", content: "Tous les modes d'usages — Catalogue" },
       { property: "og:description", content: "Catalogue complet des 15 modes d'usages d'accessibilité ergonomique." },
       { property: "og:type", content: "website" },
-      { name: "twitter:card", content: "summary" },
+      ...shareImageMeta,
+      { name: "twitter:card", content: "summary_large_image" },
     ],
   }),
   component: ModesIndex,

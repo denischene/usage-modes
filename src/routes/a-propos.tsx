@@ -1,5 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { useI18n, THtml } from "@/lib/i18n";
+import { shareImageMeta } from "@/lib/share-image";
 
 export const Route = createFileRoute("/a-propos")({
   head: () => ({
@@ -9,7 +10,8 @@ export const Route = createFileRoute("/a-propos")({
       { property: "og:title", content: "À propos — Modes d'usages d'accessibilité" },
       { property: "og:description", content: "À propos du projet Modes d'usages : objectif, méthode et conformité WCAG 2.2." },
       { property: "og:type", content: "website" },
-      { name: "twitter:card", content: "summary" },
+      ...shareImageMeta,
+      { name: "twitter:card", content: "summary_large_image" },
     ],
   }),
   component: AboutPage,

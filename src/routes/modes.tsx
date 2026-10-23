@@ -1,5 +1,6 @@
 import { createFileRoute, Link, Outlet } from "@tanstack/react-router";
 import { modes, MODE_DESCRIPTIONS } from "@/lib/modes";
+import { shareImageMeta } from "@/lib/share-image";
 
 export const Route = createFileRoute("/modes")({
   head: () => ({
@@ -9,7 +10,8 @@ export const Route = createFileRoute("/modes")({
       { property: "og:title", content: "Tous les modes d'usages — Accessibilité ergonomique" },
       { property: "og:description", content: "Découvrez les 15 modes d'usages et leurs règles illustrées d'accessibilité ergonomique." },
       { property: "og:type", content: "website" },
-      { name: "twitter:card", content: "summary" },
+      ...shareImageMeta,
+      { name: "twitter:card", content: "summary_large_image" },
     ],
   }),
   component: ModesLayout,

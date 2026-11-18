@@ -76,6 +76,9 @@ const TRANSLATIONS: Record<LangCode, Dict> = {
     "about.orange": "Le logo Orange est la propriété d'Orange : Copyright © 2026 Orange SA All rights reserved.",
     "about.iso": "Les pictogrammes des modes d'usages sont référencés dans la norme « ISO/IEC 11581-7:2024 Icônes d'interface utilisateur — Partie 7 : Icônes utilisées pour régler les modes d'interaction ».",
     "about.explore": "Explorer les modes",
+    "about.h2.address": "Adresse du site",
+    "about.address": "Récupérez l’adresse du site sur votre portable en scannant ce QRCode.",
+    "about.qrAlt": "QR Code menant au site des modes d’usages",
   },
   en: {
     "site.title": "Usage modes",
@@ -133,6 +136,9 @@ const TRANSLATIONS: Record<LangCode, Dict> = {
     "about.orange": "The Orange logo is the property of Orange: Copyright © 2026 Orange SA All rights reserved.",
     "about.iso": "The usage mode pictograms are referenced in the standard “ISO/IEC 11581-7:2024 User interface icons — Part 7: Icons used to set interaction modes”.",
     "about.explore": "Explore the modes",
+    "about.h2.address": "Site address",
+    "about.address": "Get the site address on your phone by scanning this QR code.",
+    "about.qrAlt": "QR code leading to the usage modes website",
   },
   es: {
     "site.title": "Modos de uso",
@@ -190,6 +196,9 @@ const TRANSLATIONS: Record<LangCode, Dict> = {
     "about.orange": "El logo Orange es propiedad de Orange: Copyright © 2026 Orange SA All rights reserved.",
     "about.iso": "Los pictogramas de los modos de uso están referenciados en la norma «ISO/IEC 11581-7:2024 Iconos de interfaz de usuario — Parte 7: Iconos usados para ajustar los modos de interacción».",
     "about.explore": "Explorar los modos",
+    "about.h2.address": "Dirección del sitio",
+    "about.address": "Obtenga la dirección del sitio en su móvil escaneando este código QR.",
+    "about.qrAlt": "Código QR que lleva al sitio de los modos de uso",
   },
   de: {
     "site.title": "Nutzungsmodi",
@@ -247,6 +256,9 @@ const TRANSLATIONS: Record<LangCode, Dict> = {
     "about.orange": "Das Orange-Logo ist Eigentum von Orange: Copyright © 2026 Orange SA All rights reserved.",
     "about.iso": "Die Piktogramme der Nutzungsmodi sind in der Norm „ISO/IEC 11581-7:2024 Symbole der Benutzeroberfläche — Teil 7: Symbole zum Einstellen der Interaktionsmodi“ aufgeführt.",
     "about.explore": "Die Modi erkunden",
+    "about.h2.address": "Adresse der Website",
+    "about.address": "Rufen Sie die Adresse der Website auf Ihrem Handy auf, indem Sie diesen QR-Code scannen.",
+    "about.qrAlt": "QR-Code, der zur Website der Nutzungsmodi führt",
   },
   it: {
     "site.title": "Modalità d'uso",
@@ -304,6 +316,9 @@ const TRANSLATIONS: Record<LangCode, Dict> = {
     "about.orange": "Il logo Orange è di proprietà di Orange: Copyright © 2026 Orange SA All rights reserved.",
     "about.iso": "I pittogrammi delle modalità d'uso sono referenziati nella norma «ISO/IEC 11581-7:2024 Icone di interfaccia utente — Parte 7: Icone usate per regolare le modalità di interazione».",
     "about.explore": "Esplora le modalità",
+    "about.h2.address": "Indirizzo del sito",
+    "about.address": "Recuperate l’indirizzo del sito sul telefono scansionando questo codice QR.",
+    "about.qrAlt": "Codice QR che conduce al sito delle modalità d’uso",
   },
   pl: {
     "site.title": "Tryby użycia",
@@ -361,6 +376,9 @@ const TRANSLATIONS: Record<LangCode, Dict> = {
     "about.orange": "Logo Orange jest własnością Orange: Copyright © 2026 Orange SA All rights reserved.",
     "about.iso": "Piktogramy trybów użycia są wymienione w normie „ISO/IEC 11581-7:2024 Ikony interfejsu użytkownika — Część 7: Ikony używane do regulacji trybów interakcji”.",
     "about.explore": "Poznaj tryby",
+    "about.h2.address": "Adres strony",
+    "about.address": "Pobierz adres strony na telefon, skanując ten kod QR.",
+    "about.qrAlt": "Kod QR prowadzący do strony trybów użytkowania",
   },
   ga: {
     "site.title": "Móid úsáide",
@@ -418,6 +436,9 @@ const TRANSLATIONS: Record<LangCode, Dict> = {
     "about.orange": "Is le Orange lógó Orange: Copyright © 2026 Orange SA All rights reserved.",
     "about.iso": "Tá picteagraim na móideanna úsáide luaite sa chaighdeán „ISO/IEC 11581-7:2024 Deilbhíní comhéadain úsáideora — Cuid 7: Deilbhíní a úsáidtear chun móid idirghníomhaíochta a shocrú”.",
     "about.explore": "Déan iniúchadh ar na móid",
+    "about.h2.address": "Seoladh an tsuímh",
+    "about.address": "Faigh seoladh an tsuímh ar do ghuthán trí scanadh a dhéanamh ar an gCód QR seo.",
+    "about.qrAlt": "Cód QR a thugann chuig suíomh na modhanna úsáide",
   },
   "pt-BR": {
     "site.title": "Modos de uso",
@@ -475,6 +496,9 @@ const TRANSLATIONS: Record<LangCode, Dict> = {
     "about.orange": "O logotipo Orange é propriedade da Orange: Copyright © 2026 Orange SA All rights reserved.",
     "about.iso": "Os pictogramas dos modos de uso estão referenciados na norma «ISO/IEC 11581-7:2024 Ícones de interface de usuário — Parte 7: Ícones usados para definir os modos de interação».",
     "about.explore": "Explorar os modos",
+    "about.h2.address": "Endereço do site",
+    "about.address": "Acesse o endereço do site no seu celular escaneando este QR Code.",
+    "about.qrAlt": "QR Code que leva ao site dos modos de uso",
   },
   ja: {
     "site.title": "利用モード",
@@ -532,6 +556,9 @@ const TRANSLATIONS: Record<LangCode, Dict> = {
     "about.orange": "Orange ロゴは Orange の所有物です:Copyright © 2026 Orange SA All rights reserved.",
     "about.iso": "利用モードのピクトグラムは「ISO/IEC 11581-7:2024 ユーザーインターフェースアイコン — 第 7 部:対話モードを設定するために使用されるアイコン」に登録されています。",
     "about.explore": "モードを見る",
+    "about.h2.address": "サイトのアドレス",
+    "about.address": "このQRコードをスキャンして、スマートフォンにサイトのアドレスを取得してください。",
+    "about.qrAlt": "ユースモードのサイトへつながるQRコード",
   },
   ko: {
     "site.title": "사용 모드",
@@ -589,6 +616,9 @@ const TRANSLATIONS: Record<LangCode, Dict> = {
     "about.orange": "Orange 로고는 Orange의 자산입니다: Copyright © 2026 Orange SA All rights reserved.",
     "about.iso": "사용 모드의 픽토그램은 「ISO/IEC 11581-7:2024 사용자 인터페이스 아이콘 — 제7부: 상호작용 모드 설정에 사용되는 아이콘」에 등재되어 있습니다.",
     "about.explore": "모드 살펴보기",
+    "about.h2.address": "사이트 주소",
+    "about.address": "이 QR 코드를 스캔하여 스마트폰에서 사이트 주소를 받으세요.",
+    "about.qrAlt": "사용 모드 사이트로 연결되는 QR 코드",
   },
   zh: {
     "site.title": "使用模式",
@@ -646,6 +676,9 @@ const TRANSLATIONS: Record<LangCode, Dict> = {
     "about.orange": "Orange 标志归 Orange 所有:Copyright © 2026 Orange SA All rights reserved.",
     "about.iso": "使用模式的图标已收录于「ISO/IEC 11581-7:2024 用户界面图标 — 第 7 部分:用于设置交互模式的图标」。",
     "about.explore": "探索这些模式",
+    "about.h2.address": "网站地址",
+    "about.address": "扫描此二维码，即可在手机上获取网站地址。",
+    "about.qrAlt": "指向使用方式网站的二维码",
   },
 };
 

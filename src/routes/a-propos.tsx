@@ -64,6 +64,18 @@ function AboutPage() {
           {t("about.explore")}
         </Link>
       </div>
+
+      <h2 className="mt-12 text-2xl font-bold">{t("about.h2.address")}</h2>
+      <p className="mt-3">{t("about.address")}</p>
+      <p className="mt-6">
+        <img
+          src="/qr-code-modes-usages.png"
+          alt={t("about.qrAlt")}
+          width={820}
+          height={820}
+          className="h-60 w-60"
+        />
+      </p>
     </article>
   );
 }
